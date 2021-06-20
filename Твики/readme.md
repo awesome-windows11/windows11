@@ -9,6 +9,8 @@
 ### TaskBarLayout.bat
 Изменить расположение панели задач
 
+![изображение](https://user-images.githubusercontent.com/86190960/122673873-4a541700-d1db-11eb-86d2-6c54b22b5860.png)
+
 ### TaskBarSize.bat
 Изменить размер панели задач
 
