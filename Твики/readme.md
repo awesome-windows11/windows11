@@ -6,6 +6,9 @@
 
 ![изображение](https://user-images.githubusercontent.com/86190960/122673656-23e1ac00-d1da-11eb-9de7-69c8d0c04172.png)
 
+### TaskBarLayout
+Изменить расположение панели задач
+
 ### TaskBarSize.bat
 Изменить размер панели задач
 
