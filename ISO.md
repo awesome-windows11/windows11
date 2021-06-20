@@ -1,26 +1,27 @@
 # ISO образы
-## 21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso
-### ОРИГИНАЛЬНЫЙ ОБРАЗ - НЕ ГРУЗИТСЯ НА РЕАЛЬНЫЙ ПК
+## [21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso](https://yandex.ru/search/?text=3B6DA9194BA303AC7DBBF2E521716C809500919C&lr=213)
+ОРИГИНАЛЬНЫЙ ОБРАЗ - НЕ ГРУЗИТСЯ НА РЕАЛЬНЫЙ ПК
+<br>
+```
 Размер: 4874553344 байта (4648 МиБ)
-<br>
 CRC32: 48B651E0
-<br>
 CRC64: 92A6B5F8D18A819D
-<br>
 MD5: 179BFE07F7050093EE595DDD85A30201
-<br>
 SHA1: 3B6DA9194BA303AC7DBBF2E521716C809500919C
-<br>
 SHA256: B8426650C24A765C24083597A1EBA48D9164802BD273B678C4FEFE2A6DA60DCB
-<br>
 BLAKE2sp: 8BBEAC022C2B41EFC05EAE24AA465B6AABB61B80FBA6624CA83FD5EEA48F1A15
-
-[Скачать torrent файлы и другие сайты](https://yandex.ru/search/?text=3B6DA9194BA303AC7DBBF2E521716C809500919C&lr=213)
-
+```
 ## 21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso
-### ПАТЧ 1 ОТ РУССКИХ, ОСНОВАН НА 20H2 - НЕ ГРУЗИТСЯ НА РЕАЛЬНЫЙ ПК
+ПАТЧ 1 ОТ РУССКИХ, ОСНОВАН НА 20H2 - НЕ ГРУЗИТСЯ НА РЕАЛЬНЫЙ ПК
+```
 CRC32: 8565F86F
-<br>
 MD5: 586BCBDADBC8F76462A68D7BAF216320
-<br>
 SHA-1: AF6F9FB3FB9AA4578E6415227F6CCC222D22C3CD
+```
+## [Win11Patch2.iso](https://drive.google.com/file/d/1n8b4SR2pmLSm5Ppqe51U7SOVkrYLvmoS/view)
+ПАТЧ 2 ОТ АМЕРИКАНСКИХ, ЗАМЕНЁН ТОЛЬКО WIM ОБРАЗ  - ГРУЗИТСЯ НА РЕАЛЬНЫЙ ПК
+```
+CRC32: 4EDCA3B3
+MD5: 98BBE437B8CAF670318245B7E6228C20
+SHA-1: F3CDB7ACAF3F2A105EEA98B4C7EBC307B0470A59
+```
