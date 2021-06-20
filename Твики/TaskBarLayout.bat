@@ -2,7 +2,7 @@
 
 :nashalo
 Echo ============ Choose: ============
-Echo Left TaskBar - 0 (BUGS!) rem Вызывает баги, не использовать!
+Echo Left TaskBar - 0 (BUGS!) rem // Вызывает баги, не использовать!
 Echo Up TaskBar - 1
 Echo Right TaskBar - 2 (BUGS!)
 Echo Down TaskBar - 3
