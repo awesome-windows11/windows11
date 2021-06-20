@@ -1,17 +1,17 @@
 # Твики
 ## Скачать
 
-### StartMenu.bat
+### [StartMenu.bat](https://github.com/windows11help/windows11/blob/main/%D0%A2%D0%B2%D0%B8%D0%BA%D0%B8/StartMenu.bat)
 Переключение меню пуск в Windows 11
 
 ![изображение](https://user-images.githubusercontent.com/86190960/122673656-23e1ac00-d1da-11eb-9de7-69c8d0c04172.png)
 
-### TaskBarLayout.bat
+### [TaskBarLayout.bat](https://github.com/windows11help/windows11/blob/main/%D0%A2%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarLayout.bat)
 Изменить расположение панели задач
 
 ![изображение](https://user-images.githubusercontent.com/86190960/122673873-4a541700-d1db-11eb-86d2-6c54b22b5860.png)
 
-### TaskBarSize.bat
+### [TaskBarSize.bat](https://github.com/windows11help/windows11/blob/main/%D0%A2%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarSize.bat)
 Изменить размер панели задач
 
 ![изображение](https://user-images.githubusercontent.com/86190960/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png)
