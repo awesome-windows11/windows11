@@ -1,7 +1,7 @@
 # Твики
 Создайте файл с расширением .bat и скопируйте код из любого файла выше (один код помещается только в один файл!)
 <br>
-Или [скачайте все твики сразу](https://downgit.github.io/#/home?url=https://github.com/windows11help/windows11/tree/main/%D0%A2%D0%B2%D0%B8%D0%BA%D0%B8)
+Или [скачайте все твики сразу](https://github.com/windows11help/windows11/archive/refs/heads/main.zip)
 
 ### [StartMenu.bat](https://github.com/windows11help/windows11/blob/main/%D0%A2%D0%B2%D0%B8%D0%BA%D0%B8/StartMenu.bat)
 Переключение меню пуск в Windows 11
