@@ -51,3 +51,8 @@ LITE версия
 - Вырублена телеметрия
 - По умолчанию тёмная тема
 - Активируется через цифровую лицензию до Enterprise
+![изображение](https://user-images.githubusercontent.com/86190960/122674741-285c9380-d1df-11eb-8004-3998ec9e7631.png)
+![изображение](https://user-images.githubusercontent.com/86190960/122674747-2f83a180-d1df-11eb-99f5-44cdd86b823d.png)
+![изображение](https://user-images.githubusercontent.com/86190960/122674756-3d392700-d1df-11eb-9943-6649d0c15b82.png)
+![изображение](https://user-images.githubusercontent.com/86190960/122674766-44f8cb80-d1df-11eb-8127-bf53f70ea34b.png)
+
