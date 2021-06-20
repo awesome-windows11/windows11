@@ -4,7 +4,7 @@
 Echo ============ Choose: ============
 Echo Left TaskBar - 0 (BUGS!) rem // Вызывает баги, не использовать!
 Echo Up TaskBar - 1
-Echo Right TaskBar - 2 (BUGS!)
+Echo Right TaskBar - 2 (BUGS!) rem // Вызывает баги, не использовать!
 Echo Down TaskBar - 3
 Set /p vibor="Number: "
 
