@@ -17,7 +17,9 @@ if "%vibor%"=="0" (
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SecurityHealthService" /v Start /t REG_DWORD /d 4 /f
 ) else if "%vibor%"=="1" (
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SecurityHealthService" /v Start /t REG_DWORD /d 2 /f
-) else (Echo Wrong! & goto nashalo)
+) else (
+Echo Wrong! & goto nashalo
+)
 
 
 goto nashalo
