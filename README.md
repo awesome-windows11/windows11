@@ -12,6 +12,10 @@
 ```powershell
 Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
+## Как восстановить Windows Terminal?
+```powershell
+Get-AppXPackage *WindowsTerminal* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
+```
 ## Как удалить все встроенные UWP приложения?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
