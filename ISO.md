@@ -40,10 +40,10 @@ LITE версия
 ### Удалено:
 
 - Все Metro приложения кроме Store
-- OneDrive полностью
+- OneDrive
 - Microsoft Edge
-- Xbox в настройках
-- Cortana полностью
+- Xbox
+- Cortana
 
 Всё это можно скачать и установить потом отдельно
 
