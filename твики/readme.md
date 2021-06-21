@@ -18,7 +18,7 @@
 
 ![изображение](https://user-images.githubusercontent.com/86190960/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png)
 
-### [WindowsDefender.bat](https://github.com/windows11help/windows11/blob/main/%D0%A2%D0%B2%D0%B8%D0%BA%D0%B8/WindowsDefender.bat)
+### [WindowsDefender.bat](https://github.com/windows11help/windows11/tree/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/Defender)
 Безболезненное включение, отключение защитника
 
 ![image](https://user-images.githubusercontent.com/86190960/122683797-4b506d00-d20a-11eb-9a8d-203da16672a5.png)
