@@ -5,6 +5,7 @@
 - [ISO образы](https://github.com/windows11help/windows11/blob/main/ISO.md)
 - [Обои](https://github.com/windows11help/windows11/tree/main/wallpaper)
 
+# Быстрые Команды PowerShell 
 ## Как восстановить Microsoft Store?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```
