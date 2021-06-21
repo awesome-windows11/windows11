@@ -10,7 +10,7 @@
 ## Как восстановить Microsoft Store?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```
-Get-AppXProvisionedPackage -online | Remove-AppxProvisionedPackage -online
+Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
 ## Как удалить все встроенные UWP приложения?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
