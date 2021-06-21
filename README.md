@@ -10,3 +10,8 @@
 ```
 Get-AppXProvisionedPackage -online | Remove-AppxProvisionedPackage -online
 ```
+## Как удалить все встроенные UWP приложения?
+Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
+```
+Get-AppxPackage | Remove-AppxPackage
+ ```
