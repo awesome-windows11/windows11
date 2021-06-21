@@ -6,4 +6,5 @@
 - [Обои](https://github.com/windows11help/windows11/tree/main/wallpaper)
 
 ## Как восстановить Microsoft Store?
-Выполните команду: ``` Get-AppXProvisionedPackage -online | Remove-AppxProvisionedPackage -online ```
+Выполните команду:
+``` Get-AppXProvisionedPackage -online | Remove-AppxProvisionedPackage -online ```
