@@ -61,7 +61,7 @@ LITE версия
 
 **FILE: 21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_forCleanInstall_WithOUT_TPM2.0Check_WZT.ISO**
 <br>
-Оригинал установщик от Win10, внутри оригинальный install.esd от Win11 21996
+Оригинал установщик от Win10, внутри оригинальный install.esd от Win11 21996, устанавливается без ошибок 
 ```
 MD5: CD69DF2F453F8D6D1BE4D792B553F0ED
 SHA-1: 9CA4B38BDF287DEED5186143A58D6F9620B67DD5
@@ -69,7 +69,7 @@ SHA-256: 004AF7C47535A198651333D17FC2EF732F7210177B9DEDE1B35E0CCC982CB940
 ```
 **21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_With_appraiserresDLL_MOD_WZT.ISO**
 <br>
-Оригинал ISO 21996, кроме одного файла appraiserres.dll для установки
+Оригинал ISO 21996, кроме одного файла appraiserres.dll для установки, некоторые флешки не дают установить этот образ
 ```
 MD5: A2355081B3510E26536D9AAC20F5BA3D
 SHA-1: 799597BA3F9B47C252655FB08AB82D90BB897E2E
