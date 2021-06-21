@@ -56,10 +56,10 @@ LITE версия
 ![изображение](https://user-images.githubusercontent.com/86190960/122674747-2f83a180-d1df-11eb-99f5-44cdd86b823d.png)
 ![изображение](https://user-images.githubusercontent.com/86190960/122674756-3d392700-d1df-11eb-9943-6649d0c15b82.png)
 ![изображение](https://user-images.githubusercontent.com/86190960/122674766-44f8cb80-d1df-11eb-8127-bf53f70ea34b.png)
-
+ 
 ## [ESD образ и оригинальный ISO с одним изменённым файлом](https://www.mediafire.com/folder/85qmmyuw9axxw/Windows_11_(Sun_Valley)_Version_Dev_Internal_Preview_Build_21996.1.co_release.210529-1541)
-1. ISO win10 c пожатым в esd install.esd от Win11 ( 21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_forCleanInstall_WithOUT_TPM2.0Check_WZT.ISO)  
-2. оригинальный ISO с заменённой библиотечкой appraiserres.dll (21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_With_appraiserresDLL_MOD_WZT.ISO)
+1. ISO от win10 c прожатым в ESD install.esd от Win11 (21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_forCleanInstall_WithOUT_TPM2.0Check_WZT.ISO)  
+2. Оригинальный ISO, кроме одного файла appraiserres.dll для установки (21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_With_appraiserresDLL_MOD_WZT.ISO)
 
 **FILE: 21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_forCleanInstall_WithOUT_TPM2.0Check_WZT.ISO**
 ```
