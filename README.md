@@ -7,4 +7,6 @@
 
 ## Как восстановить Microsoft Store?
 Выполните команду:
-``` Get-AppXProvisionedPackage -online | Remove-AppxProvisionedPackage -online ```
+```
+Get-AppXProvisionedPackage -online | Remove-AppxProvisionedPackage -online
+```
