@@ -59,7 +59,6 @@ LITE версия
  
 ## [ESD образ и оригинальный ISO с одним изменённым файлом](https://www.mediafire.com/folder/85qmmyuw9axxw/Windows_11_(Sun_Valley)_Version_Dev_Internal_Preview_Build_21996.1.co_release.210529-1541)
 1. ISO от win10 c прожатым в ESD install.esd от Win11 (21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_forCleanInstall_WithOUT_TPM2.0Check_WZT.ISO)  
-2. Оригинальный ISO, кроме одного файла appraiserres.dll для установки (21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_With_appraiserresDLL_MOD_WZT.ISO)
 
 **FILE: 21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_forCleanInstall_WithOUT_TPM2.0Check_WZT.ISO**
 ```
@@ -67,6 +66,8 @@ MD5: CD69DF2F453F8D6D1BE4D792B553F0ED
 SHA-1: 9CA4B38BDF287DEED5186143A58D6F9620B67DD5
 SHA-256: 004AF7C47535A198651333D17FC2EF732F7210177B9DEDE1B35E0CCC982CB940
 ```
+2. Оригинальный ISO, кроме одного файла appraiserres.dll для установки (21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_With_appraiserresDLL_MOD_WZT.ISO)
+3. 
 **21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_With_appraiserresDLL_MOD_WZT.ISO**
 ```
 MD5: A2355081B3510E26536D9AAC20F5BA3D
