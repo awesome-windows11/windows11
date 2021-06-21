@@ -24,3 +24,8 @@
 Безболезненное включение, отключение защитника
 
 ![image](https://user-images.githubusercontent.com/86190960/122683797-4b506d00-d20a-11eb-9a8d-203da16672a5.png)
+
+### [InputSwitch.zip](https://github.com/windows11help/windows11/raw/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip)
+Отключить всплывающую панель языкуа
+
+![image](https://user-images.githubusercontent.com/86190960/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png)
