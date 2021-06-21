@@ -57,7 +57,7 @@ LITE версия
 ![изображение](https://user-images.githubusercontent.com/86190960/122674756-3d392700-d1df-11eb-9943-6649d0c15b82.png)
 ![изображение](https://user-images.githubusercontent.com/86190960/122674766-44f8cb80-d1df-11eb-8127-bf53f70ea34b.png)
  
-## [Сжатый образ в формате ESD и оригинальный ISO с одним изменённым файлом](https://www.mediafire.com/folder/85qmmyuw9axxw/Windows_11_(Sun_Valley)_Version_Dev_Internal_Preview_Build_21996.1.co_release.210529-1541)
+## [Сжатый образ в формате ESD и оригинальный ISO с одним изменённым файло](https://www.mediafire.com/folder/85qmmyuw9axxw/Windows_11_(Sun_Valley)_Version_Dev_Internal_Preview_Build_21996.1.co_release.210529-1541)
 
 **FILE: 21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_forCleanInstall_WithOUT_TPM2.0Check_WZT.ISO**
 <br>
