@@ -7,7 +7,7 @@
 <br>
 [Скачайте все твики сразу](https://github.com/windows11help/windows11/archive/refs/heads/main.zip)
 
-### [WindowsDefender](https://downgit.github.io/#/home?url=https://github.com/awesome-windows11/windows11/tree/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/WindowsDefender)
+### [Скачать WindowsDefender](https://downgit.github.io/#/home?url=https://github.com/awesome-windows11/windows11/tree/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/WindowsDefender)
 Безболезненное включение, отключение защитника
 
 ### [StartMenu.bat](https://github.com/windows11help/windows11/blob/main/%D0%A2%D0%B2%D0%B8%D0%BA%D0%B8/StartMenu.bat)
