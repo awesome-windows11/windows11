@@ -88,4 +88,3 @@ SHA-1: 71E046A362ACF22F7027750C4267DB9EB9CA198A
 - В параметрах теперь отображается:
 - Edition Windows 11 IoT Enterprise
 - В сборке две версии - mini & micro, обе без магазина, обе только En
-```
