@@ -1,9 +1,12 @@
 # Твики
-Создайте файл с расширением .bat и скопируйте код из любого файла выше (один код помещается только в один файл!)
+Для выполнения запустите файл "Start Script". В папке "PowerRun" хранится исходный код скрипта, и оболчка для получения прав NT-SYSTEM
 <br>
 Плюс использования именно таких твиков, а не сторонних программ в том что каждое действие можно отменить, и сделать систему такой, какой она была до его применения!
 <br>
 [Скачайте все твики сразу](https://github.com/windows11help/windows11/archive/refs/heads/main.zip)
+
+### [WindowsDefender.bat](https://downgit.github.io/#/home?url=https://github.com/awesome-windows11/windows11/tree/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/WindowsDefender)
+Безболезненное включение, отключение защитника
 
 ### [StartMenu.bat](https://github.com/windows11help/windows11/blob/main/%D0%A2%D0%B2%D0%B8%D0%BA%D0%B8/StartMenu.bat)
 Переключение меню пуск в Windows 11
@@ -19,9 +22,6 @@
 Изменить размер панели задач
 
 ![изображение](https://user-images.githubusercontent.com/86190960/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png)
-
-### [WindowsDefender.bat](https://downgit.github.io/#/home?url=https://github.com/awesome-windows11/windows11/tree/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/WindowsDefender)
-Безболезненное включение, отключение защитника
 
 ### [InputSwitch.zip](https://github.com/windows11help/windows11/raw/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip)
 Отключить / включить всплывающую панель языка
