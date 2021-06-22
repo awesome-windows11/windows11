@@ -13,6 +13,7 @@
 Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
 ## Как восстановить Windows Terminal?
+Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
 Get-AppXPackage *WindowsTerminal* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
