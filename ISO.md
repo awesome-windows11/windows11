@@ -75,3 +75,17 @@ MD5: A2355081B3510E26536D9AAC20F5BA3D
 SHA-1: 799597BA3F9B47C252655FB08AB82D90BB897E2E
 SHA-256: 8FA9F342534892CD3BB7F172948F27F2E0015E925939133E3EB06BA5A478B7B0
 ```
+
+## [Win11-IoT-Ent-x64-Mini 21996.1_en_xlx-v2.iso](https://disk.yandex.ru/d/jGImk2A0VZMJkg)
+LITE ВЕРСИЯ ОТ РУССКИХ
+```
+CRC32: A1D9712E
+MD5: 98E47384904915BEE110F365D5A9AF2C
+SHA-1: 71E046A362ACF22F7027750C4267DB9EB9CA198A
+```
+## Исправлено:
+- По ПКМ теперь можно создать текстовый файл.
+- В параметрах теперь отображается:
+- Edition Windows 11 IoT Enterprise
+- В сборке две версии - mini & micro, обе без магазина, обе только En
+```
