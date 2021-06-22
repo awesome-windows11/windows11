@@ -17,6 +17,11 @@ Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDeve
 ```powershell
 Get-AppXPackage *WindowsTerminal* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
+## Как восстановить Notepad (Блокнот)?
+Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
+```powershell
+Get-AppXPackage *Notepad* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
+```
 ## Как удалить все встроенные UWP приложения?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
