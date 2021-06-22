@@ -20,7 +20,7 @@
 
 ![изображение](https://user-images.githubusercontent.com/86190960/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png)
 
-### [WindowsDefender.bat](https://downgit.github.io/#/home?url=https://github.com/awesome-windows11/windows11/raw/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/WindowsDefender/Start%20Script.lnk)
+### [WindowsDefender.bat](https://downgit.github.io/#/home?url=https://github.com/awesome-windows11/windows11/tree/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/WindowsDefender)
 Безболезненное включение, отключение защитника
 
 ### [InputSwitch.zip](https://github.com/windows11help/windows11/raw/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip)
