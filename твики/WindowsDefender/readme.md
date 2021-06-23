@@ -1,3 +1,5 @@
+# Безболезненное включение, отключение защитника
+[Скачать](https://downgit.github.io/#/home?url=https://github.com/awesome-windows11/windows11/tree/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/WindowsDefender)
 Для эмуляции повышенных прав и запуска твика, дважды нажмите на файл "**StartScript.bat**". 
 <br>
 В файле "**Script.bat**" хранится исходный код скрипта. Файл **devxexec.exe** создаёт оболочку повышенных прав
