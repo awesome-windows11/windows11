@@ -8,6 +8,8 @@
 
 # FAQ
 ## Где хранятся ярлыки из меню пуск?
+![image](https://user-images.githubusercontent.com/86190960/123178946-fbcfa280-d490-11eb-97d2-5b96aa2214f4.png)
+
 Перейдите по пути:
 ```
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs
