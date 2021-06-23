@@ -16,6 +16,8 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs
 ```
 # Быстрые Команды PowerShell 
 ## Как восстановить Microsoft Store?
+![image](https://user-images.githubusercontent.com/86190960/123178975-0db14580-d491-11eb-9531-9e49c748e671.png)
+
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
 Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
