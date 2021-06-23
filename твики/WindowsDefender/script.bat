@@ -1,6 +1,4 @@
 @echo off
-:: В Windows 11 групповые политики уже не работают, приходится принудительно отключать службу защитника чтобы отключить его
-:: Служба отключиться после перезагрузки
 
 :: Даём доступ к реестру
 echo HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SecurityHealthService [1] >> %TEMP%\reg_perm.LOG
