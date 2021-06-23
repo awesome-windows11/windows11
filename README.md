@@ -7,13 +7,6 @@
 - [Иконки](https://github.com/windows11help/windows11/tree/main/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8)
 
 # FAQ
-## Где хранятся ярлыки из меню пуск?
-![image](https://user-images.githubusercontent.com/86190960/123178946-fbcfa280-d490-11eb-97d2-5b96aa2214f4.png)
-
-Перейдите по пути:
-```
-C:\ProgramData\Microsoft\Windows\Start Menu\Programs
-```
 # Быстрые Команды PowerShell 
 ## Как восстановить Microsoft Store?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
