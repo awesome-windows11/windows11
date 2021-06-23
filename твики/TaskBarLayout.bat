@@ -2,10 +2,10 @@
 
 :nashalo
 Echo ============ Choose: ============
-; Вызывает баги, не использовать!
+:: Вызывает баги, не использовать!
 Echo Left TaskBar - 0 (BUGS!)
 Echo Up TaskBar - 1
-; Вызывает баги, не использовать!
+:: Вызывает баги, не использовать!
 Echo Right TaskBar - 2 (BUGS!)
 Echo Down TaskBar - 3
 Set /p vibor="Number: "
