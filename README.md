@@ -6,7 +6,7 @@
 - [Обои](https://github.com/windows11help/windows11/tree/main/wallpaper)
 - [Иконки](https://github.com/windows11help/windows11/tree/main/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8)
 
-# Быстрые Команды PowerShell 
+# FAQ
 ## Как восстановить Microsoft Store?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
