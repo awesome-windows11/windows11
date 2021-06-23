@@ -1,10 +1,4 @@
 # Твики
-Для эмуляции повышенных прав и запуска твика, дважды нажмите на файл "**StartScript.bat**". 
-<br>
-В файле "**Script.bat**" хранится исходный код скрипта. Файл **devxexec.exe** создаёт оболочку повышенных прав
-<br><br>
-Весь исходный код доступен для редактирования и создания своих твиков, безопаснее чем если бы Вы использовали сторонее ПО
-<br>
 [Скачайте все твики сразу](https://github.com/windows11help/windows11/archive/refs/heads/main.zip)
 
 ### [WindowsDefender](https://downgit.github.io/#/home?url=https://github.com/awesome-windows11/windows11/tree/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/WindowsDefender)
