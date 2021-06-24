@@ -9,7 +9,7 @@
 
 Тоже название опции, но только на русском языке:
 
-![image](https://user-images.githubusercontent.com/86190960/123308871-e314ca80-d52c-11eb-84da-14d5a7985ed2.png)
+<a href="https://user-images.githubusercontent.com/86190960/123308871-e314ca80-d52c-11eb-84da-14d5a7985ed2.png"><img src="https://i.ibb.co/zZ92tbj/image.png" alt="image" border="0"></a>
 
 Её описание:
 
