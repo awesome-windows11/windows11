@@ -9,7 +9,7 @@
 ### [TaskBarLayout.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarLayout.bat)
 Изменить расположение панели задач
 
-![изображение](https://user-images.githubusercontent.com/86190960/122673873-4a541700-d1db-11eb-86d2-6c54b22b5860.png)
+<a href="https://user-images.githubusercontent.com/86190960/122673873-4a541700-d1db-11eb-86d2-6c54b22b5860.png"><img src="https://i.ibb.co/LvMgf8j/122673873-4a541700-d1db-11eb-86d2-6c54b22b5860.png" alt="122673873-4a541700-d1db-11eb-86d2-6c54b22b5860" border="0"></a>
 
 ### [TaskBarSize.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarSize.bat)
 Изменить размер панели задач
