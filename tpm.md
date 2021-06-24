@@ -40,4 +40,9 @@
 
 ![image](https://user-images.githubusercontent.com/86190960/123309813-0db35300-d52e-11eb-89b8-f747615032a3.png)
 
+Если у вас нет TPM, то программа выдаст ошибку:
+
+![image](https://user-images.githubusercontent.com/86190960/123314979-dfd10d00-d533-11eb-995a-02030faac6b1.png)
+
+
 
