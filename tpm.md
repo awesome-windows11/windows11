@@ -13,7 +13,7 @@
 
 Её описание:
 
-![image](https://user-images.githubusercontent.com/86190960/123308883-e740e800-d52c-11eb-87d3-3a51563e41e3.png)
+<a href="https://user-images.githubusercontent.com/86190960/123308883-e740e800-d52c-11eb-87d3-3a51563e41e3.png"><img src="https://i.ibb.co/bghkK5h/image.png" alt="image" border="0"></a>
 
 Поставьте настройку в режим **Enabled** и сохраните изменения в UEFI.
 <br>
