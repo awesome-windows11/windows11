@@ -5,10 +5,9 @@
 # TPM 2.0 как включить?
 Эта опция может быть во вкладке UEFI *Security*, но у нас эта опция оказалась во вкладке *System Info.*:
 
-![image](https://user-images.githubusercontent.com/86190960/123308786-c8425600-d52c-11eb-8614-8bf3779860c0.png)
+<a href="https://user-images.githubusercontent.com/86190960/123308786-c8425600-d52c-11eb-8614-8bf3779860c0.png"><img src="https://i.ibb.co/42z201s/image.png" alt="image" border="0"></a>
 
 Тоже название опции, но только на русском языке:
-
 
 ![image](https://user-images.githubusercontent.com/86190960/123308871-e314ca80-d52c-11eb-84da-14d5a7985ed2.png)
 
