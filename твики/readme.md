@@ -19,4 +19,4 @@
 ### [InputSwitch.zip](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip)
 Отключить / включить всплывающую панель языка
 
-![image](https://user-images.githubusercontent.com/86190960/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png)
+<a href="https://user-images.githubusercontent.com/86190960/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png"><img src="https://i.ibb.co/KWhVPgj/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png" alt="122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9" border="0"></a>
