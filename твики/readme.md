@@ -1,6 +1,4 @@
 # Твики
-[Скачайте все твики сразу](https://github.com/windows11help/windows11/archive/refs/heads/main.zip)
-
 ### [CustomizeStartMenu.bat](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/CustomizeStartMenu.bat)
 Кастоматизация меню пуск
 
@@ -23,3 +21,5 @@
 Отключить / включить всплывающую панель языка
 
 <a href="https://user-images.githubusercontent.com/86190960/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png"><img src="https://i.ibb.co/KWhVPgj/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png" alt="122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9" border="0"></a>
+
+[Скачайте все твики сразу](https://github.com/windows11help/windows11/archive/refs/heads/main.zip)
