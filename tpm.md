@@ -33,6 +33,9 @@ TPM модуль - сам по себе не отдельная функция. 
 ## Ещё вариант:
 <a href="https://user-images.githubusercontent.com/86190960/123417486-7d721e00-d5c0-11eb-9c5e-d279c7f4f886.png"><img src="https://i.ibb.co/kDk6k0T/image.png" alt="image" border="0"></a>
 
+## Бывает и вот так:
+![image](https://user-images.githubusercontent.com/86190960/123448230-5b3dc780-d5e3-11eb-8474-408fb2573856.png)
+
 ## Важно!
 Иногда UEFI включён в режим "Easy Mode", и некоторые настройки могут не появиться. Тогда переключите его в режим "Advanced Mode" (у нас это была клавиша F9, иногда F7) и поищите настройки снова.
 
