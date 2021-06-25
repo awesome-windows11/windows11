@@ -10,5 +10,5 @@ https://www.sordum.org/downloads/?st-defender-control
 ## Firefox
 https://www.mozilla.org/ru/firefox/all/#product-desktop-release
 
-## wuMgr
+## Windows Update Manager for Windows
 https://github.com/DavidXanatos/wumgr
