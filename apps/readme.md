@@ -10,6 +10,9 @@ https://www.sordum.org/downloads/?st-defender-control
 ## Firefox
 https://www.mozilla.org/ru/firefox/all/#product-desktop-release
 
+## Firefox Portable
+https://github.com/UndertakerBen/PorFirefoxUpd
+
 ## Windows Update Manager for Windows
 https://github.com/DavidXanatos/wumgr
 
