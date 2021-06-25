@@ -1,5 +1,5 @@
 # Твики
-### [CustomizeStartMenu.bat](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/ExplorerClean.bat)
+### [ExplorerClean.bat](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/ExplorerClean.bat)
 Очистка проводника от пользовательских папок
 
 ### [CustomizeStartMenu.bat](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/CustomizeStartMenu.bat)
