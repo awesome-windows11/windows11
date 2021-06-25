@@ -9,3 +9,6 @@ BLAKE2sp: 09B5881F54C6B740F13F55CBC619D9DB1CD16C3D9ED86A37E80C8DE4F43B3430
 
 ```
 ![image](https://user-images.githubusercontent.com/86190960/123460398-3c91fd80-d5f0-11eb-87e0-4638c837202d.png)
+
+# Win10_20H2_v2_English_x64.iso
+![image](https://user-images.githubusercontent.com/86190960/123485104-21d08080-d612-11eb-89a8-83eadbfc8b26.png)
