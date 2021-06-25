@@ -27,6 +27,9 @@ TPM модуль - сам по себе не отдельная функция. 
 
 <a href="https://user-images.githubusercontent.com/86190960/123311497-ecebfd00-d52f-11eb-8f29-8a9fd19d781c.png"><img src="https://i.ibb.co/PrQcqSV/image.png" alt="image" border="0"></a>
 
+![image](https://user-images.githubusercontent.com/86190960/123417486-7d721e00-d5c0-11eb-9c5e-d279c7f4f886.png)
+
+
 Тогда поставьте напротив значение **PTT**
 <br>
 После установки TPM 2.0 комп перезагружается два раза, а не один. Не пугайтесь, это естественная реакция. Причина правда нам неизвестна.
