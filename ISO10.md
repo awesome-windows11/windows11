@@ -1,4 +1,4 @@
-# Win10_20H2_v2_English_x64.iso
+# Win10_20H2_English_x64.iso
 ```
 Size: 6076022 КБ (5.79 ГБ)
 CRC32: D2ECE95D
