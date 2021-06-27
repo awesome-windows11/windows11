@@ -5,7 +5,7 @@ Windows 11 также может быть установлена **без** эт
 
 Это руководство подходит для Windows 11 21H2 и выше.
 
-1) [Скачайте REG файл](https://github.com/awesome-windows11/windows11/blob/main/bypass.reg)
+1) [Скачайте REG файл](http://windows11.now.sh/bypass.reg)
 # 2) Теперь установите Windows 11 и используйте reg-файл для обхода
 ![image](https://user-images.githubusercontent.com/86190960/123542049-29963f00-d750-11eb-8b3b-0f50b28f22c9.png)
 
