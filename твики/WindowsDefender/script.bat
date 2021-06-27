@@ -12,6 +12,7 @@ Echo On Windows Defender - 1
 Set /p vibor="Number: "
 
 if "%vibor%"=="0" (
+:: Служба которая висит в трее панели задач (значок защитника)
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SecurityHealthService" /v Start /t REG_DWORD /d 4 /f
 :: Служба которая сканирует файлы и убивает HDD
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinDefend" /v Start /t REG_DWORD /d 4 /f
