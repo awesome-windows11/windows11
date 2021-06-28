@@ -1,7 +1,7 @@
 ## Paint.NET
 https://www.dotpdn.com/downloads/pdn.html
 
-![image](https://user-images.githubusercontent.com/86190960/123706874-86d5e180-d871-11eb-9599-66dabbdb0752.png) Notion - https://www.notion.so/desktop/windows/download
+![image](https://user-images.githubusercontent.com/86190960/123706996-b4bb2600-d871-11eb-9ce2-ff3b857c8212.png) Notion - https://www.notion.so/desktop/windows/download
 
 ## Snappy Driver Installer
 https://sdi-tool.org/download/
