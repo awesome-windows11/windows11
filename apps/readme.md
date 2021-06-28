@@ -1,4 +1,4 @@
-## ![image](https://user-images.githubusercontent.com/86190960/123707295-272c0600-d872-11eb-98f1-75de9a42d6ff.png)  Paint.NET
+## ![image](https://www.getpaint.net/favicon.ico)  Paint.NET
 https://www.dotpdn.com/downloads/pdn.html
 
 ## ![image](https://user-images.githubusercontent.com/86190960/123706996-b4bb2600-d871-11eb-9ce2-ff3b857c8212.png) Notion
