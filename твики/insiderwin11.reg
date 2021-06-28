@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 ; Включаем получение инсайдерских сборок Windows 11, если ваш компьютер не соответствует минимальным критериям
-; download https://windows11.now.sh/твики/insiderwin11.reg
+:: download https://windows11.now.sh/твики/insiderwin11.reg
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsSelfHost\UI\Selection]
 "UIBranch"="Dev"
 "ContentType"="Mainline"
