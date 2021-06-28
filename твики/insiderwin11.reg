@@ -4,3 +4,8 @@ Windows Registry Editor Version 5.00
 "UIBranch"="Dev"
 "ContentType"="Mainline"
 "Ring"="External"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsSelfHost\Applicability]
+"BranchName"="Dev" 
+"ContentType"="Mainline" 
+"Ring key"=External
