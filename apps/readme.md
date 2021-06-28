@@ -7,6 +7,9 @@ https://sdi-tool.org/download/
 ## Defender Control
 https://www.sordum.org/downloads/?st-defender-control
 
+## Cent Browser
+http://static.centbrowser.com/win_stable/
+
 ## Firefox
 https://www.mozilla.org/ru/firefox/all/#product-desktop-release
 
