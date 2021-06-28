@@ -1,5 +1,6 @@
 Windows Registry Editor Version 5.00
-
+; Установите Windows 11 даже без TPM и безопасной загрузки
+; Download File: http://windows11.now.sh/bypass.reg
 [HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig]
 "BypassTPMCheck"=dword:00000001
 "BypassSecureBootCheck"=dword:00000001
