@@ -7,7 +7,7 @@ https://www.notion.so/desktop/windows/download
 ## Snappy Driver Installer
 https://sdi-tool.org/download/
 
-## Defender Control
+## ![image](https://www.sordum.org/wp-content/uploads/2021/01/defender_control-220x162.png) Defender Control
 https://www.sordum.org/downloads/?st-defender-control
 
 ## Cent Browser
