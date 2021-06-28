@@ -1,5 +1,5 @@
 Windows Registry Editor Version 5.00
-
+; Вкюлчаем получение инсайдерских сборок Windows 11, если ваш компьютер не соответствует минимальным критериям
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsSelfHost\UI\Selection]
 "UIBranch"=sz:Dev
 "ContentType"=sz:Mainline
