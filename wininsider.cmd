@@ -32,12 +32,12 @@ cls
 set "choice="
 echo OfflineInsiderEnroll v%scriptver%
 echo.
-echo 1 - Enroll to Dev Channel
-echo 2 - Enroll to Beta Channel
-echo 3 - Enroll to Release Preview Channel
+echo Dev: 1
+echo Beta: 2
+echo Release: 3
 echo.
-echo 4 - Stop receiving Insider Preview builds
-echo 5 - Quit without making any changes
+echo Stop Insider: 4
+echo Quit: 5
 echo.
 set /p choice="Choice: "
 echo.
