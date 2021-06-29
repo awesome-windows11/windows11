@@ -1,4 +1,4 @@
-## ![image](https://www.getpaint.net/favicon.ico)  Paint.NET
+## 🎨 Paint.NET
 https://www.dotpdn.com/downloads/pdn.html
 
 ## ![image](https://www.notion.so/front-static/favicon.ico) Notion
