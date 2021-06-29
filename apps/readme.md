@@ -17,7 +17,7 @@ https://www.virtualbox.org/wiki/Downloads
 http://static.centbrowser.com/win_stable/
 
 ## VSCode
-https://code.visualstudio.com/#alt-downloads
+https://code.visualstudio.com/docs/?dv=win64
 
 ## Firefox
 https://www.mozilla.org/ru/firefox/all/#product-desktop-release
