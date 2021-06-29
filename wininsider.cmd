@@ -1,5 +1,4 @@
 @echo off
-echo При поддержке группы: https://vk.com/flighthub
 :: Download file https://windows11.now.sh/wininsider.cmd
 for /f "tokens=6 delims=[]. " %%i in ('ver') do set build=%%i
 
@@ -31,6 +30,7 @@ IF %ERRORLEVEL% EQU 0 set "FlightSigningEnabled=1"
 :CHOICE_MENU
 cls
 set "choice="
+echo vk.com/flighthub
 echo OfflineInsiderEnroll v%scriptver%
 echo.
 echo Dev: 1
