@@ -16,6 +16,9 @@ https://www.virtualbox.org/wiki/Downloads
 ## CentBrowser
 http://static.centbrowser.com/win_stable/
 
+## VSCode
+https://code.visualstudio.com/#alt-downloads
+
 ## Firefox
 https://www.mozilla.org/ru/firefox/all/#product-desktop-release
 
