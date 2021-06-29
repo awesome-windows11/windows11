@@ -7,10 +7,10 @@ https://www.notion.so/desktop/windows/download
 ## Snappy Driver Installer
 https://sdi-tool.org/download/
 
-## Defender Control
+## 🛡 Defender Control
 https://www.sordum.org/downloads/?st-defender-control
 
-## VirtualBox
+## 🖥 VirtualBox
 https://www.virtualbox.org/wiki/Downloads
 
 ## CentBrowser
