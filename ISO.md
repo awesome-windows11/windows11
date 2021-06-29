@@ -12,7 +12,7 @@ BLAKE2sp: A711DEAD7ACB44378DABD19CC5E0E5B7691D1AA6C23929C0283B94E9640DCA4D
 ```
 ## [22000.51.210617-2050.CO_RELEASE_SVC_PROD2_CLIENTMULTICOMBINED_UUP_X64FRE_RU-RU.ISO](https://disk.yandex.ru/d/prxuwLYoHVCvbQ)
 Русский оригинальный образ с поддержкой всех редакций. Установка на любой пк: https://github.com/awesome-windows11/windows11/blob/main/bypass.md
-<br>
+
 magnet:?xt=urn:btih:da481638ab0f2797c9c81b9579af2b6a86278724&dn=22000.51.210617-2050.CO_RELEASE_SVC_PROD2_CLIENTMULTICOMBINED_UUP_X64FRE_NETFX_RU-RU.ISO
 ```
 Размер: 5519771648 бит (5264 МиБ) 
