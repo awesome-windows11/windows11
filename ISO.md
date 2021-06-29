@@ -2,7 +2,8 @@
 ## [22000.51.210617-2050.CO_RELEASE_SVC_PROD2_CLIENTPRO_OEMRET_X64FRE_EN-US.ISO](https://drive.google.com/drive/folders/19bR7Ayz6XJyeJ86y-Xs_OeSXrcv_Pcoo?usp=sharing)
 Оригинальный образ. Установка на любой пк: https://github.com/awesome-windows11/windows11/blob/main/bypass.md
 ```
-Размер: 5305425920 bytes (5059 MiB)
+Размер: 5305425920 байта (5059 МиБ)
+Хэш может отличаться у разных сайтов, для инсайдерских сборок это нормально!
 CRC32: 35A2FFA6
 CRC64: E7935B6D85BF8496
 SHA256: D30C04F9FEED866FB1B68F44229E5E648502984957783D59E93A34E0F9F09029
