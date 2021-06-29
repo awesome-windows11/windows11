@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/86190960/123780800-3f386f80-d8dc-11eb-9a8b-85d2dd089c2c.png)
 
-4) Выберите Custom Install и поставьте на любой диск
+4) Выберите Custom Install и поставьте на диск С: (или же любой другой)
 
 ![image](https://user-images.githubusercontent.com/86190960/123780979-65f6a600-d8dc-11eb-939c-6d7c5e7a6c9e.png)
 
