@@ -12,7 +12,7 @@ BLAKE2sp: A711DEAD7ACB44378DABD19CC5E0E5B7691D1AA6C23929C0283B94E9640DCA4D
 ```
 # Windows 11 21996.1
 ## [21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso](https://yandex.ru/search/?text=3B6DA9194BA303AC7DBBF2E521716C809500919C&lr=213)
-ОРИГИНАЛЬНЫЙ ОБРАЗ - НЕ ГРУЗИТСЯ НА РЕАЛЬНЫЙ ПК
+Оригинальный образ. Установка на любой пк: https://github.com/awesome-windows11/windows11/blob/main/bypass.md
 <br>
 ```
 Размер: 4874553344 байта (4648 МиБ)
