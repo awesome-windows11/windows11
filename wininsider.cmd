@@ -1,4 +1,5 @@
 @echo off
+echo При поддержке группы: https://vk.com/flighthub
 :: Download file https://windows11.now.sh/wininsider.cmd
 for /f "tokens=6 delims=[]. " %%i in ('ver') do set build=%%i
 
