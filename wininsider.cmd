@@ -84,8 +84,8 @@ goto :EOF
 
 :ADD_INSIDER_CONFIG
 rem Установите Windows 11 даже без TPM и безопасной загрузки
-reg add "KEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig" /t REG_DWORD /v BypassTPMCheck /d 1 /f
-reg add "KEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig" /t REG_DWORD /v BypassSecureBootCheck /d 1 /f
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig" /t REG_DWORD /v BypassTPMCheck /d 1 /f
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig" /t REG_DWORD /v BypassSecureBootCheck /d 1 /f
 
 
 rem Включаем получение инсайдерских сборок Windows 11, если ваш компьютер не соответствует минимальным критериям
