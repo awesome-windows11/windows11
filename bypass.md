@@ -6,7 +6,7 @@
 
 Например у нас: https://drive.google.com/drive/folders/19bR7Ayz6XJyeJ86y-Xs_OeSXrcv_Pcoo
 
-3) Откройте ISO образ, запустите файл по пути `sources\setup.exe\`
+3) Откройте ISO образ, запустите файл по пути `sources\setup.exe`
 
 ![image](https://user-images.githubusercontent.com/86190960/123780800-3f386f80-d8dc-11eb-9a8b-85d2dd089c2c.png)
 
