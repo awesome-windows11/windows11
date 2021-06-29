@@ -8,7 +8,7 @@
 ## 📒 Содержание
 - [🛠️ Твики](https://github.com/windows11help/windows11/tree/main/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8)
 - [💿 ISO образы](https://github.com/windows11help/windows11/blob/main/ISO.md) (если хотите установить Windows 11)
-- [👨‍💻 Обход TPM и Security Boot для установки Windows 11](https://github.com/awesome-windows11/windows11/blob/main/bypass.md)
+- [👨‍💻 Установка Windows 11 22000.51 на ЛЮБОЙ ПК без флешки](https://github.com/awesome-windows11/windows11/blob/main/bypass.md)
 - [❓ Помощь](https://github.com/awesome-windows11/windows11/blob/main/faq.md)
 - [🖼️ Обои](https://github.com/windows11help/windows11/tree/main/wallpaper)
 - [🖌️ Иконки](https://github.com/awesome-windows11/windows11/tree/main/icon)
