@@ -7,7 +7,7 @@
 > 
 > Custom Install позволяет установить систему напрямую, не проверяв дополнительные файлы, к тому же позволяет загрузиться без флешки
  
-1) [Выберите dev сборку в скрипте](https://windows11.now.sh/wininsider.cmd)
+1) [Установите получение DEV сборок в скрипте одним кликом](https://windows11.now.sh/wininsider.cmd)
 2) [Скачайте любой ISO образ Windows 11](https://yandex.ru/search/?text=22000%2051%20210617%202050%20co%20release%20&lr=213)
 3) Откройте ISO образ, запустите файл по пути `sources\setup.exe`
 
