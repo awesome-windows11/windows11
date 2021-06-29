@@ -1,5 +1,5 @@
 @echo off
-
+; Download file https://windows11.now.sh/wininsider.cmd
 ::Borrowed from @abbodi1406's scripts
 for /f "tokens=6 delims=[]. " %%i in ('ver') do set build=%%i
 
