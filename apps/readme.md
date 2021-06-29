@@ -19,6 +19,9 @@ https://www.mozilla.org/ru/firefox/all/#product-desktop-release
 ## Firefox Portable
 https://github.com/UndertakerBen/PorFirefoxUpd
 
+## ![image](https://cdn2.portableapps.com/qBittorrentPortable_128.png) qBittorrent Portable
+https://portableapps.com/apps/internet/qbittorrent_portable
+
 ## Windows Update Manager for Windows
 https://github.com/DavidXanatos/wumgr
 
