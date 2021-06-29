@@ -1,4 +1,3 @@
-# ISO образы
 # Windows 11 22000.51
 ## [22000.51.210617-2050.CO_RELEASE_SVC_PROD2_CLIENTPRO_OEMRET_X64FRE_EN-US.ISO](https://drive.google.com/drive/folders/19bR7Ayz6XJyeJ86y-Xs_OeSXrcv_Pcoo?usp=sharing)
 Оригинальный образ. Установка на любой пк: https://github.com/awesome-windows11/windows11/blob/main/bypass.md
