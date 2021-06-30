@@ -1,5 +1,4 @@
 @echo off
-
 :: Даём доступ к реестру
 echo HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SecurityHealthService [1] >> %TEMP%\reg_perm.LOG
 regini "%TEMP%/reg_perm.LOG"
