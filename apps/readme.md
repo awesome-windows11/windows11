@@ -31,5 +31,8 @@ https://portableapps.com/apps/internet/qbittorrent_portable
 ## Windows Update Manager for Windows
 https://github.com/DavidXanatos/wumgr
 
+## Cloudflare WARP
+https://1.1.1.1/
+
 ## Chrlauncher Chromium
 https://github.com/henrypp/chrlauncher
