@@ -19,7 +19,7 @@ https://www.notion.so/desktop/windows/download
 ## ![image](https://cdn.icon-icons.com/icons2/256/PNG/32/driver_girl_27328.png) Snappy Driver Installer
 https://sdi-tool.org/download/
 
-## 🛡 Defender Control
+## ![image](https://cdn.icon-icons.com/icons2/80/PNG/32/windows_defender_15358.png) Defender Control
 https://www.sordum.org/downloads/?st-defender-control
 
 ## 🖥 VirtualBox
