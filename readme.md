@@ -1,6 +1,8 @@
 # Windows 11 твикеры, скачать
 > Первая помощь в настройке, твики и ISO образы
 
+https://windows11.now.sh
+
 ⬇️ Download Files: https://1drv.ms/f/s!AhusSLWjGpTDghZVw3iu3wpvNCh4
 <br>
 ⬇️ Скачать все скрипты: https://github.com/windows11help/windows11/archive/refs/heads/main.zip
