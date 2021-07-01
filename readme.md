@@ -13,5 +13,5 @@
 - [🖼️ Обои](https://github.com/windows11help/windows11/tree/main/wallpaper)
 - [🖌️ Иконки](https://github.com/awesome-windows11/windows11/tree/main/icon)
 - [💻 TPM 2.0 и его включение для Windows 11](https://github.com/awesome-windows11/windows11/blob/main/tpm.md)
-- [Программа покажет ПОЧЕМУ ИМЕННО ПК не может обновиться до Windows 11](https://github.com/awesome-windows11/windows11/raw/main/apps/WhyNotWin11.exe)
+- [Программа покажет ПОЧЕМУ ИМЕННО ПК не может обновиться до Windows 11](https://github.com/rcmaehl/WhyNotWin11/releases/download/2.3.0.3/WhyNotWin11.exe)
 - [wininsider.cmd](https://windows11.now.sh/wininsider.cmd) - получение Windows Insider напрямую, без аккаунтов 
