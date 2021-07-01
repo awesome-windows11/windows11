@@ -16,7 +16,7 @@ https://www.dotpdn.com/downloads/pdn.html
 ## ![image](https://cdn.icon-icons.com/icons2/2389/PNG/32/notion_logo_icon_145025.png) Notion
 https://www.notion.so/desktop/windows/download
 
-## ![image](https://cdn.icon-icons.com/icons2/32/PNG/128/driver_girl_27328.png) Snappy Driver Installer
+## ![image](https://cdn.icon-icons.com/icons2/256/PNG/32/driver_girl_27328.png) Snappy Driver Installer
 https://sdi-tool.org/download/
 
 ## 🛡 Defender Control
