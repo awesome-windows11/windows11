@@ -1,4 +1,6 @@
 # Обои
+Windows 11: https://1drv.ms/f/s!AhusSLWjGpTDhBpVw3iu3wpvNCh4
+
 Стандартно обои хранятся по пути:
 ```
 C:\Windows\Web
