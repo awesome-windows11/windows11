@@ -1,4 +1,4 @@
-[Пак всех иконок из Windows 11](https://1drv.ms/f/s!AhusSLWjGpTDefvNnLrN21TjXc0)
+[Пак всех иконок из Windows 11](https://1drv.ms/u/s!AhusSLWjGpTDgUs6bRTYd7KI1AFc?e=5unDff)
 <br>
 [shell32.dll](https://github.com/awesome-windows11/windows11/blob/main/icon/shell32.dll?raw=true) - оригинальный файл из папки System32 в Windows 11
 
