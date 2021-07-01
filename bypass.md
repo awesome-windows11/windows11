@@ -1,7 +1,7 @@
 # Установите Windows 11 22000.51 на старом ПК без флешки
 > Продвинутый способ для чистой установки, с сохранением файлов
 > 
-> ISO образ Windows 11: https://drive.google.com/drive/folders/19bR7Ayz6XJyeJ86y-Xs_OeSXrcv_Pcoo
+> ISO образ Windows 11: https://1drv.ms/f/s!AhusSLWjGpTDc_vNnLrN21TjXc0
 > 
 > Скачать UUP Windows 11: https://uupdump.net/download.php?id=e012464d-2c1e-4c36-9051-caa99ff6f213&pack=ru-ru&edition=core;professional
 > 
