@@ -73,6 +73,3 @@ TPM модуль - сам по себе не отдельная функция. 
 Если у вас нет TPM, то программа выдаст ошибку:
 
 ![image](https://user-images.githubusercontent.com/86190960/123314979-dfd10d00-d533-11eb-995a-02030faac6b1.png)
-
-
-
