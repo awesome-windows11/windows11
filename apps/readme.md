@@ -28,8 +28,8 @@ https://www.virtualbox.org/wiki/Downloads
 ## CentBrowser
 http://static.centbrowser.com/win_stable/
 
-## VSCode
-https://code.visualstudio.com/docs/?dv=win64
+## VSCodium
+https://github.com/VSCodium/vscodium/releases
 
 ## Firefox
 https://www.mozilla.org/ru/firefox/all/#product-desktop-release
