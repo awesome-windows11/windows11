@@ -31,12 +31,6 @@ http://static.centbrowser.com/win_stable/
 ## ![image](https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_vscode_icon_130084.png) VSCodium
 https://github.com/VSCodium/vscodium/releases
 
-## Firefox
-https://www.mozilla.org/ru/firefox/all/#product-desktop-release
-
-## Firefox Portable
-https://github.com/UndertakerBen/PorFirefoxUpd
-
 ## qBittorrent Portable
 https://portableapps.com/apps/internet/qbittorrent_portable
 
