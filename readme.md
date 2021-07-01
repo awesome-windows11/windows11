@@ -6,7 +6,6 @@
 - [💿 ISO](https://github.com/windows11help/windows11/blob/main/ISO.md) - образы если хотите установить Windows 11
 - [👨‍💻 bypass.md](https://github.com/awesome-windows11/windows11/blob/main/bypass.md) - установка Windows 11 22000.51 на ЛЮБОЙ ПК без флешки
 - [❓ faq.md](https://github.com/awesome-windows11/windows11/blob/main/faq.md) - помощь
-- [🖼️ wallpaper.md](https://github.com/awesome-windows11/windows11/blob/main/wallpaper.md) - обои
 - [🖌️ icon](https://github.com/awesome-windows11/windows11/tree/main/icon) - иконки
 - [💻 tpm.md](https://github.com/awesome-windows11/windows11/blob/main/tpm.md) - TPM 2.0 и его включение для Windows 11
 - [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases/download/2.3.0.3/) - программа покажет ПОЧЕМУ ИМЕННО ПК не может обновиться до Windows 11
