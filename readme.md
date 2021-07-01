@@ -9,7 +9,7 @@
 - [🖼️ wallpaper.md](https://github.com/awesome-windows11/windows11/blob/main/wallpaper.md) - обои
 - [🖌️ icon](https://github.com/awesome-windows11/windows11/tree/main/icon) - иконки
 - [💻 tpm.md](https://github.com/awesome-windows11/windows11/blob/main/tpm.md) - TPM 2.0 и его включение для Windows 11
-- [Программа покажет ПОЧЕМУ ИМЕННО ПК не может обновиться до Windows 11](https://github.com/rcmaehl/WhyNotWin11/releases/download/2.3.0.3/WhyNotWin11.exe)
+- [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases/download/2.3.0.3/) - программа покажет ПОЧЕМУ ИМЕННО ПК не может обновиться до Windows 11
 - [wininsider.cmd](https://windows11.now.sh/wininsider.cmd) - получение Windows Insider напрямую, без аккаунтов 
 
 🟥🟩
