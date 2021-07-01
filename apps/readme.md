@@ -28,7 +28,7 @@ https://www.virtualbox.org/wiki/Downloads
 ## CentBrowser
 http://static.centbrowser.com/win_stable/
 
-## VSCodium
+## ![image](https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_vscode_icon_130084.png) VSCodium
 https://github.com/VSCodium/vscodium/releases
 
 ## Firefox
