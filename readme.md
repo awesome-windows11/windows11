@@ -1,7 +1,7 @@
 # Windows 11 твикеры, скачать
 > Первая помощь в настройке, твики и ISO образы
 
-https://windows11.now.sh
+Readme: https://github.com/awesome-windows11/windows11/wiki
 
 ⬇️ Download ISO: https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso
 <br>
