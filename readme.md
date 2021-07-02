@@ -56,6 +56,12 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs
 ```
 C:\Users\Admin\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
 ```
+
+## Как включить режим бога панель управления (GodMode?)
+Создайте папку с именем:
+```
+Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
+```
 # 🔗 Полезные ссылки
 https://ab57.ru/cmdlist.html
 
