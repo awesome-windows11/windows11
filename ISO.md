@@ -33,31 +33,6 @@ CRC32: D4A3066C
 MD5: 48B5A87F6A690A1A0FD8F278805464DD
 SHA-1: F68069544E5ADCFBDE12F9D75EC95A98AC880010
 ```
-### [win11lite.iso](https://disk.yandex.ru/d/k1oLGE9wvvSvsg)
-LITE версия
-
-
-Удалено:
-
-- Все Metro приложения кроме Store
-- OneDrive
-- Microsoft Edge
-- Xbox
-- Cortana
-
-Всё это можно скачать и установить потом отдельно
-
-Настройки:
-
-- Вырублена телеметрия
-- По умолчанию тёмная тема
-- Активируется через цифровую лицензию до Enterprise
-![изображение](https://user-images.githubusercontent.com/86190960/122674741-285c9380-d1df-11eb-8004-3998ec9e7631.png)
-![изображение](https://user-images.githubusercontent.com/86190960/122674747-2f83a180-d1df-11eb-99f5-44cdd86b823d.png)
-![изображение](https://user-images.githubusercontent.com/86190960/122674756-3d392700-d1df-11eb-9943-6649d0c15b82.png)
-![изображение](https://user-images.githubusercontent.com/86190960/122674766-44f8cb80-d1df-11eb-8127-bf53f70ea34b.png)
- 
-
 ### [Win11-IoT-Ent-x64-Mini 21996.1_en_xlx-v2.iso](https://disk.yandex.ru/d/jGImk2A0VZMJkg)
 LITE ВЕРСИЯ ОТ РУССКИХ
 ```
