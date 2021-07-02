@@ -1,8 +1,8 @@
 # 💿 ISO образы для установки Windows 11
-# Windows 11 22000.51
+## Windows 11 22000.51
 https://1drv.ms/f/s!AhusSLWjGpTDdfvNnLrN21TjXc0
 
-# Windows 11 21996.1
+## Windows 11 21996.1
 ### [21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso](https://yandex.ru/search/?text=3B6DA9194BA303AC7DBBF2E521716C809500919C&lr=213)
 Оригинальный образ. Установка на любой пк: https://github.com/awesome-windows11/windows11/blob/main/bypass.md
 <br>
@@ -71,8 +71,8 @@ SHA-1: 71E046A362ACF22F7027750C4267DB9EB9CA198A
 Удалено:
 - Новое меню пуск
 - Все Metro приложения
-
-# Win10_20H2_English_x64.iso
+# Windows 10
+## Win10_20H2_English_x64.iso
 ```
 Size: 6011506 КБ (5.73 ГБ)
 CRC32: 23717768
@@ -83,7 +83,7 @@ BLAKE2sp: BEAE1CB28A2BC2EC9410352AD976D744A935956501B5DE26160ECC22C7359B5F
 ```
 ![image](https://user-images.githubusercontent.com/86190960/123487941-96f28480-d617-11eb-9c0e-3b4cb151fba5.png)
 
-# Win10_20H2_v2_English_x64.iso
+## Win10_20H2_v2_English_x64.iso
 ```
 Size: 6076022 КБ (5.79 ГБ)
 CRC32: D2ECE95D
@@ -94,4 +94,4 @@ BLAKE2sp: 09B5881F54C6B740F13F55CBC619D9DB1CD16C3D9ED86A37E80C8DE4F43B3430
 ```
 ![image](https://user-images.githubusercontent.com/86190960/123485104-21d08080-d612-11eb-89a8-83eadbfc8b26.png)
 
-# Win10_21H1_English_x64.iso
+## Win10_21H1_English_x64.iso
