@@ -47,6 +47,12 @@ Get-AppxPackage | Remove-AppxPackage
 <a href="https://user-images.githubusercontent.com/86190960/122917570-d8103d80-d366-11eb-9164-a6fbbf415a90.png"><img src="https://i.ibb.co/5knF8qh/image.png" alt="image" border="0"></a>
 <a href="https://user-images.githubusercontent.com/86190960/122917584-db0b2e00-d366-11eb-8793-96259bac5965.png"><img src="https://i.ibb.co/mbY4RHH/image.png" alt="image" border="0"></a>
 
+## Как редактировать меню пуск?
+Перейдите по пути:
+```
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+```
+
 # 🔗 Полезные ссылки
 https://ab57.ru/cmdlist.html
 
