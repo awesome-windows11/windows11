@@ -12,9 +12,9 @@ https://windows11.now.sh
 - [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases) - программа покажет ПОЧЕМУ ИМЕННО ПК не может обновиться до Windows 11
 - [wininsider.cmd](https://windows11.now.sh/wininsider.cmd) - получение Windows Insider напрямую, без аккаунтов 
 
-🟥🟩
+🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 
 <br>
-🟦🟨
+🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨
 
 # ❓ FAQ
 ## Как восстановить Microsoft Store?
