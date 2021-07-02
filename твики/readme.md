@@ -27,5 +27,5 @@
 
 [Скачайте все твики сразу](https://github.com/windows11help/windows11/archive/refs/heads/main.zip)
 
-### [load_anim.reg](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/твики/load_anim.reg)
+### [load_anim.reg](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/load_anim.reg)
 ![image](https://user-images.githubusercontent.com/86190960/124324507-bf383100-db8b-11eb-8fec-6f3d0c259284.png)
