@@ -1,3 +1,10 @@
+# Windows 11 твикеры, скачать
+Первая помощь в настройке, твики и ISO образы
+
+Site: https://windows11.now.sh
+<br>
+VK: https://vk.com/flighthub
+
 - [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases) - программа покажет ПОЧЕМУ ИМЕННО ПК не может обновиться до Windows 11
 - [wininsider.cmd](https://windows11.now.sh/wininsider.cmd) - получение Windows Insider напрямую, без аккаунтов, основано на https://github.com/abbodi1406/offlineinsiderenroll
 
