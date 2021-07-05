@@ -22,7 +22,7 @@
 <br>
 [❓ FAQ](https://github.com/awesome-windows11/windows11/wiki/FAQ)
 
-# Tweaks
+# [Tweaks](#-explore)
 ### [ExplorerClean.bat](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/ExplorerClean.bat)
 Очистка проводника от пользовательских папок
 
