@@ -52,7 +52,7 @@
 ### [load_anim.reg](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/load_anim.reg)
 ![image](https://user-images.githubusercontent.com/86190960/124324507-bf383100-db8b-11eb-8fec-6f3d0c259284.png)
 
-# [FAQ](#faq)
+# [FAQ](#explore)
 ## ❓ Как восстановить Microsoft Store?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
