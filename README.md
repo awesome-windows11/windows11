@@ -146,4 +146,4 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 <br>
 [shell32.dll](https://1drv.ms/u/s!AhusSLWjGpTDhGvi6erz5dDtvgvj?e=ztbIII) - оригинальный файл из папки System32 в Windows 11
 
-![image](https://user-images.githubusercontent.com/86190960/122690033-9d57b980-d22f-11eb-951b-887765151e81.png)
+<a href="https://ibb.co/48GyYLn"><img src="https://i.ibb.co/48GyYLn/122690033-9d57b980-d22f-11eb-951b-887765151e81.png" alt="122690033-9d57b980-d22f-11eb-951b-887765151e81"></a>
