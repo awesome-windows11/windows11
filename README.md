@@ -23,7 +23,8 @@
 [❓ FAQ](#faq)
 <br>
 [💻 Apps](#apps)
-
+<br>
+[🎨 Icons](#icons)
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 ### [ExplorerClean.bat](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/ExplorerClean.bat)
@@ -139,3 +140,10 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 ### [Cloudflare WARP](https://1.1.1.1/)
 
 ### [Chrlauncher Chromium](https://github.com/henrypp/chrlauncher)
+
+# [Icons](#explore)
+[Пак всех иконок из Windows 11](https://1drv.ms/u/s!AhusSLWjGpTDgUs6bRTYd7KI1AFc?e=5unDff)
+<br>
+[shell32.dll](https://1drv.ms/u/s!AhusSLWjGpTDhGvi6erz5dDtvgvj?e=ztbIII) - оригинальный файл из папки System32 в Windows 11
+
+![image](https://user-images.githubusercontent.com/86190960/122690033-9d57b980-d22f-11eb-951b-887765151e81.png)
