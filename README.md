@@ -17,7 +17,7 @@
 ⬇️ Download Files: https://1drv.ms/f/s!AhusSLWjGpTDghZVw3iu3wpvNCh4
 <br>
 ⬇️ Скачать все скрипты: https://github.com/windows11help/windows11/archive/refs/heads/main.zip
-# 🧭 Explore
+# Explore
 [🛠 Твики](#tweaks)
 <br>
 [❓ FAQ](https://github.com/awesome-windows11/windows11/wiki/FAQ)
