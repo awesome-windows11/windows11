@@ -142,6 +142,8 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 ### [Chrlauncher Chromium](https://github.com/henrypp/chrlauncher)
 
 # [Icons](#explore)
+🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨
+<br>
 [Пак всех иконок из Windows 11](https://1drv.ms/u/s!AhusSLWjGpTDgUs6bRTYd7KI1AFc?e=5unDff)
 <br>
 [shell32.dll](https://1drv.ms/u/s!AhusSLWjGpTDhGvi6erz5dDtvgvj?e=ztbIII) - оригинальный файл из папки System32 в Windows 11
