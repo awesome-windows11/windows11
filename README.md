@@ -27,6 +27,8 @@
 <br>
 [💻 Приложения](#apps)
 <br>
+[🖼 Обои](#wallpaper)
+<br>
 [🎨 Иконки](#icons)
 <br>
 [🔗 Ссылки](#links)
@@ -216,6 +218,15 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 ### [Cloudflare WARP](https://1.1.1.1/)
 
 ### [Chrlauncher Chromium](https://github.com/henrypp/chrlauncher)
+
+# [Wallpaper](#explore)
+[🖼 Windows 11 обои скачать](https://1drv.ms/f/s!AhusSLWjGpTDhBpVw3iu3wpvNCh4)
+
+Стандартно обои хранятся по пути:
+```
+C:\Windows\Web
+```
+![image](https://user-images.githubusercontent.com/86190960/122684534-8785cc80-d20e-11eb-850b-84054ad55fd3.png)
 
 # [Icons](#explore)
 🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨
