@@ -17,7 +17,6 @@
 ⬇️ Download Files: https://1drv.ms/f/s!AhusSLWjGpTDghZVw3iu3wpvNCh4
 <br>
 ⬇️ Скачать все скрипты: https://github.com/windows11help/windows11/archive/refs/heads/main.zip
-<base target="_blank">
 
 # Explore
 [🛠 Твики](#tweaks)
@@ -185,7 +184,7 @@ BLAKE2sp: 5D466AA27BF7DFAE1CC781A381AB03688049AC71B87603F6619FE2B2A5AC105D
 
 # [Apps](#explore)
 💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻
-### <a href="https://1drv.ms/f/s!AhusSLWjGpTDhD5Vw3iu3wpvNCh4" target="_blank">🔓 Activator by Ratiborus</a>
+### <a target="_blank" href="https://1drv.ms/f/s!AhusSLWjGpTDhD5Vw3iu3wpvNCh4">🔓 Activator by Ratiborus</a>
 В AAct все операции с активацией, с лицензиями, выполняются с помощью стандартных скриптов slmgr.vbs и ospp.vbs, уж их то даже самый ненормальный антивирусник не заподозрит в "троянстве".
 <br>
 http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
