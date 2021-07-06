@@ -31,7 +31,7 @@
 <br>
 [🔗 Ссылки](#links)
 
-# [a](https://12g.com) [Tweaks](#explore)
+# ![a](https://image.flaticon.com/icons/png/32/2698/2698011.png) [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 ### [EdgeSync](https://github.com/awesome-windows11/windows11/tree/main/EdgeSync)
 Принудительное включение и отключение синхронизации в Microsoft Edge
