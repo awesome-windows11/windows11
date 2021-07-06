@@ -35,6 +35,7 @@
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 ### [EdgeSync](https://github.com/awesome-windows11/windows11/tree/main/EdgeSync)
 Принудительное включение и отключение синхронизации в Microsoft Edge
+
 <img src="https://user-images.githubusercontent.com/86190960/124653893-86a79880-dea6-11eb-876e-f8ff688139b5.png" width="50%">
 
 ### [ExplorerClean.bat](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/ExplorerClean.bat)
