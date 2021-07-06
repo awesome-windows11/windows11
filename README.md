@@ -121,10 +121,7 @@ Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 # Windows 11
 ## [Windows 11 22000.51](https://1drv.ms/f/s!AhusSLWjGpTDdfvNnLrN21TjXc0)
 
-## Windows 11 21996.1
-### [21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso](https://yandex.ru/search/?text=3B6DA9194BA303AC7DBBF2E521716C809500919C&lr=213)
-Оригинальный образ. Установка на любой пк: https://github.com/awesome-windows11/windows11/blob/main/bypass.md
-<br>
+## [Windows 11 21996.1](https://yandex.ru/search/?text=3B6DA9194BA303AC7DBBF2E521716C809500919C&lr=213)
 ```
 Размер: 4874553344 байта (4648 МиБ)
 CRC32: 48B651E0
