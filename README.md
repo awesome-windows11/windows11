@@ -220,7 +220,9 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 ### [Chrlauncher Chromium](https://github.com/henrypp/chrlauncher)
 
 # [Wallpaper](#explore)
-[🖼 Windows 11 обои скачать](https://1drv.ms/f/s!AhusSLWjGpTDhBpVw3iu3wpvNCh4)
+🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼
+<br>
+[Windows 11 обои скачать](https://1drv.ms/f/s!AhusSLWjGpTDhBpVw3iu3wpvNCh4)
 
 Стандартно обои хранятся по пути:
 ```
