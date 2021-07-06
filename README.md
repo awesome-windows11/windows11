@@ -20,13 +20,16 @@
 # Explore
 [🛠 Твики](#tweaks)
 <br>
-[❓ FAQ](#faq)
+[❓ Вопросы / Ответы](#faq)
 <br>
-[💿 ISO](#iso)
+[💿 Скачать Windows 11](#iso)
 <br>
-[💻 Apps](#apps)
+[💻 Приложения](#apps)
 <br>
-[🎨 Icons](#icons)
+[🎨 Иконки](#icons)
+<br>
+[🔗 Ссылки](#links)
+
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 ### [ExplorerClean.bat](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/ExplorerClean.bat)
@@ -223,3 +226,10 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 [shell32.dll](https://1drv.ms/u/s!AhusSLWjGpTDhGvi6erz5dDtvgvj?e=ztbIII) - оригинальный файл из папки System32 в Windows 11
 
 <a href="https://ibb.co/48GyYLn"><img src="https://i.ibb.co/48GyYLn/122690033-9d57b980-d22f-11eb-951b-887765151e81.png" alt="122690033-9d57b980-d22f-11eb-951b-887765151e81"></a>
+
+# [Links](#explore)
+🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
+<br>
+- https://ab57.ru/cmdlist.html
+- https://renenyffenegger.ch/notes/Windows
+- https://admx.help
