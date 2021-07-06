@@ -202,7 +202,7 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 
 ### ![image](https://user-images.githubusercontent.com/86190960/124669713-849c0480-debb-11eb-8da8-58ed039128c9.png)[Paint.NET](https://www.dotpdn.com/downloads/pdn.html)
 
-### <img src="https://cdn.icon-icons.com/icons2/2389/PNG/32/notion_logo_icon_145025.png">[Notion](https://www.notion.so/desktop/windows/download)
+### <img src="https://user-images.githubusercontent.com/86190960/124669920-e65c6e80-debb-11eb-94d7-8010e038f6b2.png">[Notion](https://www.notion.so/desktop/windows/download)
 
 ### ![image](https://cdn.icon-icons.com/icons2/256/PNG/32/driver_girl_27328.png)[Snappy Driver Installer](https://sdi-tool.org/download/)
 
