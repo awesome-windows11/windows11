@@ -200,7 +200,7 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 С другой стороны KMSAuto Net имеет намного больше возможностей по настройке процесса активации, чем AAct и иногда позволяет решить проблемы с KMS-активацией там, где AAct не справляется. Или, если использовать автомобильную терминологию, первая программа является высокоэффективной ручной коробкой передач, позволяющей опытному водителю использовать ее возможности по максимуму, в то время как вторая программа является "автоматом", более подходящим для новичков и домохозяек.
 </details>
 
-### <img src="https://raw.githubusercontent.com/awesome-windows11/files/main/paintnet.ico" style="width:4%">[Paint.NET](https://www.dotpdn.com/downloads/pdn.html)
+### ![image](https://user-images.githubusercontent.com/86190960/124669713-849c0480-debb-11eb-8da8-58ed039128c9.png)[Paint.NET](https://www.dotpdn.com/downloads/pdn.html)
 
 ### <img src="https://cdn.icon-icons.com/icons2/2389/PNG/32/notion_logo_icon_145025.png">[Notion](https://www.notion.so/desktop/windows/download)
 
