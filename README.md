@@ -202,11 +202,11 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 
 ### ![image](https://user-images.githubusercontent.com/86190960/124669713-849c0480-debb-11eb-8da8-58ed039128c9.png)[Paint.NET](https://www.dotpdn.com/downloads/pdn.html)
 
-### <img src="https://user-images.githubusercontent.com/86190960/124669920-e65c6e80-debb-11eb-94d7-8010e038f6b2.png">[Notion](https://www.notion.so/desktop/windows/download)
+### ![image](https://user-images.githubusercontent.com/86190960/124669920-e65c6e80-debb-11eb-94d7-8010e038f6b2.png)[Notion](https://www.notion.so/desktop/windows/download)
 
-### ![image](https://cdn.icon-icons.com/icons2/256/PNG/32/driver_girl_27328.png)[Snappy Driver Installer](https://sdi-tool.org/download/)
+### ![image](https://user-images.githubusercontent.com/86190960/124670072-202d7500-debc-11eb-9af6-1205e192cf7a.png)[Snappy Driver Installer](https://sdi-tool.org/download/)
 
-### ![image](https://cdn.icon-icons.com/icons2/80/PNG/32/windows_defender_15358.png)[Defender Control](https://www.sordum.org/downloads/?st-defender-control)
+### ![image](https://user-images.githubusercontent.com/86190960/124670250-5f5bc600-debc-11eb-8df0-062edc22f2e0.png)[Defender Control](https://www.sordum.org/downloads/?st-defender-control)
 
 ### ![image](https://cdn.icon-icons.com/icons2/195/PNG/32/VirtualBox_23525.png)[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
