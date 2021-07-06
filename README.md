@@ -208,7 +208,7 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 
 ### ![image](https://user-images.githubusercontent.com/86190960/124670250-5f5bc600-debc-11eb-8df0-062edc22f2e0.png)[Defender Control](https://www.sordum.org/downloads/?st-defender-control)
 
-### ![image](https://cdn.icon-icons.com/icons2/195/PNG/32/VirtualBox_23525.png)[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+### ![image](https://user-images.githubusercontent.com/86190960/124670428-a77ae880-debc-11eb-81a1-3db621faca2a.png)[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 ### [CentBrowser](http://static.centbrowser.com/win_stable/)
 
