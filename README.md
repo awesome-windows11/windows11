@@ -11,9 +11,9 @@
 <br>
 *Основано на https://github.com/abbodi1406/offlineinsiderenroll*
 
-🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 
+🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
 <br>
-🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨
+🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨
 
 ⬇️ Download ISO: https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso
 <br>
