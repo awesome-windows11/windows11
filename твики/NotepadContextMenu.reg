@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
+; Вернуть блокнот в контекстое меню по клику ПКМ - создать
 
-:: Вернуть блокнот в контекстое меню по клику ПКМ - создать
 [HKEY_CLASSES_ROOT\.txt]
 "Content Type"="text/plain"
 "PerceivedType"="text"
