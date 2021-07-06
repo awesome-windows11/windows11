@@ -261,7 +261,7 @@ SHA1: 78AA5FA0FD332EE0822EF5A533CD2CFE12333274
 BLAKE2sp: 5D466AA27BF7DFAE1CC781A381AB03688049AC71B87603F6619FE2B2A5AC105D
 ```
 <a href="https://ibb.co/2KnGwtm"><img src="https://i.ibb.co/88K1J5T/image.png" alt="image" border="0" style="width:55%"></a>
-<a href="https://ibb.co/YTLKyJL"><img src="https://i.ibb.co/cXrpCRr/image.png" alt="image" border="0" ></a>
+<img src="https://i.ibb.co/cXrpCRr/image.png">
 <a href="https://ibb.co/qF3GFnb"><img src="https://i.ibb.co/93kX3vR/image.png" alt="image" border="0" style="width:35%"></a>
 
 # [Apps](#explore)
