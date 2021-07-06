@@ -185,11 +185,8 @@ BLAKE2sp: 5D466AA27BF7DFAE1CC781A381AB03688049AC71B87603F6619FE2B2A5AC105D
 # [Apps](#explore)
 💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻
 ### <a target="_blank" href="https://1drv.ms/f/s!AhusSLWjGpTDhD5Vw3iu3wpvNCh4">🔓 Activator by Ratiborus</a>
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-
 В AAct все операции с активацией, с лицензиями, выполняются с помощью стандартных скриптов slmgr.vbs и ospp.vbs, уж их то даже самый ненормальный антивирусник не заподозрит в "троянстве".
-<br>
+
 http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 <details>
 <summary> В чём отличие KMSAuto Net 2016 1.5.0 и Portable AAct?</summary>
