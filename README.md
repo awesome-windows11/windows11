@@ -200,15 +200,15 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 С другой стороны KMSAuto Net имеет намного больше возможностей по настройке процесса активации, чем AAct и иногда позволяет решить проблемы с KMS-активацией там, где AAct не справляется. Или, если использовать автомобильную терминологию, первая программа является высокоэффективной ручной коробкой передач, позволяющей опытному водителю использовать ее возможности по максимуму, в то время как вторая программа является "автоматом", более подходящим для новичков и домохозяек.
 </details>
 
-### ![image](https://cdn.icon-icons.com/icons2/195/PNG/32/Paint_NET_23577.png) :smiling_imp: [Paint.NET](https://www.dotpdn.com/downloads/pdn.html)
+### <a target="_blank" href="https://www.dotpdn.com/downloads/pdn.html"><img src="https://raw.githubusercontent.com/awesome-windows11/files/main/paintnet.ico" style="width:4%">Paint.NET</a>
 
-### ![image](https://cdn.icon-icons.com/icons2/2389/PNG/32/notion_logo_icon_145025.png) [Notion](https://www.notion.so/desktop/windows/download)
+### <img src="https://cdn.icon-icons.com/icons2/2389/PNG/32/notion_logo_icon_145025.png">[Notion](https://www.notion.so/desktop/windows/download)
 
-### ![image](https://cdn.icon-icons.com/icons2/256/PNG/32/driver_girl_27328.png) [Snappy Driver Installer](https://sdi-tool.org/download/)
+### ![image](https://cdn.icon-icons.com/icons2/256/PNG/32/driver_girl_27328.png)[Snappy Driver Installer](https://sdi-tool.org/download/)
 
-### ![image](https://cdn.icon-icons.com/icons2/80/PNG/32/windows_defender_15358.png) [Defender Control](https://www.sordum.org/downloads/?st-defender-control)
+### ![image](https://cdn.icon-icons.com/icons2/80/PNG/32/windows_defender_15358.png)[Defender Control](https://www.sordum.org/downloads/?st-defender-control)
 
-### ![image](https://cdn.icon-icons.com/icons2/195/PNG/32/VirtualBox_23525.png) [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+### ![image](https://cdn.icon-icons.com/icons2/195/PNG/32/VirtualBox_23525.png)[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 ### [CentBrowser](http://static.centbrowser.com/win_stable/)
 
