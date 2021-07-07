@@ -216,15 +216,17 @@ TPM модуль - сам по себе не отдельная функция. 
 <a href="https://user-images.githubusercontent.com/86190960/123308883-e740e800-d52c-11eb-87d3-3a51563e41e3.png"><img src="https://i.ibb.co/bghkK5h/image.png" alt="image" border="0"></a>
 
 Поставьте настройку в режим **Enabled** и сохраните изменения в UEFI.
-## Иногда можно встретить такой расклад:
 
+## Иногда можно встретить такой расклад:
 <a href="https://user-images.githubusercontent.com/86190960/123311497-ecebfd00-d52f-11eb-8f29-8a9fd19d781c.png"><img src="https://i.ibb.co/PrQcqSV/image.png" alt="image" border="0"></a>
 
 Тогда поставьте напротив значение **PTT**
 <br>
 После установки TPM 2.0 комп перезагружается два раза, а не один. Не пугайтесь, это естественная реакция. Причина правда нам неизвестна.
-## Ещё вариант:
-<a href="https://user-images.githubusercontent.com/86190960/123417486-7d721e00-d5c0-11eb-9c5e-d279c7f4f886.png"><img src="https://i.ibb.co/kDk6k0T/image.png" alt="image" border="0"></a>
+
+## Ещё варианты:
+<a href="https://user-images.githubusercontent.com/86190960/123417486-7d721e00-d5c0-11eb-9c5e-d279c7f4f886.png"><img src="https://i.ibb.co/kDk6k0T/image.png"></a>
+<a href="https://ibb.co/VT9TB1d"><img src="https://i.ibb.co/VT9TB1d/image.png"></a>
 
 ## Важно!
 Иногда UEFI включён в режим "Easy Mode", и некоторые настройки могут не появиться. Тогда переключите его в режим "Advanced Mode" (у нас это была клавиша F9, иногда F7) и поищите настройки снова.
