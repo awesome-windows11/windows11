@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+; Вернуть меню пуск и панель задач (закрепляется справа, слева)
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell\Update\Packages]
+"UndockingDisabled"=dword:00000001
