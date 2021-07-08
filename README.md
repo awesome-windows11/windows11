@@ -4,6 +4,7 @@
 > Site: https://windows11.now.sh
 > <br>
 > VK: https://vk.com/flighthub
+> <br>
 > Telegram: https://t.me/windows11_insider
 
 - [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases) - программа покажет ПОЧЕМУ ПК не может обновиться до Windows 11
