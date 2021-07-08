@@ -1,5 +1,6 @@
 Windows Registry Editor Version 5.00
 ; Возвращаем нормальное контекстое меню
+; Download File: https://windows11.now.sh/normalcontextmenu.reg
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FeatureManagement\Overrides\4\586118283]
 "EnabledState"=dword:00000001
