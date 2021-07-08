@@ -39,6 +39,11 @@
  
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
+### [normalcontextmenu.reg](https://windows11.now.sh/normalcontextmenu.reg)
+Вернуть старое контекстое меню
+
+![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png)
+
 ### [EdgeSync](https://github.com/awesome-windows11/windows11/tree/main/EdgeSync)
 Принудительное включение и отключение синхронизации в Microsoft Edge
 
