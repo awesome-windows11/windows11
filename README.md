@@ -44,7 +44,7 @@
 ### [classicshell.reg](https://windows11.now.sh/classicshell.reg)
 Вернуть классическое меню и ПОЛНОСТЬЮ старую оболочку, плюс избавиться от централизованной панели задач и помещает кнопку запуска обратно влево вместе с закрепленными элементами. **Есть баг!** Из-за настройки исчезает область времени / даты на панели задач!
 
-![image](https://user-images.githubusercontent.com/86190960/124925074-c389a180-e004-11eb-8a4b-74e6fddb1a47.png)
+![image](https://user-images.githubusercontent.com/86190960/124930866-5973fb00-e00a-11eb-8db5-22e6c5376211.png)
 
 ### [normalcontextmenu.reg](https://windows11.now.sh/normalcontextmenu.reg)
 Восстановить классические контекстные меню в масштабе всей системы
