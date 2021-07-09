@@ -49,6 +49,7 @@
 
 ![image](https://user-images.githubusercontent.com/86190960/125072308-1aee4700-e0c3-11eb-94bd-c204ef9e78bf.png)
 
+![image](https://user-images.githubusercontent.com/86190960/125072997-03fc2480-e0c4-11eb-928e-6c3f8a23e3f0.png)
 
 ### [normalcontextmenu.reg](https://windows11.now.sh/normalcontextmenu.reg)
 Восстановить классические контекстные меню в масштабе всей системы
