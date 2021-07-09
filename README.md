@@ -7,7 +7,6 @@
 > <br>
 > Telegram: https://t.me/windows11_insider
 > <br>
-> [Быстрая установка Windows 11](https://gist.github.com/awesome-windows11/52b35de87f369196e1516882fa27a62e)
 
 - [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases) - программа покажет ПОЧЕМУ ПК не может обновиться до Windows 11
 - [Win11SysCheck.exe](https://github.com/mq1n/Win11SysCheck/releases) - аналог программы выше
@@ -25,6 +24,8 @@
 ⬇️ Скачать все скрипты: https://github.com/windows11help/windows11/archive/refs/heads/main.zip
 
 # Explore
+[ℹ Быстрая установка Windows 11](https://gist.github.com/awesome-windows11/52b35de87f369196e1516882fa27a62e)
+<br>
 [🛠 Твики](#tweaks)
 <br>
 [❓ Вопросы / Ответы](#faq)
