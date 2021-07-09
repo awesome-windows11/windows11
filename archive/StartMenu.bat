@@ -1,4 +1,4 @@
-; Не работает в Windows 22000.65 и выше!
+; Not working Windows 22000.65 and above!
 
 @echo off
 :nashalo
