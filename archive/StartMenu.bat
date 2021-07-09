@@ -1,4 +1,4 @@
-; Not working Windows 22000.65 and above!
+rem Not working Windows 22000.65 and above!
 
 @echo off
 :nashalo
