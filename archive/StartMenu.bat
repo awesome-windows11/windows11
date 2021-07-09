@@ -1,3 +1,5 @@
+; Не работает в Windows 22000.65 и выше!
+
 @echo off
 :nashalo
 Echo ============ Choose: ============
