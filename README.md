@@ -140,7 +140,7 @@ Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 1. [Windows 11](#windows-11)
 2. [Windows 10](#windows-10)
 # Windows 11
-## [Windows 11 22000.51](https://1drv.ms/f/s!AhusSLWjGpTDdfvNnLrN21TjXc0)
+## [Windows 11 все версии](https://1drv.ms/f/s!AhusSLWjGpTDcPvNnLrN21TjXc0)
 
 ## [Windows 11 21996.1](https://yandex.ru/search/?text=3B6DA9194BA303AC7DBBF2E521716C809500919C&lr=213)
 ```
