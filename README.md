@@ -10,8 +10,7 @@
 
 * [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases) - программа покажет ПОЧЕМУ ПК не может обновиться до Windows 11
 * [Win11SysCheck.exe](https://github.com/mq1n/Win11SysCheck/releases) - аналог программы выше
-* [wininsider.cmd](https://windows11.now.sh/wininsider.cmd) - получение Windows Insider напрямую, без аккаунтов
-* * Основано на https://github.com/abbodi1406/offlineinsiderenroll
+* https://github.com/abbodi1406/offlineinsiderenroll - получение Windows Insider напрямую, без аккаунтов
 
 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
 <br>
