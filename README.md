@@ -214,7 +214,7 @@ TPM модуль - сам по себе не отдельная функция. 
 Подробнее: https://te-st.ru/2020/05/29/tpm/
 
 ## TPM 2.0 как включить?
-Видео инструкция: https://www.youtube.com/watch?v=p83oY2RcIs8)
+Видео инструкция: https://www.youtube.com/watch?v=p83oY2RcIs8
 
 Эта опция может быть во вкладке UEFI *Security*, но у нас эта опция оказалась во вкладке *System Info.*:
 
