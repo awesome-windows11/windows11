@@ -2,7 +2,9 @@
 @echo off
 ver |>NUL find /v "5." && if "%~1"=="" cscript.exe //nologo //e:jscript "%~f0"& exit /b
 
+echo Create LOCAL User with Administrators Group
 echo Script create: https://windows11.now.sh
+echo 
 Set /p name="Name Account: (0 = exit): "
 if "%name%"=="0" (
 exit
