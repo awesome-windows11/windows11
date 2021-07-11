@@ -1,5 +1,5 @@
 Windows Registry Editor Version 5.00
-; Open files
+; Default Path: "E:\VSCode"
 ; https://medium.com/@fawwazyusran/create-a-portable-ide-with-visual-studio-code-fb0c6bc198ef
 [HKEY_CLASSES_ROOT\*\shell\Open with VS Code]
 @="Edit with VS Code"
