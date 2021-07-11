@@ -46,6 +46,13 @@
 
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
+### [vscodedefault.reg](https://windows11.now.sh/vscode/vscodedefault.reg)
+Сделать VScode Portable редактором по умолчанию
+<br>
+**Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`)
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a>
+
 ### [classicshell.reg](https://windows11.now.sh/classicshell.reg)
 Вернуть ПОЛНОСТЬЮ старую оболочку, плюс избавиться от централизованной панели задач и помещает кнопку запуска обратно влево вместе с закрепленными элементами. **Есть баг!** Из-за настройки исчезает область времени / даты на панели задач!
 
