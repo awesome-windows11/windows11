@@ -1,7 +1,6 @@
-rem Not working Windows 22000.65 and above!
-
 @echo off
 :nashalo
+echo Not working Windows 22000.65 and above!
 Echo ============ Choose: ============
 Echo New Start Menu - 0
 Echo Old Start Menu - 1
