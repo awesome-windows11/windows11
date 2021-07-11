@@ -43,15 +43,14 @@
 <br>
 [🎨 Иконки](#icons)
 <br>
- 
+
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 ### [classicshell.reg](https://windows11.now.sh/classicshell.reg)
 Вернуть ПОЛНОСТЬЮ старую оболочку, плюс избавиться от централизованной панели задач и помещает кнопку запуска обратно влево вместе с закрепленными элементами. **Есть баг!** Из-за настройки исчезает область времени / даты на панели задач!
 
-![image](https://user-images.githubusercontent.com/86190960/125072308-1aee4700-e0c3-11eb-94bd-c204ef9e78bf.png)
-
-![image](https://user-images.githubusercontent.com/86190960/125072997-03fc2480-e0c4-11eb-928e-6c3f8a23e3f0.png)
+<a href="https://ibb.co/bgrqZKQ"><img src="https://i.ibb.co/jvLB2rb/125072308-1aee4700-e0c3-11eb-94bd-c204ef9e78bf.png" alt="125072308-1aee4700-e0c3-11eb-94bd-c204ef9e78bf" border="0"></a>
+<a href="https://ibb.co/1X585B1"><img src="https://i.ibb.co/fN545Zf/125072997-03fc2480-e0c4-11eb-928e-6c3f8a23e3f0.png" alt="125072997-03fc2480-e0c4-11eb-928e-6c3f8a23e3f0" border="0"></a>
 
 ### [normalcontextmenu.reg](https://windows11.now.sh/normalcontextmenu.reg)
 Восстановить классические контекстные меню в масштабе всей системы
@@ -93,21 +92,25 @@
 ```powershell
 Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
+
 ## Как восстановить Windows Terminal?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
 Get-AppXPackage *WindowsTerminal* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
+
 ## Как восстановить Notepad (Блокнот)?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
 Get-AppXPackage *Notepad* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
+
 ## Как удалить все встроенные UWP приложения?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
 Get-AppxPackage | Remove-AppxPackage
- ```
+```
+
 ## Как исправить кракозябры?
 <a href="https://user-images.githubusercontent.com/86190960/122917450-b57e2480-d366-11eb-9e2b-96925e556b59.png"><img src="https://i.ibb.co/DWHgjcw/image.png" alt="image" border="0"></a>
 
