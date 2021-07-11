@@ -1,4 +1,6 @@
 ## Windows 11 твикеры, скачать
+**NEW UPDATE: https://github.com/awesome-windows11/windows11/releases/tag/1.1**
+
 Первая помощь в настройке, твики и ISO образы
 
 > Site: https://windows11.now.sh
