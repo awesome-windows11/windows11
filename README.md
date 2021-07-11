@@ -8,7 +8,7 @@
 > Telegram: https://t.me/windows11_insider
 > <br>
 
-* [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases) - программа покажет ПОЧЕМУ ПК не может обновиться до Windows 11
+* [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases) - программа покажет почему ПК не может обновиться до Windows 11
 * [Win11SysCheck.exe](https://github.com/mq1n/Win11SysCheck/releases) - аналог программы выше
 * https://github.com/abbodi1406/offlineinsiderenroll - получение Windows Insider напрямую, без аккаунтов
 
@@ -33,13 +33,16 @@
 <br>
 [💽 Tpm и Security Boost](#tpm)
 <br>
+### Внешние источники
 [💻 Приложения](#apps)
 <br>
+[🔗 Полезные ссылки](#links)
+<br>
+### Внешний вид
 [🖼 Обои](#wallpaper)
 <br>
 [🎨 Иконки](#icons)
 <br>
-[🔗 Ссылки](#links)
  
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
@@ -129,15 +132,22 @@ C:\Users\Admin\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pin
 ```
 Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 ```
+## Как сменить диск MBR в GPT (или наоборот) без потери данных?
+Используйте инструмент [pwfree9.iso](https://1drv.ms/u/s!AhusSLWjGpTDhHVVw3iu3wpvNCh4)
+<br>
+1) Запишите ISO образ на флешку
+2) Загрузитесь с неё и выберите нужные диски 
+
+Инструкция: https://youtu.be/CQ0DUd1kyDs?t=133
 
 # [ISO](#explore)
 💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿
 1. [Windows 11](#windows-11)
 2. [Windows 10](#windows-10)
-# Windows 11
-## [Windows 11 все версии](https://1drv.ms/f/s!AhusSLWjGpTDcPvNnLrN21TjXc0)
+## Windows 11
+### [Windows 11 все версии](https://1drv.ms/f/s!AhusSLWjGpTDcPvNnLrN21TjXc0)
 
-## [Windows 11 21996.1](https://yandex.ru/search/?text=3B6DA9194BA303AC7DBBF2E521716C809500919C&lr=213)
+### [Windows 11 21996.1](https://yandex.ru/search/?text=3B6DA9194BA303AC7DBBF2E521716C809500919C&lr=213)
 ```
 Размер: 4874553344 байта (4648 МиБ)
 CRC32: 48B651E0
@@ -162,8 +172,8 @@ MD5: 48B5A87F6A690A1A0FD8F278805464DD
 SHA-1: F68069544E5ADCFBDE12F9D75EC95A98AC880010
 ```
 
-# [Windows 10](#iso)
-## Win10_20H2_English_x64.iso
+## [Windows 10](#iso)
+### Win10_20H2_English_x64.iso
 ```
 Size: 6011506 КБ (5.73 ГБ)
 CRC32: 23717768
@@ -173,7 +183,8 @@ SHA1: 30DD6A48DFEA77C37E51573BCB75BE4EDD6FEBFF
 BLAKE2sp: BEAE1CB28A2BC2EC9410352AD976D744A935956501B5DE26160ECC22C7359B5F
 ```
 ![image](https://user-images.githubusercontent.com/86190960/124672604-fd9d5b00-debf-11eb-92a4-6eb1aa883a0b.png)
-## Win10_20H2_v2_English_x64.iso
+
+### Win10_20H2_v2_English_x64.iso
 ```
 Size: 6076022 КБ (5.79 ГБ)
 CRC32: D2ECE95D
@@ -183,7 +194,8 @@ SHA1: 69A1739609C1059FDD2E0688891BF59A78413C6B
 BLAKE2sp: 09B5881F54C6B740F13F55CBC619D9DB1CD16C3D9ED86A37E80C8DE4F43B3430
 ```
 ![image](https://user-images.githubusercontent.com/86190960/124672864-77354900-dec0-11eb-86f1-3425d0d6d4ac.png)
-## Win10_21H1_English_x64.iso
+
+### Win10_21H1_English_x64.iso
 ```
 Size: 5824122880 байтов (5554 MiB)
 CRC32: 8B134636
@@ -317,6 +329,13 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 
 ### [Chrlauncher Chromium](https://github.com/henrypp/chrlauncher)
 
+# [Links](#explore)
+🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
+<br>
+- https://ab57.ru/cmdlist.html
+- https://renenyffenegger.ch/notes/Windows
+- https://admx.help
+
 # [Wallpaper](#explore)
 🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼
 <br>
@@ -336,10 +355,3 @@ C:\Windows\Web
 [shell32.dll](https://1drv.ms/u/s!AhusSLWjGpTDhGvi6erz5dDtvgvj?e=ztbIII) - оригинальный файл из папки System32 в Windows 11
 
 <a href="https://ibb.co/48GyYLn"><img src="https://i.ibb.co/48GyYLn/122690033-9d57b980-d22f-11eb-951b-887765151e81.png" alt="122690033-9d57b980-d22f-11eb-951b-887765151e81"></a>
-
-# [Links](#explore)
-🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
-<br>
-- https://ab57.ru/cmdlist.html
-- https://renenyffenegger.ch/notes/Windows
-- https://admx.help
