@@ -44,7 +44,7 @@
 [🎨 Иконки](#icons)
 <br>
 
-# 1. [Tweaks](#explore)
+# [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 ### [vscodedefault.reg](https://windows11.now.sh/vscode/vscodedefault.reg)
 Сделать VScode Portable редактором по умолчанию
