@@ -8,7 +8,7 @@
 > Telegram: https://t.me/windows11_insider
 > <br>
 
-* [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases) - программа покажет почему ПК не может обновиться до Windows 11
+* [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases) - проверка на совместимость ПК с Windows 11
 * [Win11SysCheck.exe](https://github.com/mq1n/Win11SysCheck/releases) - аналог программы выше
 * https://github.com/abbodi1406/offlineinsiderenroll - получение Windows Insider напрямую, без аккаунтов
 
