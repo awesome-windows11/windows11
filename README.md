@@ -1,5 +1,8 @@
 ## Windows 11 твикеры, скачать
 **NEW UPDATE: https://github.com/awesome-windows11/windows11/releases/tag/1.1**
+<br>
+
+**NEW SCRIPT: https://github.com/awesome-windows11/windows11/blob/main/createuser.bat**
 
 Первая помощь в настройке, твики и ISO образы
 
@@ -152,6 +155,8 @@ Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 
 Инструкция: https://youtu.be/CQ0DUd1kyDs?t=133
 
+## Как быстро создать локального пользователя с правами администратора?
+Скачайте скрипт [createuser.bat](https://windows11.now.sh/createuser.bat)
 # [ISO](#explore)
 💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿
 1. [Windows 11](#windows-11)
