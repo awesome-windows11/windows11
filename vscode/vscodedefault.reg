@@ -1,5 +1,6 @@
 Windows Registry Editor Version 5.00
 ; Open files
+; https://medium.com/@fawwazyusran/create-a-portable-ide-with-visual-studio-code-fb0c6bc198ef
 [HKEY_CLASSES_ROOT\*\shell\Open with VS Code]
 @="Edit with VS Code"
 "Icon"="E:\\VSCode\\Code.exe,0"
