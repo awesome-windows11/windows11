@@ -1,4 +1,4 @@
-# Windows 11 твикеры, скачать
+## Windows 11 твикеры, скачать
 Первая помощь в настройке, твики и ISO образы
 
 > Site: https://windows11.now.sh
@@ -22,7 +22,7 @@
 <br>
 ⬇️ Скачать все скрипты: https://github.com/windows11help/windows11/archive/refs/heads/main.zip
 
-# Explore
+## Explore
 [ℹ Быстрая установка Windows 11](https://gist.github.com/awesome-windows11/52b35de87f369196e1516882fa27a62e)
 <br>
 [🛠 Твики](#tweaks)
