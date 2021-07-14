@@ -99,6 +99,16 @@
 # [FAQ](#explore)
 ❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓
 <br>
+## Как посмотреть все приложения UWP в PowerShell?
+Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
+```poweshell
+Get-AppxPackage –AllUsers | Select Name, PackageFullName
+```
+
+Для подробного анализа, введите полную команду:
+```poweshell
+Get-AppxPackage –AllUsers
+```
 ## Как восстановить Microsoft Store?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
@@ -117,6 +127,7 @@ Get-AppXPackage *WindowsTerminal* -AllUsers | Foreach {Add-AppxPackage -DisableD
 Get-AppXPackage *Notepad* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
 ## Как восстановить Windows Gadgets? (Гаджеты)
+Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
 Get-AppXPackage *Windows.Client.WebExperience* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
