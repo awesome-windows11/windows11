@@ -101,11 +101,11 @@
 <br>
 ## Как посмотреть все приложения UWP в PowerShell?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
-```poweshell
+```powershell
 Get-AppxPackage –AllUsers | Select Name, PackageFullName
 ```
 Для подробного анализа, введите полную команду:
-```poweshell
+```powershell
 Get-AppxPackage –AllUsers
 ```
 ## Как удалить любое приложение UWP в PowerShell?
