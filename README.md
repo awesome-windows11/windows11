@@ -116,7 +116,10 @@ Get-AppXPackage *WindowsTerminal* -AllUsers | Foreach {Add-AppxPackage -DisableD
 ```powershell
 Get-AppXPackage *Notepad* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
-
+## Как восстановить Windows Gadgets? (Гаджеты)
+```powershell
+Get-AppXPackage *Windows.Client.WebExperience* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
+```
 ## Как удалить все встроенные UWP приложения?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
