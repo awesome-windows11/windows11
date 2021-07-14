@@ -6,7 +6,7 @@
 
 Первая помощь в настройке, твики и ISO образы
 
-> Site: https://windows11.now.sh
+> Site: https://windows12.glitch.me
 > <br>
 > VK: https://vk.com/flighthub
 > <br>
@@ -51,20 +51,20 @@
 
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
-### [vscodedefault.reg](https://windows11.now.sh/vscode/vscodedefault.reg)
+### [vscodedefault.reg](https://awesome-windows11.github.io/windows11/vscode/vscodedefault.reg)
 Сделать VScode Portable редактором по умолчанию
 <br>
 **Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`)
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a>
 
-### [classicshell.reg](https://windows11.now.sh/classicshell.reg)
+### [classicshell.reg](https://awesome-windows11.github.io/windows11/classicshell.reg)
 Вернуть ПОЛНОСТЬЮ старую оболочку, плюс избавиться от централизованной панели задач и помещает кнопку запуска обратно влево вместе с закрепленными элементами. **Есть баг!** Из-за настройки исчезает область времени / даты на панели задач!
 
 <a href="https://ibb.co/bgrqZKQ"><img src="https://i.ibb.co/jvLB2rb/125072308-1aee4700-e0c3-11eb-94bd-c204ef9e78bf.png" alt="125072308-1aee4700-e0c3-11eb-94bd-c204ef9e78bf" border="0"></a>
 <a href="https://ibb.co/1X585B1"><img src="https://i.ibb.co/fN545Zf/125072997-03fc2480-e0c4-11eb-928e-6c3f8a23e3f0.png" alt="125072997-03fc2480-e0c4-11eb-928e-6c3f8a23e3f0" border="0"></a>
 
-### [normalcontextmenu.reg](https://windows11.now.sh/normalcontextmenu.reg)
+### [normalcontextmenu.reg](https://awesome-windows11.github.io/windows11/normalcontextmenu.reg)
 Восстановить классические контекстные меню в масштабе всей системы
 
 ![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png)
@@ -74,25 +74,25 @@
 
 <img src="https://user-images.githubusercontent.com/86190960/124653893-86a79880-dea6-11eb-876e-f8ff688139b5.png" width="50%">
 
-### [ExplorerClean.bat](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/ExplorerClean.bat)
+### [ExplorerClean.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/ExplorerClean.bat)
 Очистка проводника от пользовательских папок
 
-### [TaskBarLayout.bat](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarLayout.bat)
+### [TaskBarLayout.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarLayout.bat)
 Изменить расположение панели задач
 
 <a href="https://user-images.githubusercontent.com/86190960/122673873-4a541700-d1db-11eb-86d2-6c54b22b5860.png"><img src="https://i.ibb.co/LvMgf8j/122673873-4a541700-d1db-11eb-86d2-6c54b22b5860.png"></a>
 
-### [TaskBarSize.bat](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarSize.bat)
+### [TaskBarSize.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarSize.bat)
 Изменить размер панели задач
 
 <a href="https://user-images.githubusercontent.com/86190960/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png"><img src="https://i.ibb.co/7X4680R/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png"></a>
 
-### [InputSwitch.zip](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip)
+### [InputSwitch.zip](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip)
 Отключить / включить всплывающую панель языка
 
 <a href="https://user-images.githubusercontent.com/86190960/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png"><img src="https://i.ibb.co/KWhVPgj/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png"></a>
 
-### [load_anim.reg](https://windows11.now.sh/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/load_anim.reg)
+### [load_anim.reg](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/load_anim.reg)
 Включить новую анимацию загрузки
 
 <a href="https://ibb.co/d0V5myB"><img src="https://i.ibb.co/d0V5myB/124324507-bf383100-db8b-11eb-8fec-6f3d0c259284.png"></a>
@@ -156,7 +156,7 @@ Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 Инструкция: https://youtu.be/CQ0DUd1kyDs?t=133
 
 ## Как быстро создать локального пользователя с правами администратора?
-Скачайте скрипт [createuser.bat](https://windows11.now.sh/createuser.bat)
+Скачайте скрипт [createuser.bat](https://awesome-windows11.github.io/windows11/createuser.bat)
 # [ISO](#explore)
 💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿💿
 1. [Windows 11](#windows-11)
