@@ -104,10 +104,14 @@
 ```poweshell
 Get-AppxPackage –AllUsers | Select Name, PackageFullName
 ```
-
 Для подробного анализа, введите полную команду:
 ```poweshell
 Get-AppxPackage –AllUsers
+```
+## Как удалить любое приложение UWP в PowerShell?
+Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
+```powershell
+Get-AppxPackage *NAME* | Remove-AppxPackage
 ```
 ## Как восстановить Microsoft Store?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
