@@ -346,12 +346,12 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 Реестр проводника:
 - http://www.rusdoc.ru/material/os/win/reestr.shtml
 - https://ss64.com/nt/syntax-reghacks.html
+- http://centaz.narod.ru/winwork2.html
 
 Памятка по командной строке (cmd.exe):
 - https://ab57.ru/cmdlist.html
 - https://renenyffenegger.ch/notes/Windows
 - https://admx.help
-
 # [Wallpaper](#explore)
 🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼
 <br>
