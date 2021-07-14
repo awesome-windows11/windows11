@@ -141,11 +141,11 @@ Get-AppxPackage *NAME* | Remove-AppxPackage
 ```
 1) Для того чтобы приложение удалилось у всех пользователей:
 ```powershell
-Get-AppxPackage -allusers *PackageName* | Remove-AppxPackage
+Get-AppxPackage -allusers *NAME* | Remove-AppxPackage
 ```
 2) Для всех новых:
 ```powershell
-Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*PackageName*"} | Remove-AppxProvisionedPackage –online
+Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*NAME*"} | Remove-AppxProvisionedPackage –online
 ```
 
 ## Как удалить все приложения кроме Microsoft Store?
