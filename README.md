@@ -51,6 +51,9 @@
 
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
+### [explorerswitch.bat](https://awesome-windows11.github.io/windows11/explorerswitch.bat)
+Переключение между старым и новым проводником
+
 ### [vscodedefault.reg](https://awesome-windows11.github.io/windows11/vscode/vscodedefault.reg)
 Сделать VScode Portable редактором по умолчанию
 <br>
@@ -343,6 +346,7 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 # [Links](#explore)
 🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
 <br>
+- http://www.rusdoc.ru/material/os/win/reestr.shtml
 - https://ab57.ru/cmdlist.html
 - https://renenyffenegger.ch/notes/Windows
 - https://admx.help
