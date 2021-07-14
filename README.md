@@ -109,20 +109,6 @@ Get-AppxPackage –AllUsers | Select Name, PackageFullName
 Get-AppxPackage –AllUsers
 ```
 
-## Как удалить любое приложение UWP в PowerShell?
-Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
-```powershell
-Get-AppxPackage *NAME* | Remove-AppxPackage
-```
-1) Для того чтобы приложение удалилось у всех пользователей:
-```powershell
-Get-AppxPackage -allusers *PackageName* | Remove-AppxPackage
-```
-2) Для всех новых:
-```powershell
-Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*PackageName*"} | Remove-AppxProvisionedPackage –online
-```
-
 ## Как восстановить Microsoft Store?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
@@ -147,6 +133,20 @@ Get-AppXPackage *Windows.Client.WebExperience* -AllUsers | Foreach {Add-AppxPack
 ```
 ![изображение](https://user-images.githubusercontent.com/86190960/125692295-e047e2fd-1fc8-414f-860c-4e12deec2bc3.png)
 ![изображение](https://user-images.githubusercontent.com/86190960/125692307-e8b3f2d6-55c7-48c5-bb2e-c642afeb20bb.png)
+
+## Как удалить любое приложение в PowerShell?
+Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
+```powershell
+Get-AppxPackage *NAME* | Remove-AppxPackage
+```
+1) Для того чтобы приложение удалилось у всех пользователей:
+```powershell
+Get-AppxPackage -allusers *PackageName* | Remove-AppxPackage
+```
+2) Для всех новых:
+```powershell
+Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*PackageName*"} | Remove-AppxProvisionedPackage –online
+```
 
 ## Как удалить все приложения кроме Microsoft Store?
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
