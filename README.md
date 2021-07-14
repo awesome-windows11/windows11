@@ -326,8 +326,6 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 
 ### ![image](https://user-images.githubusercontent.com/86190960/124669713-849c0480-debb-11eb-8da8-58ed039128c9.png)[Paint.NET](https://www.dotpdn.com/downloads/pdn.html)
 
-### ![image](https://user-images.githubusercontent.com/86190960/124669920-e65c6e80-debb-11eb-94d7-8010e038f6b2.png)[Notion](https://www.notion.so/desktop/windows/download)
-
 ### ![image](https://user-images.githubusercontent.com/86190960/124670072-202d7500-debc-11eb-9af6-1205e192cf7a.png)[Snappy Driver Installer](https://sdi-tool.org/download/)
 
 ### ![image](https://user-images.githubusercontent.com/86190960/124670250-5f5bc600-debc-11eb-8df0-062edc22f2e0.png)[Defender Control](https://www.sordum.org/downloads/?st-defender-control)
@@ -336,13 +334,9 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 
 ### [CentBrowser](http://static.centbrowser.com/win_stable/)
 
-### ![image](https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_vscode_icon_130084.png) [VSCodium](https://github.com/VSCodium/vscodium/releases)
-
 ### [qBittorrent Portable](https://portableapps.com/apps/internet/qbittorrent_portable)
 
 ### [Windows Update Manager for Windows](https://github.com/DavidXanatos/wumgr)
-
-### [Cloudflare WARP](https://1.1.1.1/)
 
 ### [Chrlauncher Chromium](https://github.com/henrypp/chrlauncher)
 
