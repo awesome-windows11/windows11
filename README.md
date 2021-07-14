@@ -160,6 +160,11 @@ Get-AppxPackage -AllUsers | where-object {$_.name –notlike "*store*"} | Remove
 Get-AppxPackage | Remove-AppxPackage
 ```
 
+## Как удалить все приложения кроме нескольких N приложений?
+```powershell
+Get-AppxPackage -AllUsers | where-object {$_.name -notlike "*NAME1*"} | where-object {$_.name -notlike "*NAME2*"} | where-object {$_.name -notlike "*NAME3*"} | Remove-AppxPackage
+```
+
 ## Как исправить кракозябры?
 <a href="https://user-images.githubusercontent.com/86190960/122917450-b57e2480-d366-11eb-9e2b-96925e556b59.png"><img src="https://i.ibb.co/DWHgjcw/image.png" alt="image" border="0"></a>
 
