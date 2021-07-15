@@ -48,6 +48,9 @@
 
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
+### [temp.cmd](https://awesome-windows11.github.io/windows11/temp.cmd)
+Перенести "C:\Users\Local\Temp" в "C:\Temp"
+
 ### [explorerswitch.bat](https://awesome-windows11.github.io/windows11/explorerswitch.bat)
 Переключение между старым и новым проводником
 
