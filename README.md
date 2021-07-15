@@ -390,6 +390,9 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 - https://ss64.com/nt/syntax-reghacks.html
 - http://centaz.narod.ru/winwork2.html
 
+Скрипты для UWP:
+- https://www.it-fm.ru/?p=5225
+
 Памятка по командной строке (cmd.exe):
 - https://ab57.ru/cmdlist.html
 - https://renenyffenegger.ch/notes/Windows
