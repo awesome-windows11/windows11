@@ -48,6 +48,10 @@
 
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
+
+###[changepassword.bat](https://awesome-windows11.github.io/windows11/changepassword.bat)
+Быстрая смена пароля для пользователя Windows 11 и ниже
+
 ### [temp.cmd](https://awesome-windows11.github.io/windows11/temp.cmd)
 Перенести "C:\Users\Local\Temp" в "C:\Temp"
 
