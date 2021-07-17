@@ -392,6 +392,8 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 # [Links](#explore)
 🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
 
+- https://changewindows.org/timeline/pc
+
 Реестр проводника:
 - http://www.rusdoc.ru/material/os/win/reestr.shtml
 - https://ss64.com/nt/syntax-reghacks.html
