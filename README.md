@@ -49,6 +49,11 @@
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 
+### [oldcontextmenu.reg](https://awesome-windows11.github.io/windows11/oldcontextmenu.reg)
+Вернуть старое контекстное меню в проводнике и рабочем столе
+
+![image](https://user-images.githubusercontent.com/86190960/126198413-8e8c3f3e-bd4f-45d6-865a-6548936049d8.png)
+
 ### [changepassword.bat](https://awesome-windows11.github.io/windows11/changepassword.bat)
 Быстрая смена пароля для пользователя Windows 11 и ниже
 
