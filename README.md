@@ -1,5 +1,5 @@
 ## Windows 11 твикеры, скачать
-**NEW SCRIPT v1.2.6: https://github.com/awesome-windows11/windows11/releases/tag/1.2.6**
+**NEW SCRIPT v1.2.7: https://github.com/awesome-windows11/windows11/releases/tag/1.2.7**
 
 Первая помощь в настройке, твики и ISO образы
 
