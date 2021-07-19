@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 ; Вернуть старое контекстное меню в проводнике и рабочем столе
-
+; Не работает на 22000.71 и выше!
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FeatureManagement\Overrides\4\586118283]
 "EnabledState"=dword:00000001
 "EnabledStateOptions"=dword:00000001
