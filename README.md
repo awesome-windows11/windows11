@@ -81,12 +81,12 @@
 
 ![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png)
 
-### [EdgeSync](https://awesome-windows11.github.io/windows11/edgesync.bat)
+### [EdgeSync.bat](https://awesome-windows11.github.io/windows11/edgesync.bat)
 Принудительное включение и отключение синхронизации в Microsoft Edge
 
 <img src="https://user-images.githubusercontent.com/86190960/124653893-86a79880-dea6-11eb-876e-f8ff688139b5.png" width="50%">
 
-### [ExplorerClean.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/ExplorerClean.bat)
+### [ExplorerClean.bat](https://awesome-windows11.github.io/windows11/explorerclean.bat)
 Очистка проводника от пользовательских папок
 
 ### [TaskBarLayout.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarLayout.bat)
@@ -104,10 +104,11 @@
 
 <a href="https://user-images.githubusercontent.com/86190960/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png"><img src="https://i.ibb.co/KWhVPgj/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png"></a>
 
-### [load_anim.reg](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/load_anim.reg)
+### [load_anim.reg](https://awesome-windows11.github.io/windows11/load_anim.reg)
 Включить новую анимацию загрузки
 
 <a href="https://ibb.co/d0V5myB"><img src="https://i.ibb.co/d0V5myB/124324507-bf383100-db8b-11eb-8fec-6f3d0c259284.png"></a>
+
 # [FAQ](#explore)
 ❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓
 <br>
