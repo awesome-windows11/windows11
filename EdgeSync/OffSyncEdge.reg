@@ -1,4 +1,0 @@
-Windows Registry Editor Version 5.00
-; Download File: https://windows11.now.sh/EdgeSync/OffSyncEdge.reg
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
-"SyncDisabled"=dword:00000001
