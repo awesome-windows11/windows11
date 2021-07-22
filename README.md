@@ -49,34 +49,29 @@
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 
-### [oldcontextmenu.reg](https://awesome-windows11.github.io/windows11/oldcontextmenu.reg)
-Вернуть старое контекстное меню в проводнике и рабочем столе
-
-![image](https://user-images.githubusercontent.com/86190960/126198413-8e8c3f3e-bd4f-45d6-865a-6548936049d8.png)
-
-### [changepassword.bat](https://awesome-windows11.github.io/windows11/changepassword.bat)
+### [ChangePassword.bat](https://awesome-windows11.github.io/windows11/changepassword.bat)
 Быстрая смена пароля для пользователя Windows 11 и ниже
 
-### [temp.cmd](https://awesome-windows11.github.io/windows11/temp.cmd)
+### [Temp.cmd](https://awesome-windows11.github.io/windows11/temp.cmd)
 Перенести "C:\Users\Local\Temp" в "C:\Temp"
 
-### [explorerswitch.bat](https://awesome-windows11.github.io/windows11/explorerswitch.bat)
+### [ExplorerSwitch.bat](https://awesome-windows11.github.io/windows11/explorerswitch.bat)
 Переключение между старым и новым проводником
 
-### [vscodedefault.reg](https://awesome-windows11.github.io/windows11/vscode/vscodedefault.reg)
+### [VsCodeDefault.reg](https://awesome-windows11.github.io/windows11/vscode/vscodedefault.reg)
 Сделать VScode Portable редактором по умолчанию
 <br>
 **Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`)
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a>
 
-### [classicshell.reg](https://awesome-windows11.github.io/windows11/classicshell.reg)
+### [ClassicShell.reg](https://awesome-windows11.github.io/windows11/classicshell.reg)
 Вернуть ПОЛНОСТЬЮ старую оболочку, плюс избавиться от централизованной панели задач и помещает кнопку запуска обратно влево вместе с закрепленными элементами. **Есть баг!** Из-за настройки исчезает область времени / даты на панели задач!
 
 <a href="https://ibb.co/bgrqZKQ"><img src="https://i.ibb.co/jvLB2rb/125072308-1aee4700-e0c3-11eb-94bd-c204ef9e78bf.png" alt="125072308-1aee4700-e0c3-11eb-94bd-c204ef9e78bf" border="0"></a>
 <a href="https://ibb.co/1X585B1"><img src="https://i.ibb.co/fN545Zf/125072997-03fc2480-e0c4-11eb-928e-6c3f8a23e3f0.png" alt="125072997-03fc2480-e0c4-11eb-928e-6c3f8a23e3f0" border="0"></a>
 
-### [normalcontextmenu.reg](https://awesome-windows11.github.io/windows11/normalcontextmenu.reg)
+### [NormalContextMenu.reg](https://awesome-windows11.github.io/windows11/normalcontextmenu.reg)
 Восстановить классические контекстные меню в масштабе всей системы
 
 ![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png)
