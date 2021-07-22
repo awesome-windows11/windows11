@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+; Включение или отключение новой анимации загрузки
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\BootControl]
+"BootProgressAnimation"=dword:00000001
