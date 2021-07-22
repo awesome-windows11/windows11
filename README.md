@@ -81,7 +81,7 @@
 
 ![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png)
 
-### [EdgeSync](https://github.com/awesome-windows11/windows11/tree/main/EdgeSync)
+### [EdgeSync](https://awesome-windows11.github.io/windows11/edgesync.bat)
 Принудительное включение и отключение синхронизации в Microsoft Edge
 
 <img src="https://user-images.githubusercontent.com/86190960/124653893-86a79880-dea6-11eb-876e-f8ff688139b5.png" width="50%">
