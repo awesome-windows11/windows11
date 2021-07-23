@@ -13,6 +13,7 @@
 * [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases) - проверка на совместимость ПК с Windows 11
 * [Win11SysCheck.exe](https://github.com/mq1n/Win11SysCheck/releases) - аналог программы выше
 * https://github.com/abbodi1406/offlineinsiderenroll - получение Windows Insider напрямую, без аккаунтов
+* [WindowsThumbnailGenerator](https://github.com/hahagu/WindowsThumbnailGenerator) - вернуть папкам нормальный предварительный вид
 
 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
 <br>

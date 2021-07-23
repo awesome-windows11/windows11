@@ -3,3 +3,6 @@ Windows Registry Editor Version 5.00
 ; Download File: https://windows11.now.sh/classicshell.reg
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell\Update\Packages]
 "UndockingDisabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"Start_ShowClassicMode"=dword:00000000
