@@ -382,7 +382,7 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 
 ### Install My Apps:
 ```powershell
-winget install 7zip ; winget install steam ; winget install git ; winget install clsid2.mpc-hc ; winget install --id=Microsoft.dotNetFramework
+winget install 7zip ; winget install steam ; winget install git ; winget install clsid2.mpc-hc ; winget install --id=Microsoft.dotNetFramework ; winget install aimp ; winget install Terminal
 ```
 
 ### ![image](https://user-images.githubusercontent.com/86190960/124669713-849c0480-debb-11eb-8da8-58ed039128c9.png)[Paint.NET](https://www.dotpdn.com/downloads/pdn.html)
