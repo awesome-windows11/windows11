@@ -10,6 +10,7 @@
 > Telegram: https://t.me/windows11_insider
 > <br>
 
+* [AppIntaller WinGet](https://github.com/microsoft/winget-cli/releases/latest) - последний AppInstaller с поддержкой winget
 * [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases) - проверка на совместимость ПК с Windows 11
 * [Win11SysCheck.exe](https://github.com/mq1n/Win11SysCheck/releases) - аналог программы выше
 * https://github.com/abbodi1406/offlineinsiderenroll - получение Windows Insider напрямую, без аккаунтов
@@ -382,7 +383,7 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 
 ### Install My Apps:
 ```powershell
-winget install 7zip ; winget install steam ; winget install git ; winget install clsid2.mpc-hc ; winget install --id=Microsoft.dotNetFramework ; winget install aimp ; winget install Terminal
+winget install 7zip ; winget install steam ; winget install git ; winget install Terminal
 ```
 
 ### ![image](https://user-images.githubusercontent.com/86190960/124669713-849c0480-debb-11eb-8da8-58ed039128c9.png)[Paint.NET](https://www.dotpdn.com/downloads/pdn.html)
