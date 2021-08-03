@@ -51,6 +51,11 @@
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 
+###[nt_system.ps1](https://github.com/awesome-windows11/windows11/blob/main/nt_system.ps1)
+Получение прав NT/SYSTEM без дополнительных файлов и программ (достаточно одного файла).
+
+![изображение](https://user-images.githubusercontent.com/86190960/128032240-e25c917c-8bea-4539-be02-219013a640d5.png)
+
 ### [ChangePassword.bat](https://awesome-windows11.github.io/windows11/changepassword.bat)
 Быстрая смена пароля для пользователя Windows 11 и ниже
 
