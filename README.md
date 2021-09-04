@@ -51,6 +51,9 @@
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 
+### [Dev_Update.bat](https://github.com/awesome-windows11/windows11/blob/main/dev_update.bat)
+Получение Dev обновлений БЕЗ Insider
+
 ### [Nt_System.ps1](https://github.com/awesome-windows11/windows11/blob/main/nt_system.ps1)
 Получение прав NT/SYSTEM без дополнительных файлов и программ (достаточно одного файла).
 
