@@ -86,7 +86,7 @@
 <a href="https://ibb.co/bgrqZKQ"><img src="https://i.ibb.co/jvLB2rb/125072308-1aee4700-e0c3-11eb-94bd-c204ef9e78bf.png" alt="125072308-1aee4700-e0c3-11eb-94bd-c204ef9e78bf" border="0"></a>
 <a href="https://ibb.co/1X585B1"><img src="https://i.ibb.co/fN545Zf/125072997-03fc2480-e0c4-11eb-928e-6c3f8a23e3f0.png" alt="125072997-03fc2480-e0c4-11eb-928e-6c3f8a23e3f0" border="0"></a>
 
-### [NormalContextMenu.reg](https://awesome-windows11.github.io/windows11/normalcontextmenu.reg)
+### [NormalContextMenu.reg](https://github.com/awesome-windows11/windows11/blob/main/archive/oldcontextmenu.reg)
 Восстановить классические контекстные меню в масштабе всей системы
 
 ![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png)
