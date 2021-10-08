@@ -15,6 +15,7 @@
 * [Win11SysCheck.exe](https://github.com/mq1n/Win11SysCheck/releases) - аналог программы выше
 * https://github.com/abbodi1406/offlineinsiderenroll - получение Windows Insider напрямую, без аккаунтов
 * [WindowsThumbnailGenerator](https://github.com/hahagu/WindowsThumbnailGenerator) - вернуть папкам нормальный предварительный вид
+* [Explorer Patcher](https://github.com/valinet/ExplorerPatcher) - вернуть старую панель задач Windows 10
 
 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
 <br>
