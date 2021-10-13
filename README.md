@@ -17,6 +17,7 @@
 * [WindowsThumbnailGenerator](https://github.com/hahagu/WindowsThumbnailGenerator) - вернуть папкам нормальный предварительный вид
 * [Explorer Patcher](https://github.com/valinet/ExplorerPatcher) - вернуть старую панель задач Windows 10
 * [ХАК: Получить пароль администратора localbrute.ps1](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) - брутфорс пароля админа
+
 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
 <br>
 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨
