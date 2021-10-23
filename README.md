@@ -11,9 +11,13 @@
 > <br>
 
 * https://github.com/microsoft/winget-cli - последний AppInstaller с поддержкой winget
-* https://github.com/rcmaehl/WhyNotWin11 - проверка на совместимость ПК с Windows 11
-* https://github.com/mq1n/Win11SysCheck - аналог программы выше
 * https://github.com/abbodi1406/offlineinsiderenroll - получение Windows Insider напрямую, без аккаунтов
+
+### Проверка на совместимость с Windows 11:
+* https://github.com/rcmaehl/WhyNotWin11
+* https://github.com/mq1n/Win11SysCheck
+
+### Полезные проекты:
 * https://github.com/hahagu/WindowsThumbnailGenerator - вернуть папкам нормальный предварительный вид
 * https://github.com/valinet/ExplorerPatcher - вернуть старую панель задач Windows 10
 * https://github.com/InfosecMatter/Minimalistic-offensive-security-tools - ХАК: брутфорс пароля localbrute.ps1
