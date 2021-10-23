@@ -24,6 +24,7 @@
 * https://github.com/massgravel/Microsoft-Activation-Scripts - активаторы скрипты
 
 ### Скачать Windows 11:
+* https://github.com/ventoy/Ventoy
 * https://github.com/pbatard/Fido
 
 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
