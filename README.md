@@ -10,13 +10,14 @@
 > Telegram: https://t.me/windows11_insider
 > <br>
 
-* [AppIntaller WinGet](https://github.com/microsoft/winget-cli/releases/latest) - последний AppInstaller с поддержкой winget
-* [WhyNotWin11.exe](https://github.com/rcmaehl/WhyNotWin11/releases) - проверка на совместимость ПК с Windows 11
-* [Win11SysCheck.exe](https://github.com/mq1n/Win11SysCheck/releases) - аналог программы выше
+* https://github.com/microsoft/winget-cli - последний AppInstaller с поддержкой winget
+* https://github.com/rcmaehl/WhyNotWin11 - проверка на совместимость ПК с Windows 11
+* https://github.com/mq1n/Win11SysCheck - аналог программы выше
 * https://github.com/abbodi1406/offlineinsiderenroll - получение Windows Insider напрямую, без аккаунтов
-* [WindowsThumbnailGenerator](https://github.com/hahagu/WindowsThumbnailGenerator) - вернуть папкам нормальный предварительный вид
-* [Explorer Patcher](https://github.com/valinet/ExplorerPatcher) - вернуть старую панель задач Windows 10
-* [ХАК: Получить пароль администратора localbrute.ps1](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) - брутфорс пароля админа
+* https://github.com/hahagu/WindowsThumbnailGenerator - вернуть папкам нормальный предварительный вид
+* https://github.com/valinet/ExplorerPatcher - вернуть старую панель задач Windows 10
+* https://github.com/InfosecMatter/Minimalistic-offensive-security-tools - ХАК: брутфорс пароля localbrute.ps1
+* https://github.com/massgravel/Microsoft-Activation-Scripts - активаторы скрипты
 
 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
 <br>
