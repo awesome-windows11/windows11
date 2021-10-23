@@ -23,7 +23,7 @@
 * https://github.com/InfosecMatter/Minimalistic-offensive-security-tools - ХАК: брутфорс пароля localbrute.ps1
 * https://github.com/massgravel/Microsoft-Activation-Scripts - активаторы скрипты
 
-### Скачать Windows 11:
+### Скачивание и установка Windows 11:
 * https://github.com/ventoy/Ventoy
 * https://github.com/pbatard/Fido
 
