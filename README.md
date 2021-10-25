@@ -22,6 +22,7 @@
 * https://github.com/valinet/ExplorerPatcher - вернуть старую панель задач Windows 10
 * https://github.com/InfosecMatter/Minimalistic-offensive-security-tools - ХАК: брутфорс пароля localbrute.ps1
 * https://github.com/massgravel/Microsoft-Activation-Scripts - активаторы скрипты
+* https://github.com/ADeltaX/WSAGAScript - установка Google Play на Windows 11
 
 ### Скачивание и установка Windows 11:
 * https://github.com/ventoy/Ventoy
