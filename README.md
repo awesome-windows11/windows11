@@ -27,6 +27,7 @@
 ### Скачивание и установка Windows 11:
 * https://github.com/ventoy/Ventoy
 * https://github.com/pbatard/Fido
+* https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg - установка APK приложений
 
 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
 <br>
