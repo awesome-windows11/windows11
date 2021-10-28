@@ -23,11 +23,12 @@
 * https://github.com/InfosecMatter/Minimalistic-offensive-security-tools - ХАК: брутфорс пароля localbrute.ps1
 * https://github.com/massgravel/Microsoft-Activation-Scripts - активаторы скрипты
 * https://github.com/ADeltaX/WSAGAScript - установка Google Play на Windows 11
+* https://www.defenderui.com - Найстрока Windows защитника
+* https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg - WSATools: установка APK приложений
 
 ### Скачивание и установка Windows 11:
 * https://github.com/ventoy/Ventoy
 * https://github.com/pbatard/Fido
-* https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg - WSATools: установка APK приложений
 
 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
 <br>
