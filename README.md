@@ -17,14 +17,16 @@
 * https://github.com/rcmaehl/WhyNotWin11
 * https://github.com/mq1n/Win11SysCheck
 
-### Полезные проекты:
+### Приложения для Windows 11:
+* https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix - фикс панели задач
 * https://github.com/hahagu/WindowsThumbnailGenerator - вернуть папкам нормальный предварительный вид
 * https://github.com/valinet/ExplorerPatcher - вернуть старую панель задач Windows 10
-* https://github.com/InfosecMatter/Minimalistic-offensive-security-tools - ХАК: брутфорс пароля localbrute.ps1
-* https://github.com/massgravel/Microsoft-Activation-Scripts - активаторы скрипты
 * https://github.com/ADeltaX/WSAGAScript - установка Google Play на Windows 11
 * https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg - WSATools: установка APK приложений
 
+### Другое:
+* https://github.com/InfosecMatter/Minimalistic-offensive-security-tools - ХАК: брутфорс пароля localbrute.ps1
+* https://github.com/massgravel/Microsoft-Activation-Scripts - активаторы скрипты
 ### Скачивание и установка Windows 11:
 * https://github.com/ventoy/Ventoy
 * https://github.com/pbatard/Fido
