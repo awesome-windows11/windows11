@@ -5,3 +5,4 @@ EdgeWebView\Application\%version%\Installer\setup.exe --uninstall --force-uninst
 Edge\Application\%version%\Installer\setup.exe --uninstall --force-uninstall --msedge --system-level --verbose-logging
 EdgeCore\%version%\Installer\setup.exe --uninstall --force-uninstall --msedge --system-level --verbose-logging
 exit /b
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft" /v DoNotUpdateToEdgeWithChromium /t REG_DWORD /d 1 /f
