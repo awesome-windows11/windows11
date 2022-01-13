@@ -100,6 +100,10 @@ Get-AppxPackage –AllUsers
 ```powershell
 Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
+OR
+```cmd
+winreset -i
+```
 ## Как восстановить App Installer (winget)
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
