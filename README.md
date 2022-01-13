@@ -69,7 +69,7 @@
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 | Скачать | Описание | Скриншот |
 | -------- | ---- | ------ |
-| [Remove_Ddge.bat](https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat) | Удаление Microsoft Edge | <a href="https://ibb.co/tcck0vC"><img src="https://i.ibb.co/tcck0vC/image.png" alt="image" border="0"></a> <a href="https://ibb.co/5kqWgDh"><img src="https://i.ibb.co/5kqWgDh/image.png" alt="image" border="0"></a> |
+| [Remove_Ddge.bat](https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat) | Удаление Microsoft Edge | ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png) ![image](https://user-images.githubusercontent.com/86190960/149354585-d467a0fe-60db-4a9b-82a6-20ea0f40934e.png) |
 | [Dev_Update.bat](https://github.com/awesome-windows11/windows11/blob/main/dev_update.bat) | Получение Dev обновлений БЕЗ Insider
 | [ChangePassword.bat](https://awesome-windows11.github.io/windows11/changepassword.bat) | Быстрая смена пароля для пользователя Windows 11 и ниже
 | [Temp.cmd](https://awesome-windows11.github.io/windows11/temp.cmd) | Перенести "C:\Users\Local\Temp" в "C:\Temp"
