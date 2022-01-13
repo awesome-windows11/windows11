@@ -67,11 +67,9 @@
 
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
-
-### [Remove_Ddge.bat](https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat)
-Удаление Microsoft Edge
-
-![изображение](https://user-images.githubusercontent.com/86190960/132096093-c5e3dc6f-657f-420b-b83f-e6be47b11d0a.png) ![изображение](https://user-images.githubusercontent.com/86190960/132096096-f1f91bf6-2d6e-485c-ab96-6c85e98918f4.png)
+| Скачать | Описание | Скриншот |
+| -------- | ---- | ------ |
+| [Remove_Ddge.bat](https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat) | Удаление Microsoft Edge | <a href="https://ibb.co/tcck0vC"><img src="https://i.ibb.co/tcck0vC/image.png" alt="image" border="0"></a><a href="https://ibb.co/5kqWgDh"><img src="https://i.ibb.co/5kqWgDh/image.png" alt="image" border="0"></a> |
 
 ### [Dev_Update.bat](https://github.com/awesome-windows11/windows11/blob/main/dev_update.bat)
 Получение Dev обновлений БЕЗ Insider
