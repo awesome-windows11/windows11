@@ -10,7 +10,7 @@
 > Telegram: https://t.me/windows11_insider
 > <br>
 * https://github.com/gerardog/gsudo/releases/download/v1.0.2/gsudoSetup.msi - Получение NT/SYSTEM прав для Windows (ВАЖНО!) 
-* (https://www.nirsoft.net/utils/whatinstartup-x64.zip)[WhatInStartup.zip] - отключение скрытых программ из автозапуска
+* [WhatInStartup.zip](https://www.nirsoft.net/utils/whatinstartup-x64.zip) - отключение скрытых программ из автозапуска
 * https://github.com/microsoft/winget-cli - последний AppInstaller с поддержкой winget
 * https://github.com/abbodi1406/offlineinsiderenroll - получение Windows Insider напрямую, без аккаунтов
 
