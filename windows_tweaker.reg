@@ -28,3 +28,8 @@ Windows Registry Editor Version 5.00
 ; ================================================ РАЗМЫТИЕ ЭКРАНА БЛОКИРОВКИ ОТКЛЮЧИТЬ? ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
 "DisableAcrylicBackgroundOnLogon"=dword:00000001 ; Отключать - 1 | Не отключать - 0
+
+; ================================================ ТЁМНАЯ ТЕМА - 0 | СВЕТЛАЯ ТЕМА - 1  ================================================
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+"AppsUseLightTheme"=dword:00000000
+"SystemUsesLightTheme"=dword:00000000
