@@ -17,9 +17,9 @@
 
 ### Твикеры Windows 11:
 * [Windows11DragAndDropToTaskbarFix.exe](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - фикс панели задач
-* https://github.com/hahagu/WindowsThumbnailGenerator - вернуть папкам нормальный предварительный вид
+* [WindowsThumbnailGenerator](https://github.com/hahagu/WindowsThumbnailGenerator) - вернуть папкам нормальный предварительный вид
 * https://github.com/valinet/ExplorerPatcher - вернуть старую панель задач Windows 10
-* https://github.com/ADeltaX/WSAGAScript - установка Google Play на Windows 11
+* https://github.com/ADeltaX/WSAGAScript - установка Google Play
 * https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg - WSATools: установка APK приложений
 
 ### Другое:
