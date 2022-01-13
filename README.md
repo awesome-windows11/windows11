@@ -85,14 +85,11 @@
 # [FAQ](#explore)
 ❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓
 <br>
-## Как посмотреть все приложения UWP в PowerShell?
-Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
-Get-AppxPackage –AllUsers | Select Name, PackageFullName
+Get-AppxPackage –AllUsers | Select Name, PackageFullName # Как посмотреть все приложения UWP в PowerShell
 ```
-Для подробного анализа, введите полную команду:
 ```powershell
-Get-AppxPackage –AllUsers
+Get-AppxPackage –AllUsers # Для подробного анализа, введите полную команду:
 ```
 
 ## Как восстановить Microsoft Store?
