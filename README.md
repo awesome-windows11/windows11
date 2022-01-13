@@ -86,15 +86,14 @@
 ❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓
 <br>
 ```powershell
-Get-AppxPackage –AllUsers | Select Name, PackageFullName # Как посмотреть все приложения UWP в PowerShell
+Get-AppxPackage –AllUsers | Select Name, PackageFullName # Посмотреть все приложения UWP
 ```
 ```powershell
-Get-AppxPackage –AllUsers # Для подробного анализа, введите полную команду:
+Get-AppxPackage –AllUsers # Полная команда, для подробного анализа
 ```
 
-## Как восстановить Microsoft Store?
-Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
+# Восстановить Microsoft Store
 Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
 OR
