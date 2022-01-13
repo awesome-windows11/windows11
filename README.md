@@ -14,21 +14,22 @@
 * [AppInstaller](https://github.com/microsoft/winget-cli) - последний с поддержкой winget
 * [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) - получение Windows Insider напрямую, без аккаунтов
 
+### Другое:
+* https://github.com/InfosecMatter/Minimalistic-offensive-security-tools - ХАК: брутфорс пароля localbrute.ps1
+* https://github.com/massgravel/Microsoft-Activation-Scripts - активаторы скрипты
 
 ### Твикеры Windows 11:
 * [Windows11DragAndDropToTaskbarFix.exe](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - фикс панели задач
 * [WindowsThumbnailGenerator.zip](https://github.com/hahagu/WindowsThumbnailGenerator) - вернуть папкам нормальный предварительный вид
 * [ExplorerPatcher.exe](https://github.com/valinet/ExplorerPatcher) - вернуть старую панель задач Windows 10
-* https://github.com/ADeltaX/WSAGAScript - установка Google Play
-* https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg - WSATools: установка APK приложений
-
-### Другое:
-* https://github.com/InfosecMatter/Minimalistic-offensive-security-tools - ХАК: брутфорс пароля localbrute.ps1
-* https://github.com/massgravel/Microsoft-Activation-Scripts - активаторы скрипты
-
-### Скачивание и установка Windows 11:
+* 
+### Скачивание и установка Windows:
 * https://github.com/ventoy/Ventoy
 * https://github.com/pbatard/Fido
+
+### APK Windows 11
+* https://github.com/ADeltaX/WSAGAScript - установка Google Play
+* https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg - WSATools: установка APK приложений
 
 ### Проверка на совместимость с Windows 11:
 * https://github.com/rcmaehl/WhyNotWin11
