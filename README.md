@@ -73,7 +73,6 @@
 | [Dev_Update.bat](https://github.com/awesome-windows11/windows11/blob/main/dev_update.bat) | Получение Dev обновлений БЕЗ Insider
 | [Temp.cmd](https://awesome-windows11.github.io/windows11/temp.cmd) | Перенести "C:\Users\Local\Temp" в "C:\Temp"
 | [ExplorerSwitch.bat](https://awesome-windows11.github.io/windows11/explorerswitch.bat) | Переключение между старым и новым проводником
-| [VsCodeDefault.reg](https://awesome-windows11.github.io/windows11/vscode/vscodedefault.reg) | Сделать VScode Portable редактором по умолчанию <br> **Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`) | <a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a>
 | [ClassicShell.reg](https://awesome-windows11.github.io/windows11/classicshell.reg) | Вернуть ПОЛНОСТЬЮ старую оболочку, плюс избавиться от централизованной панели задач и помещает кнопку запуска обратно влево вместе с закрепленными элементами. **Есть баг!** Из-за настройки исчезает область времени / даты на панели задач! | ![image](https://user-images.githubusercontent.com/86190960/149354735-576f6291-62b6-4b41-94c9-d2b92cf90ebf.png)
 | [ExplorerClean.bat](https://awesome-windows11.github.io/windows11/explorerclean.bat) | Очистка проводника от пользовательских папок
 | [TaskBarLayout.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarLayout.bat) | Изменить расположение панели задач | ![image](https://user-images.githubusercontent.com/86190960/149355038-60bd0c3e-cec0-4ca7-bab3-16bccfa4d597.png) 
@@ -81,6 +80,7 @@
 | [InputSwitch.zip](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip) | Отключить / включить всплывающую панель языка | ![image](https://user-images.githubusercontent.com/86190960/149355219-377f3d65-d638-4937-bfa7-69e24332eab3.png)
 | [load_anim.reg](https://awesome-windows11.github.io/windows11/load_anim.reg) | Включить новую анимацию загрузки | ![image](https://user-images.githubusercontent.com/86190960/149355280-d00369a9-766f-4758-9277-5a0dc0f7e428.png)
 | [contextmenu.reg](https://github.com/awesome-windows11/windows11/blob/df7d30d80c1cf5fac49b5c3517000cebae5e0d5d/windows_tweaker.reg#L73) | Восстановить классические контекстные меню в масштабе всей системы | ![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png)
+| [VsCodeDefault.reg](https://awesome-windows11.github.io/windows11/vscode/vscodedefault.reg) | Сделать VScode Portable редактором по умолчанию <br> **Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`) | <a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a>
 
 # [FAQ](#explore)
 ❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓
