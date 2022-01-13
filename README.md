@@ -25,6 +25,7 @@
 * [ExplorerPatcher.exe](https://github.com/valinet/ExplorerPatcher) - вернуть старую панель задач Windows 10
 
 ### Скачивание и установка Windows:
+* [❗ My files](https://1drv.ms/f/s!AhusSLWjGpTDghZVw3iu3wpvNCh4)
 * https://github.com/ventoy/Ventoy
 * https://github.com/pbatard/Fido
 * [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15)
@@ -41,8 +42,6 @@
 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
 <br>
 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨
-<br>
-⬇️ Download Files: https://1drv.ms/f/s!AhusSLWjGpTDghZVw3iu3wpvNCh4
 
 ## Explore
 [ℹ Быстрая установка Windows 11](https://gist.github.com/awesome-windows11/52b35de87f369196e1516882fa27a62e)
