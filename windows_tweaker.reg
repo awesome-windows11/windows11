@@ -4,7 +4,7 @@ Windows Registry Editor Version 5.00
 ; ================================================ WINDOWS UPDATE ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
 "DisableOSUpgrade"=dword:00000001 ; отключить установку новых версий
-"SetDisableUXWUAccess"=dword:00000001 ; Если включить этот параметр, доступ пользователей для сканирования, загрузки и установки в Центре обновления Windows будет запрещен.
+"SetDisableUXWUAccess"=dword:00000001 ; Если 1, доступ пользователей для сканирования, загрузки и установки в Центре обновления Windows будет запрещен.
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
 "NoAutoUpdate"=dword:00000001 ; 1 = отключить Automatic Updates
 "AUOptions"=dword:00000002 ; 2 = извещать перед загрузкой;
