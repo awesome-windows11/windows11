@@ -24,6 +24,8 @@ Windows Registry Editor Version 5.00
 "DisableRealtimeMonitoring"=dword:00000001 ; Если 1, Microsoft Defender не предлагает пользователю предпринять действия по обнаружению вредоносных программ.
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\SmartScreen]
 "ConfigureAppInstallControlEnabled"=dword:00000000 ; Если 0, Отключить рекомендации приложений | Если 3, разрешать использование приложений ТОЛЬКОЙ из Store
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Features]
+"TamperProtection"=dword:00000000 ; Отключить защиту от несанкционированного доступа 
 
 ; ================================================ РАЗМЫТИЕ ЭКРАНА БЛОКИРОВКИ ОТКЛЮЧИТЬ? ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
