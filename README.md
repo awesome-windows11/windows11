@@ -93,7 +93,6 @@ Get-AppxPackage –AllUsers | Select Name, PackageFullName
 # Полная команда, для подробного анализа
 Get-AppxPackage –AllUsers
 ```
-
 ```powershell
 # Восстановить Microsoft Store
 Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
@@ -102,59 +101,47 @@ OR
 ```cmd
 wsreset.exe -i
 ```
-
 ```powershell
 # Восстановить App Installer (winget)
 Get-AppXPackage *AppInstaller* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
-
-## Как восстановить Windows Terminal?
-Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
+# Восстановить Windows Terminal
 Get-AppXPackage *WindowsTerminal* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
-
-## Как восстановить Notepad (Блокнот)?
-Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
+# Восстановить Notepad (Блокнот)
 Get-AppXPackage *Notepad* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
-## Как восстановить Windows Gadgets? (Гаджеты)
-Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
+# Восстановить Windows Gadgets (Гаджеты)
 Get-AppXPackage *Windows.Client.WebExperience* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
 ![изображение](https://user-images.githubusercontent.com/86190960/125692295-e047e2fd-1fc8-414f-860c-4e12deec2bc3.png)
 ![изображение](https://user-images.githubusercontent.com/86190960/125692307-e8b3f2d6-55c7-48c5-bb2e-c642afeb20bb.png)
 
-## Как удалить любое приложение в PowerShell?
-Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
+# Удалить любое приложение в PowerShell
 Get-AppxPackage *NAME* | Remove-AppxPackage
 ```
-1) Для того чтобы приложение удалилось у всех пользователей:
 ```powershell
+# Для того чтобы приложение удалилось у всех пользователей:
 Get-AppxPackage -allusers *NAME* | Remove-AppxPackage
 ```
-2) Для всех новых:
 ```powershell
+# Для всех новых:
 Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*NAME*"} | Remove-AppxProvisionedPackage –online
 ```
-
-## Как удалить все приложения кроме Microsoft Store?
-Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
+# Как удалить ВСЕ приложения, КРОМЕ Microsoft Store
 Get-AppxPackage -AllUsers | where-object {$_.name –notlike "*store*"} | Remove-AppxPackage
 ```
-
-## Как удалить все встроенные UWP приложения?
-Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
 ```powershell
+# Как удалить ВСЕ приложения?
 Get-AppxPackage | Remove-AppxPackage
 ```
-
-## Как удалить все приложения кроме нескольких N приложений?
 ```powershell
+# Как удалить все приложения кроме нескольких N приложений?
 Get-AppxPackage -AllUsers | where-object {$_.name -notlike "*NAME1*"} | where-object {$_.name -notlike "*NAME2*"} | where-object {$_.name -notlike "*NAME3*"} | Remove-AppxPackage
 ```
 
