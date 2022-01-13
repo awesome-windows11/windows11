@@ -102,7 +102,7 @@ Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDeve
 ```
 OR
 ```cmd
-winreset -i
+wsreset.exe -i
 ```
 ## Как восстановить App Installer (winget)
 Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
