@@ -86,10 +86,12 @@
 ❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓
 <br>
 ```powershell
-Get-AppxPackage –AllUsers | Select Name, PackageFullName # Посмотреть все приложения UWP
+# Посмотреть все приложения UWP
+Get-AppxPackage –AllUsers | Select Name, PackageFullName
 ```
 ```powershell
-Get-AppxPackage –AllUsers # Полная команда, для подробного анализа
+# Полная команда, для подробного анализа
+Get-AppxPackage –AllUsers
 ```
 
 ```powershell
@@ -100,9 +102,9 @@ OR
 ```cmd
 wsreset.exe -i
 ```
-## Как восстановить App Installer (winget)
-Выполните команду в PowerShell (нажмите по команде справа чтобы скопировать):
+
 ```powershell
+# Восстановить App Installer (winget)
 Get-AppXPackage *AppInstaller* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
 
