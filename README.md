@@ -28,6 +28,7 @@
 * https://github.com/ventoy/Ventoy
 * https://github.com/pbatard/Fido
 * [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15)
+* [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
 
 ### APK Windows 11
 * https://github.com/ADeltaX/WSAGAScript - установка Google Play
@@ -40,8 +41,6 @@
 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
 <br>
 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨
-
-⬇️ Download ISO: https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso
 <br>
 ⬇️ Download Files: https://1drv.ms/f/s!AhusSLWjGpTDghZVw3iu3wpvNCh4
 
