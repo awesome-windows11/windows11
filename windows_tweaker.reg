@@ -34,8 +34,3 @@ Windows Registry Editor Version 5.00
 "AppsUseLightTheme"=dword:00000000 ; 1 ЧАСТЬ ТЕМЫ
 "SystemUsesLightTheme"=dword:00000000 ; 2 ЧАСТЬ ТЕМЫ
 "EnableTransparency"=dword:00000001 ; ПРОЗРАЧНОСТЬ
-
-[HKEY_CLASSES_ROOT\CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\ShellFolder]
-"Attributes"=dword:b0940064 ; скрыть сеть x32
-[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Classes\CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\ShellFolder]
-"Attributes"=dword:b0040064 ; скрыть сеть x64
