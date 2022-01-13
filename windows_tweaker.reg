@@ -5,17 +5,17 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
 "DisableOSUpgrade"=dword:00000001 ; отключить установку новых версий
 "SetDisableUXWUAccess"=dword:00000001 ; Если включить этот параметр, доступ пользователей для сканирования, загрузки и установки в Центре обновления Windows будет запрещен.
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
 "NoAutoUpdate"=dword:00000001 ; 1 = отключить Automatic Updates
 "AUOptions"=dword:00000002 ; 2 = извещать перед загрузкой;
 "ScheduledInstallDay"=dword:00000000 ; (действительно только при AUOptions = 4, по расписанию!) 0 = каждый день
 "ScheduledInstallTime"=dword:00000003 ; Время суток в 24-часовом формате (значение от 0 до 23)
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching]
+"SearchOrderConfig"=dword:00000000 ; Отключить автоустановку драйверов (любых!)
 
 ; ================================================ WINDOWS DEFENDER ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
 "DisableAntiSpyware"=dword:00000001 ; Выключить Защитник Windows
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
 "DisableBehaviorMonitoring"=dword:00000001 ; Если 1, контроль поведения отключен.
 "DisableOnAccessProtection"=dword:00000001 ; Если 1, отслеживание действий файлов и программ будет включено.
