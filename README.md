@@ -74,9 +74,7 @@
 | [ChangePassword.bat](https://awesome-windows11.github.io/windows11/changepassword.bat) | Быстрая смена пароля для пользователя Windows 11 и ниже
 | [Temp.cmd](https://awesome-windows11.github.io/windows11/temp.cmd) | Перенести "C:\Users\Local\Temp" в "C:\Temp"
 | [ExplorerSwitch.bat](https://awesome-windows11.github.io/windows11/explorerswitch.bat) | Переключение между старым и новым проводником
-| [VsCodeDefault.reg](https://awesome-windows11.github.io/windows11/vscode/vscodedefault.reg) | Сделать VScode Portable редактором по умолчанию <br> **Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`)
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a>
+| [VsCodeDefault.reg](https://awesome-windows11.github.io/windows11/vscode/vscodedefault.reg) | Сделать VScode Portable редактором по умолчанию <br> **Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`) | <a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a>
 
 ### [ClassicShell.reg](https://awesome-windows11.github.io/windows11/classicshell.reg)
 Вернуть ПОЛНОСТЬЮ старую оболочку, плюс избавиться от централизованной панели задач и помещает кнопку запуска обратно влево вместе с закрепленными элементами. **Есть баг!** Из-за настройки исчезает область времени / даты на панели задач!
