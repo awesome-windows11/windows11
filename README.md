@@ -76,12 +76,7 @@
 | [ExplorerSwitch.bat](https://awesome-windows11.github.io/windows11/explorerswitch.bat) | Переключение между старым и новым проводником
 | [VsCodeDefault.reg](https://awesome-windows11.github.io/windows11/vscode/vscodedefault.reg) | Сделать VScode Portable редактором по умолчанию <br> **Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`) | <a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a>
 | [ClassicShell.reg](https://awesome-windows11.github.io/windows11/classicshell.reg) | Вернуть ПОЛНОСТЬЮ старую оболочку, плюс избавиться от централизованной панели задач и помещает кнопку запуска обратно влево вместе с закрепленными элементами. **Есть баг!** Из-за настройки исчезает область времени / даты на панели задач! | ![image](https://user-images.githubusercontent.com/86190960/149354735-576f6291-62b6-4b41-94c9-d2b92cf90ebf.png)
-
-
-### [NormalContextMenu.reg](https://github.com/awesome-windows11/windows11/blob/main/archive/oldcontextmenu.reg)
-Восстановить классические контекстные меню в масштабе всей системы
-
-![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png)
+| [NormalContextMenu.reg](https://github.com/awesome-windows11/windows11/blob/main/archive/oldcontextmenu.reg) | Восстановить классические контекстные меню в масштабе всей системы | ![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png)
 
 ### [EdgeSync.bat](https://awesome-windows11.github.io/windows11/edgesync.bat)
 Принудительное включение и отключение синхронизации в Microsoft Edge
