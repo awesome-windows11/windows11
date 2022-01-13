@@ -69,24 +69,12 @@
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 | Скачать | Описание | Скриншот |
 | -------- | ---- | ------ |
-| [Remove_Ddge.bat](https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat) | Удаление Microsoft Edge | <a href="https://ibb.co/tcck0vC"><img src="https://i.ibb.co/tcck0vC/image.png" alt="image" border="0"></a><a href="https://ibb.co/5kqWgDh"><img src="https://i.ibb.co/5kqWgDh/image.png" alt="image" border="0"></a> |
-
-### [Dev_Update.bat](https://github.com/awesome-windows11/windows11/blob/main/dev_update.bat)
-Получение Dev обновлений БЕЗ Insider
-
-### [ChangePassword.bat](https://awesome-windows11.github.io/windows11/changepassword.bat)
-Быстрая смена пароля для пользователя Windows 11 и ниже
-
-### [Temp.cmd](https://awesome-windows11.github.io/windows11/temp.cmd)
-Перенести "C:\Users\Local\Temp" в "C:\Temp"
-
-### [ExplorerSwitch.bat](https://awesome-windows11.github.io/windows11/explorerswitch.bat)
-Переключение между старым и новым проводником
-
-### [VsCodeDefault.reg](https://awesome-windows11.github.io/windows11/vscode/vscodedefault.reg)
-Сделать VScode Portable редактором по умолчанию
-<br>
-**Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`)
+| [Remove_Ddge.bat](https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat) | Удаление Microsoft Edge | <a href="https://ibb.co/tcck0vC"><img src="https://i.ibb.co/tcck0vC/image.png" alt="image" border="0"></a> <a href="https://ibb.co/5kqWgDh"><img src="https://i.ibb.co/5kqWgDh/image.png" alt="image" border="0"></a> |
+| [Dev_Update.bat](https://github.com/awesome-windows11/windows11/blob/main/dev_update.bat) | Получение Dev обновлений БЕЗ Insider
+| [ChangePassword.bat](https://awesome-windows11.github.io/windows11/changepassword.bat) | Быстрая смена пароля для пользователя Windows 11 и ниже
+| [Temp.cmd](https://awesome-windows11.github.io/windows11/temp.cmd) | Перенести "C:\Users\Local\Temp" в "C:\Temp"
+| [ExplorerSwitch.bat](https://awesome-windows11.github.io/windows11/explorerswitch.bat) | Переключение между старым и новым проводником
+| [VsCodeDefault.reg](https://awesome-windows11.github.io/windows11/vscode/vscodedefault.reg) | Сделать VScode Portable редактором по умолчанию <br> **Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`)
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a>
 
