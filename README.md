@@ -19,6 +19,7 @@
 * [MAS.7z](https://github.com/massgravel/Microsoft-Activation-Scripts) - активаторы скрипты
 
 ### Твикеры Windows 11:
+* [Windows.11Fixer.zip](https://github.com/99natmar99/Windows-11-Fixer)
 * [Windows11DragAndDropToTaskbarFix.exe](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - фикс панели задач
 * [WindowsThumbnailGenerator.zip](https://github.com/hahagu/WindowsThumbnailGenerator) - вернуть папкам нормальный предварительный вид
 * [ExplorerPatcher.exe](https://github.com/valinet/ExplorerPatcher) - вернуть старую панель задач Windows 10
