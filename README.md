@@ -16,7 +16,7 @@
 
 ### Другое:
 * [localbrute.ps1](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) - ХАК: брутфорс пароля
-* https://github.com/massgravel/Microsoft-Activation-Scripts - активаторы скрипты
+* [MAS.7z](https://github.com/massgravel/Microsoft-Activation-Scripts) - активаторы скрипты
 
 ### Твикеры Windows 11:
 * [Windows11DragAndDropToTaskbarFix.exe](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - фикс панели задач
