@@ -13,9 +13,6 @@
 * https://github.com/microsoft/winget-cli - последний AppInstaller с поддержкой winget
 * https://github.com/abbodi1406/offlineinsiderenroll - получение Windows Insider напрямую, без аккаунтов
 
-### Проверка на совместимость с Windows 11:
-* https://github.com/rcmaehl/WhyNotWin11
-* https://github.com/mq1n/Win11SysCheck
 
 ### Приложения для Windows 11:
 * https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix - фикс панели задач
@@ -27,9 +24,14 @@
 ### Другое:
 * https://github.com/InfosecMatter/Minimalistic-offensive-security-tools - ХАК: брутфорс пароля localbrute.ps1
 * https://github.com/massgravel/Microsoft-Activation-Scripts - активаторы скрипты
+
 ### Скачивание и установка Windows 11:
 * https://github.com/ventoy/Ventoy
 * https://github.com/pbatard/Fido
+
+### Проверка на совместимость с Windows 11:
+* https://github.com/rcmaehl/WhyNotWin11
+* https://github.com/mq1n/Win11SysCheck
 
 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
 <br>
