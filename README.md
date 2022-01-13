@@ -15,7 +15,7 @@
 * [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) - получение Windows Insider напрямую, без аккаунтов
 
 ### Другое:
-* https://github.com/InfosecMatter/Minimalistic-offensive-security-tools - ХАК: брутфорс пароля localbrute.ps1
+* [localbrute.ps1](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) - ХАК: брутфорс пароля
 * https://github.com/massgravel/Microsoft-Activation-Scripts - активаторы скрипты
 
 ### Твикеры Windows 11:
