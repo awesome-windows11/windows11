@@ -81,16 +81,8 @@
 | [ExplorerClean.bat](https://awesome-windows11.github.io/windows11/explorerclean.bat) | Очистка проводника от пользовательских папок
 | [TaskBarLayout.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarLayout.bat) | Изменить расположение панели задач | ![image](https://user-images.githubusercontent.com/86190960/149355038-60bd0c3e-cec0-4ca7-bab3-16bccfa4d597.png) 
 | [TaskBarSize.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarSize.bat) | Изменить размер панели задач | <a href="https://user-images.githubusercontent.com/86190960/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png"><img src="https://i.ibb.co/7X4680R/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png"></a>
-
-### [InputSwitch.zip](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip)
-Отключить / включить всплывающую панель языка
-
-<a href="https://user-images.githubusercontent.com/86190960/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png"><img src="https://i.ibb.co/KWhVPgj/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png"></a>
-
-### [load_anim.reg](https://awesome-windows11.github.io/windows11/load_anim.reg)
-Включить новую анимацию загрузки
-
-<a href="https://ibb.co/d0V5myB"><img src="https://i.ibb.co/d0V5myB/124324507-bf383100-db8b-11eb-8fec-6f3d0c259284.png"></a>
+| [InputSwitch.zip](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip) | Отключить / включить всплывающую панель языка | <a href="https://user-images.githubusercontent.com/86190960/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png"><img src="https://i.ibb.co/KWhVPgj/122756638-586b6b80-d29f-11eb-8dd1-34c57f21adc9.png"></a>
+| [load_anim.reg](https://awesome-windows11.github.io/windows11/load_anim.reg) | Включить новую анимацию загрузки | <a href="https://ibb.co/d0V5myB"><img src="https://i.ibb.co/d0V5myB/124324507-bf383100-db8b-11eb-8fec-6f3d0c259284.png"></a>
 
 # [FAQ](#explore)
 ❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓
