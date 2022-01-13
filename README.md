@@ -12,7 +12,7 @@
 * [gsudo.msi](https://github.com/gerardog/gsudo/releases/download/v1.0.2/gsudoSetup.msi) - Получение NT/SYSTEM прав для Windows (ВАЖНО!) 
 * [WhatInStartup.zip](https://www.nirsoft.net/utils/whatinstartup-x64.zip) - отключение скрытых программ из автозапуска
 * [AppInstaller](https://github.com/microsoft/winget-cli) - последний с поддержкой winget
-* https://github.com/abbodi1406/offlineinsiderenroll - получение Windows Insider напрямую, без аккаунтов
+* [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) - получение Windows Insider напрямую, без аккаунтов
 
 
 ### Приложения для Windows 11:
