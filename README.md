@@ -75,12 +75,8 @@
 | [Temp.cmd](https://awesome-windows11.github.io/windows11/temp.cmd) | Перенести "C:\Users\Local\Temp" в "C:\Temp"
 | [ExplorerSwitch.bat](https://awesome-windows11.github.io/windows11/explorerswitch.bat) | Переключение между старым и новым проводником
 | [VsCodeDefault.reg](https://awesome-windows11.github.io/windows11/vscode/vscodedefault.reg) | Сделать VScode Portable редактором по умолчанию <br> **Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`) | <a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a>
+| [ClassicShell.reg](https://awesome-windows11.github.io/windows11/classicshell.reg) | Вернуть ПОЛНОСТЬЮ старую оболочку, плюс избавиться от централизованной панели задач и помещает кнопку запуска обратно влево вместе с закрепленными элементами. **Есть баг!** Из-за настройки исчезает область времени / даты на панели задач! | ![image](https://user-images.githubusercontent.com/86190960/149354735-576f6291-62b6-4b41-94c9-d2b92cf90ebf.png)
 
-### [ClassicShell.reg](https://awesome-windows11.github.io/windows11/classicshell.reg)
-Вернуть ПОЛНОСТЬЮ старую оболочку, плюс избавиться от централизованной панели задач и помещает кнопку запуска обратно влево вместе с закрепленными элементами. **Есть баг!** Из-за настройки исчезает область времени / даты на панели задач!
-
-<a href="https://ibb.co/bgrqZKQ"><img src="https://i.ibb.co/jvLB2rb/125072308-1aee4700-e0c3-11eb-94bd-c204ef9e78bf.png" alt="125072308-1aee4700-e0c3-11eb-94bd-c204ef9e78bf" border="0"></a>
-<a href="https://ibb.co/1X585B1"><img src="https://i.ibb.co/fN545Zf/125072997-03fc2480-e0c4-11eb-928e-6c3f8a23e3f0.png" alt="125072997-03fc2480-e0c4-11eb-928e-6c3f8a23e3f0" border="0"></a>
 
 ### [NormalContextMenu.reg](https://github.com/awesome-windows11/windows11/blob/main/archive/oldcontextmenu.reg)
 Восстановить классические контекстные меню в масштабе всей системы
