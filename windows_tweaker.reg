@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 ; Source: https://admx.help/HKLM/Software/Policies
 
-; ====================================== WINDOWS UPDATE ======================================
+; ================================================ WINDOWS UPDATE ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
 "DisableOSUpgrade"=dword:00000001 ; отключить установку новых версий
 "SetDisableUXWUAccess"=dword:00000001 ; Если включить этот параметр, доступ пользователей для сканирования, загрузки и установки в Центре обновления Windows будет запрещен.
@@ -12,7 +12,7 @@ Windows Registry Editor Version 5.00
 "ScheduledInstallDay"=dword:00000000 ; (действительно только при AUOptions = 4, по расписанию!) 0 = каждый день
 "ScheduledInstallTime"=dword:00000003 ; Время суток в 24-часовом формате (значение от 0 до 23)
 
-; ====================================== WINDOWS DEFENDER ======================================
+; ================================================ WINDOWS DEFENDER ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
 "DisableAntiSpyware"=dword:00000001 ; Выключить Защитник Windows
 
@@ -25,6 +25,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\SmartScreen]
 "ConfigureAppInstallControlEnabled"=dword:00000000 ; Если 0, Отключить рекомендации приложений | Если 3, разрешать использование приложений ТОЛЬКОЙ из Store
 
-; ====================================== РАЗМЫТИЕ ЭКРАНА БЛОКИРОВКИ ОТКЛЮЧИТЬ? ======================================
+; ================================================ РАЗМЫТИЕ ЭКРАНА БЛОКИРОВКИ ОТКЛЮЧИТЬ? ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
 "DisableAcrylicBackgroundOnLogon"=dword:00000001 ; Отключать - 1 | Не отключать - 0
