@@ -22,7 +22,7 @@
 * [Windows11DragAndDropToTaskbarFix.exe](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - фикс панели задач
 * [WindowsThumbnailGenerator.zip](https://github.com/hahagu/WindowsThumbnailGenerator) - вернуть папкам нормальный предварительный вид
 * [ExplorerPatcher.exe](https://github.com/valinet/ExplorerPatcher) - вернуть старую панель задач Windows 10
-* 
+
 ### Скачивание и установка Windows:
 * https://github.com/ventoy/Ventoy
 * https://github.com/pbatard/Fido
