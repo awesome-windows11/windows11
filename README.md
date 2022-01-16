@@ -9,7 +9,7 @@
 > <br>
 > Telegram: https://t.me/windows11_insider
 > <br>
-| Имя | Описание
+| Имя | Описание |
 | --- | ------ |
 | [❗ gsudo.msi](https://github.com/gerardog/gsudo/releases/download/v1.0.2/gsudoSetup.msi) | Получение NT/SYSTEM прав для Windows
 | [WhatInStartup.zip](https://www.nirsoft.net/utils/whatinstartup-x64.zip) | Отключение скрытых программ из автозапуска
