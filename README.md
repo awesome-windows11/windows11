@@ -33,11 +33,13 @@
 | [ExplorerPatcher.exe](https://github.com/valinet/ExplorerPatcher) | Вернуть старую панель задач Windows 10
 
 ### Скачивание и установка Windows:
-* [❗ My files](https://1drv.ms/f/s!AhusSLWjGpTDghZVw3iu3wpvNCh4)
-* https://github.com/ventoy/Ventoy
-* https://github.com/pbatard/Fido
-* [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15)
-* [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
+| Имя | Описание |
+| --- | ------ |
+| [❗ My files](https://1drv.ms/f/s!AhusSLWjGpTDghZVw3iu3wpvNCh4) |
+| [Ventoy](https://github.com/ventoy/Ventoy)
+| [Fido](https://github.com/pbatard/Fido)
+| [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15)
+| [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
 
 ### APK Windows 11
 * https://github.com/ADeltaX/WSAGAScript - установка Google Play
