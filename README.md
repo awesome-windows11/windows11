@@ -18,9 +18,10 @@
 | [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) | Получение Windows Insider напрямую, без аккаунтов
 
 ### Другое:
-* [localbrute.ps1](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) - ХАК: брутфорс пароля
-* [MAS.7z](https://github.com/massgravel/Microsoft-Activation-Scripts) - активаторы скрипты
-* [Safe Mode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/) - лаунчер Безопасного Режима
+| Имя | Описание |
+| [localbrute.ps1](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) | ХАК: брутфорс пароля
+| [MAS.7z](https://github.com/massgravel/Microsoft-Activation-Scripts) | Активаторы скрипты
+| [Safe Mode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/) | Лаунчер Безопасного Режима
 
 ### Твикеры Windows 11:
 * [Windows.11Fixer.zip](https://github.com/99natmar99/Windows-11-Fixer)
