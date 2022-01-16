@@ -42,12 +42,16 @@
 | [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
 
 ### APK Windows 11
-* https://github.com/ADeltaX/WSAGAScript - установка Google Play
-* https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg - WSATools: установка APK приложений
+| Имя | Описание |
+| --- | ------ |
+| [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) | Установка Google Play
+| [WSATools](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) | Установка APK приложений
 
 ### Проверка на совместимость с Windows 11:
-* https://github.com/rcmaehl/WhyNotWin11
-* https://github.com/mq1n/Win11SysCheck
+| Имя | Описание |
+| --- | ------ |
+| [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11)
+| [Win11SysCheck](https://github.com/mq1n/Win11SysCheck)
 
 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
 <br>
