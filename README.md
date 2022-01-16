@@ -25,10 +25,12 @@
 | [SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/) | Лаунчер Безопасного Режима
 
 ### Твикеры Windows 11:
-* [Windows.11Fixer.zip](https://github.com/99natmar99/Windows-11-Fixer)
-* [Windows11DragAndDropToTaskbarFix.exe](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - фикс панели задач
-* [WindowsThumbnailGenerator.zip](https://github.com/hahagu/WindowsThumbnailGenerator) - вернуть папкам нормальный предварительный вид
-* [ExplorerPatcher.exe](https://github.com/valinet/ExplorerPatcher) - вернуть старую панель задач Windows 10
+| Имя | Описание |
+| --- | ------ |
+| [Windows.11Fixer.zip](https://github.com/99natmar99/Windows-11-Fixer) |
+| [Windows11DragAndDropToTaskbarFix.exe](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) | Фикс панели задач
+| [WindowsThumbnailGenerator.zip](https://github.com/hahagu/WindowsThumbnailGenerator) | Вернуть папкам нормальный предварительный вид
+| [ExplorerPatcher.exe](https://github.com/valinet/ExplorerPatcher) | Вернуть старую панель задач Windows 10
 
 ### Скачивание и установка Windows:
 * [❗ My files](https://1drv.ms/f/s!AhusSLWjGpTDghZVw3iu3wpvNCh4)
