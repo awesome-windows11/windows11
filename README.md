@@ -22,7 +22,7 @@
 | --- | ------ |
 | [localbrute.ps1](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) | ХАК: брутфорс пароля
 | [MAS.7z](https://github.com/massgravel/Microsoft-Activation-Scripts) | Активаторы скрипты
-| [Safe Mode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/) | Лаунчер Безопасного Режима
+| [SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/) | Лаунчер Безопасного Режима
 
 ### Твикеры Windows 11:
 * [Windows.11Fixer.zip](https://github.com/99natmar99/Windows-11-Fixer)
