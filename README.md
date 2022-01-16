@@ -18,6 +18,7 @@
 | [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) | Получение Windows Insider напрямую, без аккаунтов
 
 ### Другое:
+
 | Имя | Описание |
 | [localbrute.ps1](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) | ХАК: брутфорс пароля
 | [MAS.7z](https://github.com/massgravel/Microsoft-Activation-Scripts) | Активаторы скрипты
