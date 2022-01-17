@@ -26,7 +26,10 @@ Windows Registry Editor Version 5.00
 "ConfigureAppInstallControlEnabled"=dword:00000000 ; Если 0, Отключить рекомендации приложений | Если 3, разрешать использование приложений ТОЛЬКОЙ из Store
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Features]
 "TamperProtection"=dword:00000000 ; Отключить защиту от несанкционированного доступа 
-
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender]
+"ServiceStartStates"=dword:00000001
+"DisableAntiSpyware"=dword:00000001
+"DisableAntiVirus"=dword:00000001
 ; ================================================ РАЗМЫТИЕ ЭКРАНА БЛОКИРОВКИ ОТКЛЮЧИТЬ? ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
 "DisableAcrylicBackgroundOnLogon"=dword:00000001 ; Отключать - 1 | Не отключать - 0
