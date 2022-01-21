@@ -169,10 +169,14 @@ Get-AppxPackage -AllUsers | where-object {$_.name -notlike "*NAME1*"} | where-ob
 <a href="https://user-images.githubusercontent.com/86190960/122917584-db0b2e00-d366-11eb-8793-96259bac5965.png"><img src="https://i.ibb.co/mbY4RHH/image.png" alt="image" border="0"></a>
 
 ## Как редактировать меню пуск?
+Глобальные
 ```
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs
 ```
-
+Локальные
+```
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+```
 ## Как редактировать панель задач?
 ```
 C:\Users\Admin\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
