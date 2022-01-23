@@ -92,6 +92,7 @@ Windows Registry Editor Version 5.00
 "EnableLUA"=dword:00000000 ; 0 ИЛИ 1
 "PromptOnSecureDesktop"=dword:00000000 ; 0 ИЛИ 1
 
-; ================================================ ФОНОВЫЕ ПРИЛОЖЕНИЯ ================================================
+; ================================================ ВКЛЮЧИТЬ ФОНОВЫЕ ПРИЛОЖЕНИЯ? ================================================
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications]
 "GlobalUserDisabled"=dword:00000000
+"BackgroundAppGlobalToggle"=dword:00000001
