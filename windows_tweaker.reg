@@ -88,4 +88,6 @@ Windows Registry Editor Version 5.00
 
 ; ================================================ ВКЛЮЧИТЬ КОНТРОЛЬ УЧЁТНЫХ ЗАПИСЕЙ? ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
-"EnableLUA"=dword:00000000
+"ConsentPromptBehaviorAdmin"=dword:00000000 ; 0 ДО 5
+"EnableLUA"=dword:00000000 ; 0 ИЛИ 1
+"PromptOnSecureDesktop"=dword:00000000 ; 0 ИЛИ 1
