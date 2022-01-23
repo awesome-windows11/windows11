@@ -91,3 +91,8 @@ Windows Registry Editor Version 5.00
 "ConsentPromptBehaviorAdmin"=dword:00000000 ; 0 ДО 5
 "EnableLUA"=dword:00000000 ; 0 ИЛИ 1
 "PromptOnSecureDesktop"=dword:00000000 ; 0 ИЛИ 1
+
+
+; ================================================ ФОНОВЫЕ ПРИЛОЖЕНИЯ ================================================
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications]
+"GlobalUserDisabled"=dword:00000000
