@@ -44,8 +44,9 @@
 ### APK Windows 11
 | Имя | Описание |
 | --- | ------ |
+| [An APK File Installer for WSA](https://www.microsoft.com/ru-ru/p/apk-file-installer/9mvvjldmwpsg#activetab=pivot:overviewtab) | Установка APK приложений
+| [WSATools](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) | Установка APK приложений 2
 | [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) | Установка Google Play
-| [WSATools](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) | Установка APK приложений
 
 ### Проверка на совместимость с Windows 11:
 | Имя | Описание |
