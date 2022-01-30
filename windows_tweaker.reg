@@ -16,6 +16,11 @@ Windows Registry Editor Version 5.00
 ; ================================================ WINDOWS DEFENDER ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
 "DisableAntiSpyware"=dword:00000001 ; Выключить Защитник Windows
+"DisableRealtimeMonitoring"=dword:00000001
+"DisableAntiVirus"=dword:00000001
+"DisableSpecialRunningModes"=dword:00000001
+"DisableRoutinelyTakingAction"=dword:00000001
+"ServiceKeepAlive"=dword:00000000
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
 "DisableBehaviorMonitoring"=dword:00000001 ; Если 1, контроль поведения отключен.
 "DisableOnAccessProtection"=dword:00000001 ; Если 1, отслеживание действий файлов и программ будет включено.
@@ -23,7 +28,11 @@ Windows Registry Editor Version 5.00
 "DisableIOAVProtection"=dword:00000001 ; Если 1, проверка всех загруженных файлов и вложений будет отключена.
 "DisableRealtimeMonitoring"=dword:00000001 ; Если 1, Microsoft Defender не предлагает пользователю предпринять действия по обнаружению вредоносных программ.
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\SmartScreen]
-"ConfigureAppInstallControlEnabled"=dword:00000000 ; Если 0, Отключить рекомендации приложений | Если 3, разрешать использование приложений ТОЛЬКОЙ из Store
+"ConfigureAppInstallControlEnabled"=dword:00000000 ; Если 0, Отключить рекомендации приложений | Если 3, разрешать использование приложений ТОЛЬКО из Store
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates]
+"ForceUpdateFromMU"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet]
+"DisableBlockAtFirstSeen"=dword:00000001
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Features]
 "TamperProtection"=dword:00000000 ; Отключить защиту от несанкционированного доступа 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender]
