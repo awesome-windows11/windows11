@@ -30,6 +30,7 @@
 | --- | ------ |
 | [Windows.11Fixer.zip](https://github.com/99natmar99/Windows-11-Fixer) |
 | [Windows11DragAndDropToTaskbarFix.exe](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) | Фикс панели задач
+| [10SM-1.1.zip](https://github.com/bbmaster123/10SM) | Вернуть меню пуск Windows 10
 | [WindowsThumbnailGenerator.zip](https://github.com/hahagu/WindowsThumbnailGenerator) | Вернуть папкам нормальный предварительный вид
 | [ExplorerPatcher.exe](https://github.com/valinet/ExplorerPatcher) | Вернуть старую панель задач Windows 10
 
