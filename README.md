@@ -16,8 +16,8 @@
 | [WhatInStartup.zip](https://www.nirsoft.net/utils/whatinstartup-x64.zip) | Отключение скрытых программ из автозапуска
 | [AppInstaller](https://github.com/microsoft/winget-cli) | Последний с поддержкой winget
 | [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) | Получение Windows Insider напрямую, без аккаунтов
-| [Defeat Defender](https://github.com/swagkarna/Defeat-Defender-V1.2) | Отключение Windows Defender
-| [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover) | Твикер
+| [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2) | Отключение Windows Defender
+| [Win10BloatRemover.zip](https://github.com/Fs00/Win10BloatRemover) | Твикер
 
 ### Другое:
 | Имя | Описание |
@@ -31,7 +31,7 @@
 | --- | ------ |
 | [Windows.11Fixer.zip](https://github.com/99natmar99/Windows-11-Fixer) |
 | [Windows11DragAndDropToTaskbarFix.exe](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) | Фикс панели задач
-| [StartAllBack](https://www.startallback.com/) Вернуть меню пуск Windows 7 и 10
+| [StartAllBack.zip](https://www.startallback.com/) | Вернуть меню пуск Windows 7 и 10
 | [10SM-1.1.zip](https://github.com/bbmaster123/10SM) | Вернуть меню пуск Windows 10
 | [WindowsThumbnailGenerator.zip](https://github.com/hahagu/WindowsThumbnailGenerator) | Вернуть папкам нормальный предварительный вид
 | [ExplorerPatcher.exe](https://github.com/valinet/ExplorerPatcher) | Вернуть старую панель задач Windows 10
