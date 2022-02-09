@@ -17,6 +17,7 @@
 | [AppInstaller](https://github.com/microsoft/winget-cli) | Последний с поддержкой winget
 | [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) | Получение Windows Insider напрямую, без аккаунтов
 | [Defeat Defender](https://github.com/swagkarna/Defeat-Defender-V1.2) | Отключение Windows Defender
+| [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover) | Твикер
 
 ### Другое:
 | Имя | Описание |
