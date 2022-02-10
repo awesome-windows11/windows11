@@ -77,7 +77,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\PropertyBag]
 "ThisPCPolicy"="Hide"
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked]
-"{e2bf9676-5f8f-435c-97eb-11607a5bedf7}"="" ; Скрыть меню поделиться (Открыть новый проводник!)
+"{e2bf9676-5f8f-435c-97eb-11607a5bedf7}"="" ; Скрыть меню поделиться (Вернуть старый проводник!)
 ; ================================================ НАСТРОЙКА MICROSOFT EDGE  ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
 "SyncDisabled"=dword:00000000 ; ОТКЛЮЧИТЬ СИНХРОНИЗАЦИЮ - 0 | ВКЛЮЧИТЬ - 1
