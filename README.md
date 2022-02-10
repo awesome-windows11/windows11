@@ -29,6 +29,7 @@
 ### Твикеры Windows 11:
 | Имя | Описание |
 | --- | ------ |
+| [ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) | Добавить кастомное контекстное меню |
 | [Windows.11Fixer.zip](https://github.com/99natmar99/Windows-11-Fixer) |
 | [Windows11DragAndDropToTaskbarFix.exe](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) | Фикс панели задач
 | [StartAllBack.zip](https://www.startallback.com/) | Вернуть меню пуск Windows 7 и 10
