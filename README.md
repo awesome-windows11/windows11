@@ -18,6 +18,7 @@
 | [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) | Получение Windows Insider напрямую, без аккаунтов
 | [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2) | Отключение Windows Defender
 | [Win10BloatRemover.zip](https://github.com/Fs00/Win10BloatRemover) | Твикер
+| [Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) | Твикеры для тонкой настройки
 
 ### Другое:
 | Имя | Описание |
