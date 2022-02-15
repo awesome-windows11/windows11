@@ -190,7 +190,10 @@ C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
 ```
 C:\Users\Admin\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
 ```
-
+## Как посмотреть последние файлы открытые на ПК?
+```
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent
+```
 ## Как включить режим бога панель управления (GodMode?)
 Создайте папку с именем:
 ```
