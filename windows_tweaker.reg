@@ -120,3 +120,6 @@ Windows Registry Editor Version 5.00
 "HasLUAShield"=""
 [HKEY_CLASSES_ROOT\CABFolder\Shell\RunAs\Command]
 @="cmd /k dism /online /add-package /packagepath:\"%1\""
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\BootControl]
+"BootProgressAnimation"=dword:00000001 ; включить новую анимацию загрузки
