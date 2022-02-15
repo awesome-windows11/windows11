@@ -16,11 +16,7 @@
 | [WhatInStartup.zip](https://www.nirsoft.net/utils/whatinstartup-x64.zip) | Отключение скрытых программ из автозапуска
 | [AppInstaller](https://github.com/microsoft/winget-cli) | Последний с поддержкой winget
 | [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) | Получение Windows Insider напрямую, без аккаунтов
-| [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2) | Отключение Windows Defender
-| [Win10BloatRemover.zip](https://github.com/Fs00/Win10BloatRemover) | Твикер
-| [Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) | Твикеры для тонкой настройки
-| [Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) | Отключение UWP приложений
-| [Equk](https://github.com/equk/windows) | Набор твикеров
+
 
 ### Другое:
 | Имя | Описание |
@@ -28,6 +24,16 @@
 | [localbrute.ps1](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) | ХАК: брутфорс пароля
 | [MAS.7z](https://github.com/massgravel/Microsoft-Activation-Scripts) | Активаторы скрипты
 | [SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/) | Лаунчер Безопасного Режима
+
+### Твикеры
+| Имя | Описание |
+| --- | ------ |
+| [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2) | Отключение Windows Defender
+| [Win10BloatRemover.zip](https://github.com/Fs00/Win10BloatRemover) | Твикер
+| [Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) | Твикеры для тонкой настройки
+| [Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) | Отключение UWP приложений
+| [Equk](https://github.com/equk/windows) | Набор твикеров
+| https://github.com/Sycnex/Windows10Debloater | Тотальное удаление UWP
 
 ### Твикеры Windows 11:
 | Имя | Описание |
