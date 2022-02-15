@@ -224,10 +224,6 @@ winget install 7zip ; winget install steam ; winget install git ; winget install
 
 ### ![image](https://user-images.githubusercontent.com/86190960/124670250-5f5bc600-debc-11eb-8df0-062edc22f2e0.png)[Defender Control](https://www.sordum.org/downloads/?st-defender-control)
 
-### [VMware Workstation](https://www.vmware.com/go/getworkstation-win)
-
-### [CentBrowser](http://static.centbrowser.com/win_stable/)
-
 ### [qBittorrent Portable](https://portableapps.com/apps/internet/qbittorrent_portable)
 
 ### [Windows Update Manager for Windows](https://github.com/DavidXanatos/wumgr)
