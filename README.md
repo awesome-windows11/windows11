@@ -234,9 +234,6 @@ winget install 7zip ; winget install steam ; winget install git ; winget install
 - https://ss64.com/nt/syntax-reghacks.html
 - http://centaz.narod.ru/winwork2.html
 
-Скрипты для UWP:
-- https://www.it-fm.ru/?p=5225
-
 Памятка по командной строке (cmd.exe):
 - https://ab57.ru/cmdlist.html
 - https://renenyffenegger.ch/notes/Windows
