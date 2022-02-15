@@ -1,5 +1,5 @@
 @echo off
-:: Download file https://windows11.now.sh/wininsider.cmd
+:: https://github.com/abbodi1406/offlineinsiderenroll/releases/latest
 for /f "tokens=6 delims=[]. " %%i in ('ver') do set build=%%i
 
 if %build% LSS 17763 (
