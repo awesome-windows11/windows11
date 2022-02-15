@@ -184,15 +184,15 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs
 ```
 Локальные
 ```
-C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+%UserProfile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
 ```
 ## Как редактировать панель задач?
 ```
-C:\Users\Admin\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
+%UserProfile%\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
 ```
 ## Как посмотреть последние файлы открытые на ПК?
 ```
-C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent
+%UserProfile%\AppData\Roaming\Microsoft\Windows\Recent
 ```
 ## Как включить режим бога панель управления (GodMode?)
 Создайте папку с именем:
