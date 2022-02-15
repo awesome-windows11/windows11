@@ -23,7 +23,7 @@ Windows Registry Editor Version 5.00
 "ServiceKeepAlive"=dword:00000000
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
 "DisableBehaviorMonitoring"=dword:00000001 ; Если 1, контроль поведения отключен.
-"DisableOnAccessProtection"=dword:00000001 ; Если 1, отслеживание действий файлов и программ будет включено.
+"DisableOnAccessProtection"=dword:00000001 ; Если 1, отслеживание действий файлов и программ будет отключен.
 "DisableScanOnRealtimeEnable"=dword:00000001 ; Если 1, сканирование процессов не будет запускаться при включенной защите в реальном времени.
 "DisableIOAVProtection"=dword:00000001 ; Если 1, проверка всех загруженных файлов и вложений будет отключена.
 "DisableRealtimeMonitoring"=dword:00000001 ; Если 1, Microsoft Defender не предлагает пользователю предпринять действия по обнаружению вредоносных программ.
