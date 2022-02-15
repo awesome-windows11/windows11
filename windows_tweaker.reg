@@ -4,37 +4,37 @@ Windows Registry Editor Version 5.00
 ; ================================================ WINDOWS UPDATE ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
 "DisableOSUpgrade"=dword:00000001 ; отключить установку новых версий
-"SetDisableUXWUAccess"=dword:00000001 ; Если 1, доступ пользователей для сканирования, загрузки и установки в Центре обновления Windows будет запрещен.
+"SetDisableUXWUAccess"=dword:00000001 ; отключить сканирование, загрузку и установку обновлений Windows
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
 "NoAutoUpdate"=dword:00000001 ; 1 = отключить Automatic Updates
 "AUOptions"=dword:00000002 ; 2 = извещать перед загрузкой;
 "ScheduledInstallDay"=dword:00000000 ; (действительно только при AUOptions = 4, по расписанию!) 0 = каждый день
 "ScheduledInstallTime"=dword:00000003 ; Время суток в 24-часовом формате (значение от 0 до 23)
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching]
-"SearchOrderConfig"=dword:00000000 ; Отключить автоустановку драйверов (любых!)
+"SearchOrderConfig"=dword:00000000 ; отключить автоустановку драйверов (любых!)
 
 ; ================================================ WINDOWS DEFENDER ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
-"DisableAntiSpyware"=dword:00000001 ; Выключить Защитник Windows
+"DisableAntiSpyware"=dword:00000001 ; отключить Защитник Windows
 "DisableRealtimeMonitoring"=dword:00000001
 "DisableAntiVirus"=dword:00000001
 "DisableSpecialRunningModes"=dword:00000001
 "DisableRoutinelyTakingAction"=dword:00000001
 "ServiceKeepAlive"=dword:00000000
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
-"DisableBehaviorMonitoring"=dword:00000001 ; Если 1, контроль поведения отключен.
-"DisableOnAccessProtection"=dword:00000001 ; Если 1, отслеживание действий файлов и программ будет отключен.
-"DisableScanOnRealtimeEnable"=dword:00000001 ; Если 1, сканирование процессов не будет запускаться при включенной защите в реальном времени.
-"DisableIOAVProtection"=dword:00000001 ; Если 1, проверка всех загруженных файлов и вложений будет отключена.
-"DisableRealtimeMonitoring"=dword:00000001 ; Если 1, Microsoft Defender не предлагает пользователю предпринять действия по обнаружению вредоносных программ.
+"DisableBehaviorMonitoring"=dword:00000001 ; отключить контроль поведения
+"DisableOnAccessProtection"=dword:00000001 ; отключить отслеживание действий файлов и программ будет
+"DisableScanOnRealtimeEnable"=dword:00000001 ; отключить сканирование процессов не будет запускаться при включенной защите в реальном времени.
+"DisableIOAVProtection"=dword:00000001 ; отключить проверку всех загруженных файлов и вложений будет отключена.
+"DisableRealtimeMonitoring"=dword:00000001 ; отключить предложение Microsoft Defender предпринять действия по обнаружению вредоносных программ.
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\SmartScreen]
-"ConfigureAppInstallControlEnabled"=dword:00000000 ; Если 0, Отключить рекомендации приложений | Если 3, разрешать использование приложений ТОЛЬКО из Store
+"ConfigureAppInstallControlEnabled"=dword:00000000 ; отключить рекомендации приложений | Если 3, разрешать использование приложений ТОЛЬКО из Store
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates]
 "ForceUpdateFromMU"=dword:00000000
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet]
 "DisableBlockAtFirstSeen"=dword:00000001
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Features]
-"TamperProtection"=dword:00000000 ; Отключить защиту от несанкционированного доступа 
+"TamperProtection"=dword:00000000 ; отключить защиту от несанкционированного доступа 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender]
 "ServiceStartStates"=dword:00000001
 "DisableAntiSpyware"=dword:00000001
