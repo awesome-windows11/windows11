@@ -17,7 +17,6 @@
 | [AppInstaller](https://github.com/microsoft/winget-cli) | Последний с поддержкой winget
 | [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) | Получение Windows Insider напрямую, без аккаунтов
 
-# Другое:
 ### Другое:
 | Имя | Описание |
 | --- | ------ |
