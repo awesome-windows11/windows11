@@ -25,7 +25,7 @@
 | [MAS.7z](https://github.com/massgravel/Microsoft-Activation-Scripts) | Активаторы скрипты
 | [SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/) | Лаунчер Безопасного Режима
 
-### Твикеры
+### Твикеры Windows
 | Имя | Описание |
 | --- | ------ |
 | [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2) | Отключение Windows Defender
