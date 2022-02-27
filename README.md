@@ -104,6 +104,10 @@
 ❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓
 <br>
 ```powershell
+# Как закрепить UWP на рабочий стол?
+shell:AppsFolder
+```
+```powershell
 # Посмотреть все приложения UWP
 Get-AppxPackage –AllUsers | Select Name, PackageFullName
 ```
