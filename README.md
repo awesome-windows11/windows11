@@ -48,6 +48,7 @@
 ### Скачивание и установка Windows:
 | Имя | Описание |
 | --- | ------ |
+| [UupDump.net](https://proxied.uupdump.net/)
 | [❗ My files](https://1drv.ms/f/s!AhusSLWjGpTDghZVw3iu3wpvNCh4) |
 | [Ventoy](https://github.com/ventoy/Ventoy)
 | [Fido](https://github.com/pbatard/Fido)
