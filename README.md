@@ -28,6 +28,7 @@
 | Имя | Описание |
 | --- | ------ |
 | [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2) | Отключение Windows Defender
+| [WuMgr](https://github.com/DavidXanatos/wumgr) | Windows Update Manager for Windows |
 | [Win10BloatRemover.zip](https://github.com/Fs00/Win10BloatRemover) | Твикер
 | [Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) | Твикеры для тонкой настройки
 | [Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) | Отключение UWP приложений
