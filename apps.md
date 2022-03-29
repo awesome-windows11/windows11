@@ -1,5 +1,5 @@
 # 💻 Apps
-### <a target="_blank" href="https://1drv.ms/f/s!AhusSLWjGpTDhD5Vw3iu3wpvNCh4">🔓 Activator by Ratiborus</a>
+### <a target="_blank" href="https://github.com/awesome-windows11/windows11/releases/tag/99">🔓 Activator by Ratiborus</a>
 В AAct все операции с активацией, с лицензиями, выполняются с помощью стандартных скриптов slmgr.vbs и ospp.vbs, уж их то даже самый ненормальный антивирусник не заподозрит в "троянстве".
 
 http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
