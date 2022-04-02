@@ -57,6 +57,7 @@
 | [Fido](https://github.com/pbatard/Fido)
 | [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15)
 | [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
+| [Rectify11](https://rectify.vercel.app)
 
 ### APK Windows 11
 | Имя | Описание |
