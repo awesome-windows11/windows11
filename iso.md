@@ -14,4 +14,3 @@
 | Название | Хэш | Описание |
 | --- | ------ | --- |
 | [Windows 11 21996.1](https://yandex.ru/search/?text=3B6DA9194BA303AC7DBBF2E521716C809500919C&lr=213)
-| [Win11Patch2.iso](https://drive.google.com/file/d/1n8b4SR2pmLSm5Ppqe51U7SOVkrYLvmoS/view) | CRC32: `4EDCA3B3` <br> MD5: `98BBE437B8CAF670318245B7E6228C20` <br> SHA-1: `F3CDB7ACAF3F2A105EEA98B4C7EBC307B0470A59` | ЗАМЕНЁН ТОЛЬКО WIM ОБРАЗ - ГРУЗИТСЯ НА РЕАЛЬНЫЙ ПК
