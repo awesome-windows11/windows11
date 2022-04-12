@@ -15,4 +15,3 @@
 | --- | ------ | --- |
 | [Windows 11 21996.1](https://yandex.ru/search/?text=3B6DA9194BA303AC7DBBF2E521716C809500919C&lr=213)
 | [Win11Patch2.iso](https://drive.google.com/file/d/1n8b4SR2pmLSm5Ppqe51U7SOVkrYLvmoS/view) | CRC32: `4EDCA3B3` <br> MD5: `98BBE437B8CAF670318245B7E6228C20` <br> SHA-1: `F3CDB7ACAF3F2A105EEA98B4C7EBC307B0470A59` | ЗАМЕНЁН ТОЛЬКО WIM ОБРАЗ - ГРУЗИТСЯ НА РЕАЛЬНЫЙ ПК
-| [WIN11.iso](https://drive.google.com/file/d/135NL5hZD-5DTWDXTCgBkcxE-U6MWyLnr/view) | CRC32: `D4A3066C` <br> MD5: `48B5A87F6A690A1A0FD8F278805464DD` <br> SHA-1: `F68069544E5ADCFBDE12F9D75EC95A98AC880010` | ЗАМЕНЁН ОДИН ФАЙЛ appraiserres.dll - ОБРАЗ ИСКЛЮЧИТЕЛЬНО ДЛЯ ЧИСТОЙ УСТАНОВКИ |
