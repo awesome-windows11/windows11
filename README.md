@@ -12,7 +12,7 @@
 
 | Имя | Описание |
 | --- | ------ |
-| [❗ gsudo.msi](https://github.com/gerardog/gsudo/releases/download/v1.0.2/gsudoSetup.msi) | Получение NT/SYSTEM прав для Windows
+| [gsudo.msi](https://github.com/gerardog/gsudo/releases/download/v1.0.2/gsudoSetup.msi) | Получение NT/SYSTEM прав для Windows
 | [WhatInStartup.zip](https://www.nirsoft.net/utils/whatinstartup-x64.zip) | Отключение скрытых программ из автозапуска
 | [AppInstaller](https://github.com/microsoft/winget-cli) | Последний с поддержкой winget
 | [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) | Получение Windows Insider напрямую, без аккаунтов
@@ -52,7 +52,7 @@
 | Имя | Описание |
 | --- | ------ |
 | [UupDump.net](https://proxied.uupdump.net/)
-| [❗ My files](https://1drv.ms/f/s!AhusSLWjGpTDghZVw3iu3wpvNCh4) |
+| [❗ My files](http://e.pc.cd/4XTotalK) |
 | [Ventoy](https://github.com/ventoy/Ventoy)
 | [Fido](https://github.com/pbatard/Fido)
 | [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15)
@@ -239,8 +239,8 @@ C:\Windows\Web
 # [Icons](#explore)
 🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨
 <br>
-[Пак всех иконок из Windows 11](https://1drv.ms/u/s!AhusSLWjGpTDgUs6bRTYd7KI1AFc?e=5unDff)
+[Пак всех иконок из Windows 11](http://e.pc.cd/4XTotalK)
 <br>
-[shell32.dll](https://1drv.ms/u/s!AhusSLWjGpTDhGvi6erz5dDtvgvj?e=ztbIII) - оригинальный файл из папки System32 в Windows 11
+[shell32.dll](http://e.pc.cd/4XTotalK) - оригинальный файл из папки System32 в Windows 11
 
 <a href="https://ibb.co/48GyYLn"><img src="https://i.ibb.co/48GyYLn/122690033-9d57b980-d22f-11eb-951b-887765151e81.png" alt="122690033-9d57b980-d22f-11eb-951b-887765151e81"></a>
