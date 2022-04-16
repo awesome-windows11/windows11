@@ -28,6 +28,7 @@
 ### Твикеры Windows
 | Имя | Описание |
 | --- | ------ |
+| [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
 | [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2) | Отключение Windows Defender
 | [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) | Настройка Windows Defender
 | [WuMgr](https://github.com/DavidXanatos/wumgr) | Windows Update Manager for Windows |
