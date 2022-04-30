@@ -229,7 +229,7 @@ Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 # [Wallpaper](#explore)
 🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼🖼
 <br>
-[Windows 11 обои скачать](https://1drv.ms/f/s!AhusSLWjGpTDhBpVw3iu3wpvNCh4)
+[Windows 11 обои скачать](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/wallpaper/)
 
 Стандартно обои хранятся по пути:
 ```
@@ -242,6 +242,6 @@ C:\Windows\Web
 <br>
 [Пак всех иконок из Windows 11](http://e.pc.cd/4XTotalK)
 <br>
-[shell32.dll](http://e.pc.cd/4XTotalK) - оригинальный файл из папки System32 в Windows 11
+[shell32.dll](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32.dll) - оригинальный файл из папки System32 в Windows 11
 
 <a href="https://ibb.co/48GyYLn"><img src="https://i.ibb.co/48GyYLn/122690033-9d57b980-d22f-11eb-951b-887765151e81.png" alt="122690033-9d57b980-d22f-11eb-951b-887765151e81"></a>
