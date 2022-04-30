@@ -240,7 +240,7 @@ C:\Windows\Web
 # [Icons](#explore)
 🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨
 <br>
-[Пак всех иконок из Windows 11](http://e.pc.cd/4XTotalK)
+[Пак всех иконок из Windows 11](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/)
 <br>
 [shell32.dll](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32.dll) - оригинальный файл из папки System32 в Windows 11
 
