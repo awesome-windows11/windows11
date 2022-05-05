@@ -36,7 +36,8 @@
 | [Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) | Твикеры для тонкой настройки
 | [Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) | Отключение UWP приложений
 | [Equk](https://github.com/equk/windows) | Набор твикеров
-| https://github.com/Sycnex/Windows10Debloater | Тотальное удаление UWP
+| [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | Тотальное удаление UWP
+| [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat/blob/master/sos-optimize-windows.ps1) | Тотальная настройка Windows 
 
 ### Твикеры Windows 11:
 | Имя | Описание |
