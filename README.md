@@ -16,6 +16,7 @@
 | [WhatInStartup.zip](https://www.nirsoft.net/utils/whatinstartup-x64.zip) | Отключение скрытых программ из автозапуска
 | [AppInstaller](https://github.com/microsoft/winget-cli) | Последний с поддержкой winget
 | [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) | Получение Windows Insider напрямую, без аккаунтов
+| [Инструменты](https://github.com/farag2/Utilities)
 | [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) | Замена поиска приложением Everything
 
 ### Другое:
