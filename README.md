@@ -32,9 +32,9 @@
 | [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2) | Отключение Windows Defender
 | [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) | Настройка Windows Defender
 | [WuMgr](https://github.com/DavidXanatos/wumgr) | Windows Update Manager for Windows |
-| [Win10BloatRemover.zip](https://github.com/Fs00/Win10BloatRemover) | Твикер
 | [Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) | Отключение UWP
 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | Удаление UWP
+| [Win10BloatRemover.zip](https://github.com/Fs00/Win10BloatRemover) | Большой твикер
 | [Equk](https://github.com/equk/windows) | Набор твикеров
 | [Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) | Твикеры для тонкой настройки
 | [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat/blob/master/sos-optimize-windows.ps1) | Тотальная настройка Windows 
