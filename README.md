@@ -33,6 +33,7 @@
 | [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2) | 🛡 Отключение Windows Defender
 | [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) | 🛡 Настройка Windows Defender
 | [WuMgr](https://github.com/DavidXanatos/wumgr) | 🔄 Windows Update Manager for Windows |
+| [Wu10Man](https://github.com/WereDev/Wu10Man) | Настройка Windows Update
 | [Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) | 🗃 Отключение UWP
 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 🗃 Удаление UWP
 | [Win10BloatRemover.zip](https://github.com/Fs00/Win10BloatRemover) | ✨ Большой твикер
