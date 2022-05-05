@@ -28,9 +28,9 @@
 ### Твикеры Windows
 | Имя | Описание |
 | --- | ------ |
-| [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control) | 🥇 Отключение Windows Defender
-| [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2) | Отключение Windows Defender
-| [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) | Настройка Windows Defender
+| [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control) | 🛡 Отключение Windows Defender
+| [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2) | 🛡 Отключение Windows Defender
+| [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) | 🛡 Настройка Windows Defender
 | [WuMgr](https://github.com/DavidXanatos/wumgr) | Windows Update Manager for Windows |
 | [Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) | Отключение UWP
 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | Удаление UWP
