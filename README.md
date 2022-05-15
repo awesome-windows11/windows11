@@ -126,18 +126,18 @@
 </details>
 
 ## 🛠 Apps
-<details><summary><b><a href="https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat">🗑 Remove Microsoft Edge</a></b></summary>
-  
-  ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
-  ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
-  ![image](https://user-images.githubusercontent.com/86190960/149354585-d467a0fe-60db-4a9b-82a6-20ea0f40934e.png)
-</details>
-
 <details><summary><b>🗑 Remove ALL UWP (except Microsoft store)</b></summary>
   
   ```powershell
   Get-AppxPackage -AllUsers | where-object {$_.name –notlike "*store*"} | Remove-AppxPackage
   ```
+</details>
+
+<details><summary><b><a href="https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat">🗑 Remove Microsoft Edge</a></b></summary>
+  
+  ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
+  ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
+  ![image](https://user-images.githubusercontent.com/86190960/149354585-d467a0fe-60db-4a9b-82a6-20ea0f40934e.png)
 </details>
 
 
