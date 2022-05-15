@@ -231,7 +231,7 @@ Local:
 
 <h2 align="center">📜 Policies</h2>
 
-<details><summary><b>Microsoft Edge Enterprise</b></summary>
+<details><summary><b>🗂 Microsoft Edge Enterprise</b></summary>
   
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge" /v SyncDisabled /t REG_DWORD /d 1 /f
