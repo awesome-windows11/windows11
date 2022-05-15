@@ -126,7 +126,7 @@
 </details>
 
 ## 🛠 Apps
-<details><summary><b>🗑 Restore Microsoft store</b></summary>
+<details><summary><b> Restore Microsoft store</b></summary>
   
   ```powershell
   Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
