@@ -77,22 +77,7 @@
 | [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11)
 | [Win11SysCheck](https://github.com/mq1n/Win11SysCheck)
 
-🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩 🟥🟩
-<br>
-🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨 🟦🟨
-
-## Explore
-[ℹ Быстрая установка Windows 11](https://gist.github.com/awesome-windows11/52b35de87f369196e1516882fa27a62e)
-<br>
-[❓ Вопросы / Ответы](#faq)
-### Внешние источники
-[🔗 Полезные ссылки](#links)
-### Внешний вид
-[🖼 Обои](#wallpaper)
-<br>
-[🎨 Иконки](#icons)
-
-# PowerShell Scrypts
+# PowerShell Tweaks (Scripts)
 ## 🖼 Personalization
 <details><summary><b>🌑 Dark Theme: 0 | ☀️ Light Theme: 1</b></summary>
   
