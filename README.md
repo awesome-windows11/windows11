@@ -191,7 +191,7 @@
 </details>
 
 
-<details><summary><b>🗑 Remove ALL UWP (NOT Microsoft store)</b></summary>
+<details><summary><b>🗑 Remove ALL UWP (NOT WindowsStore)</b></summary>
   
   ```powershell
   Get-AppxPackage -AllUsers | where-object {$_.name –notlike "*store*"} | Remove-AppxPackage
