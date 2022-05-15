@@ -125,13 +125,21 @@
   ```
 </details>
 
+## Apps
+<details><summary><b>Remove Microsoft Edge</b></summary>
+  
+  [**remove_edge.bat**](https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat)
+  
+  ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
+  ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
+  ![image](https://user-images.githubusercontent.com/86190960/149354585-d467a0fe-60db-4a9b-82a6-20ea0f40934e.png)
+</details>
 
 
 # Tweaks
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 | Скачать | Описание |
 | -------- | --------- |
-| [Remove_Edge.bat](https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat) <br> ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png) ![image](https://user-images.githubusercontent.com/86190960/149354585-d467a0fe-60db-4a9b-82a6-20ea0f40934e.png) | Удаление Microsoft Edge |
 | [ExplorerSwitch.bat](https://awesome-windows11.github.io/windows11/explorerswitch.bat) | Переключение между старым и новым проводником
 | [TaskBarLayout.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarLayout.bat) ![image](https://user-images.githubusercontent.com/86190960/149355038-60bd0c3e-cec0-4ca7-bab3-16bccfa4d597.png)  | Изменить расположение панели задач
 | [TaskBarSize.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarSize.bat) <a href="https://user-images.githubusercontent.com/86190960/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png"> <br> <img src="https://i.ibb.co/7X4680R/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png"></a> | Изменить размер панели задач |
