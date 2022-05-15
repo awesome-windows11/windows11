@@ -1,4 +1,5 @@
-## Windows 11 твикеры, скачать
+<h1 align="center">Awesome Windows 11</h1>
+
 **v2.0.3: https://github.com/awesome-windows11/windows11/releases/tag/2.0.3**
 
 Первая помощь в настройке, твики и ISO образы
