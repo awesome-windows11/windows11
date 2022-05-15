@@ -126,6 +126,17 @@
 </details>
 
 ## 🛠 Apps
+<details><summary><b>🗑 Restore Microsoft store</b></summary>
+  
+  ```powershell
+  Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
+  ```
+  OR
+  ```powershell
+  wsreset.exe -i
+  ```
+</details>
+
 <details><summary><b>🗑 Remove ALL UWP (except Microsoft store)</b></summary>
   
   ```powershell
@@ -173,14 +184,6 @@ Get-AppxPackage –AllUsers | Select Name, PackageFullName
 ```powershell
 # Полная команда, для подробного анализа
 Get-AppxPackage –AllUsers
-```
-```powershell
-# Восстановить Microsoft Store
-Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
-```
-OR
-```cmd
-wsreset.exe -i
 ```
 ```powershell
 # Восстановить App Installer (winget)
