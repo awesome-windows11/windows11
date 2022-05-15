@@ -198,7 +198,6 @@
 | [VsCodeDefault.reg](https://awesome-windows11.github.io/windows11/твики/vscodedefault.reg) <br> <a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a> | Сделать VScode Portable редактором по умолчанию <br> **Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`>
 
 # ❓ FAQ
-<br>
 ```powershell
 # Как закрепить UWP на рабочий стол?
 shell:AppsFolder
