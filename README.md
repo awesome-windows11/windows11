@@ -69,6 +69,7 @@
 | --- | ------ |
 | [An APK File Installer for WSA](https://www.microsoft.com/ru-ru/p/apk-file-installer/9mvvjldmwpsg#activetab=pivot:overviewtab) | Установка APK приложений
 | [WSATools](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) | Установка APK приложений 2
+| [Wsa Toolbox](https://github.com/voletro/wsa-toolbox) |  Установка APK приложений 3
 | [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) | Установка Google Play
 
 ### Проверка на совместимость с Windows 11:
