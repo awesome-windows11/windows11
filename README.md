@@ -79,7 +79,8 @@
 
 <h1 align="center">PowerShell Tweaks (Scripts)</h1>
 
-## 🖼 Personalization
+<h2 align="center">🖼 Personalization</h2>
+
 <details><summary><b>🌑 Dark Theme: 0 | ☀️ Light Theme: 1</b></summary>
   
   ```cmd
@@ -120,7 +121,8 @@
   ```
 </details>
 
-## 🛠 Apps
+<h2 align="center">🛠 Apps</h2>
+
 <details><summary><b>🔽 Restore UWP</b></summary>
   
   **WindowsStore**
@@ -213,7 +215,8 @@
   ![image](https://user-images.githubusercontent.com/86190960/149354585-d467a0fe-60db-4a9b-82a6-20ea0f40934e.png)
 </details>
 
-## 📜 Policies
+<h2 align="center">📜 Policies</h2>
+
 <details><summary><b>Microsoft Edge Enterprise</b></summary>
   
   ```powershell
