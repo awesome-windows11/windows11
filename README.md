@@ -133,6 +133,13 @@
   ![image](https://user-images.githubusercontent.com/86190960/149354585-d467a0fe-60db-4a9b-82a6-20ea0f40934e.png)
 </details>
 
+<details><summary><b>🗑 Remove ALL UWP (except Microsoft store)</b></summary>
+  
+  ```powershell
+  Get-AppxPackage -AllUsers | where-object {$_.name –notlike "*store*"} | Remove-AppxPackage
+  ```
+</details>
+
 
 # Tweaks
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
@@ -197,10 +204,6 @@ Get-AppxPackage -allusers *NAME* | Remove-AppxPackage
 ```powershell
 # Для всех новых:
 Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*NAME*"} | Remove-AppxProvisionedPackage –online
-```
-```powershell
-# Как удалить ВСЕ приложения, КРОМЕ Microsoft Store
-Get-AppxPackage -AllUsers | where-object {$_.name –notlike "*store*"} | Remove-AppxPackage
 ```
 ```powershell
 # Как удалить ВСЕ приложения?
