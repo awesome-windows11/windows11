@@ -150,9 +150,9 @@
   
   ## WindowsPhone
   ```powershell
-  Get-AppxPackage *WindowsPhone* | Remove-AppxPackage
-  Get-AppxPackage -allusers *WindowsPhone* | Remove-AppxPackage
-  Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*WindowsPhone*"} | Remove-AppxProvisionedPackage –online
+  Get-AppxPackage *YourPhone* | Remove-AppxPackage
+  Get-AppxPackage -allusers *YourPhone* | Remove-AppxPackage
+  Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*YourPhone*"} | Remove-AppxProvisionedPackage –online
   ```
 </details>
 
