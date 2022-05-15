@@ -88,8 +88,6 @@
 ## Explore
 [ℹ Быстрая установка Windows 11](https://gist.github.com/awesome-windows11/52b35de87f369196e1516882fa27a62e)
 <br>
-[🛠 Твики](#tweaks)
-<br>
 [❓ Вопросы / Ответы](#faq)
 ### Внешние источники
 [🔗 Полезные ссылки](#links)
@@ -98,6 +96,7 @@
 <br>
 [🎨 Иконки](#icons)
 
+# PowerShell Scrypts
 ### 🌑 Dark Theme: 0 | ☀️ Light Theme: 1
 ```
 reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v AppsUseLightTheme /t REG_DWORD /d 0 /f
@@ -105,7 +104,7 @@ reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Pers
 reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v EnableTransparency /t REG_DWORD /d 1 /f
 ```
 
-# [Tweaks](#explore)
+# Tweaks
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 | Скачать | Описание |
 | -------- | --------- |
