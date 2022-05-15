@@ -158,8 +158,8 @@
   ![image](https://user-images.githubusercontent.com/86190960/149354585-d467a0fe-60db-4a9b-82a6-20ea0f40934e.png)
 </details>
 
-## Microsoft Edge Enterprise
-<details><summary><b>📜 Policies</b></summary>
+## 📜 Policies
+<details><summary><b>Microsoft Edge Enterprise</b></summary>
   
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge" /v SyncDisabled /t REG_DWORD /d 1 /f
