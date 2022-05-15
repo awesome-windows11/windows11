@@ -139,7 +139,36 @@
   Get-AppxPackage -allusers *YourPhone* | Remove-AppxPackage
   Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*YourPhone*"} | Remove-AppxProvisionedPackage –online
   ```
+
+  ### AppInstaller (winget)
+  ```powershell
+  Get-AppxPackage *AppInstaller* | Remove-AppxPackage
+  Get-AppxPackage -allusers *AppInstaller* | Remove-AppxPackage
+  Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*AppInstaller*"} | Remove-AppxProvisionedPackage –online
+  ```
+
+  ### WindowsTerminal
+  ```powershell
+  Get-AppxPackage *WindowsTerminal* | Remove-AppxPackage
+  Get-AppxPackage -allusers *WindowsTerminal* | Remove-AppxPackage
+  Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*WindowsTerminal*"} | Remove-AppxProvisionedPackage –online
+  ```
+
+  ### Notepad
+  ```powershell
+  Get-AppxPackage *Notepad* | Remove-AppxPackage
+  Get-AppxPackage -allusers *Notepad* | Remove-AppxPackage
+  Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*Notepad*"} | Remove-AppxProvisionedPackage –online
+  ```
+
+  ### Gadgets
+  ```powershell
+  Get-AppxPackage *Windows.Client.WebExperience* | Remove-AppxPackage
+  Get-AppxPackage -allusers *Windows.Client.WebExperience* | Remove-AppxPackage
+  Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*Windows.Client.WebExperience*"} | Remove-AppxProvisionedPackage –online
+  ```
 </details>
+
 
 <details><summary><b>🗑 Remove ALL UWP (except Microsoft store)</b></summary>
   
