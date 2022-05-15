@@ -43,12 +43,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
 "DisableAcrylicBackgroundOnLogon"=dword:00000001 ; Отключать - 1 | Не отключать - 0
 
-; ================================================ ТЁМНАЯ ТЕМА - 0 | СВЕТЛАЯ ТЕМА - 1  ================================================
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize]
-"AppsUseLightTheme"=dword:00000000 ; 1 ЧАСТЬ ТЕМЫ
-"SystemUsesLightTheme"=dword:00000000 ; 2 ЧАСТЬ ТЕМЫ
-"EnableTransparency"=dword:00000001 ; ПРОЗРАЧНОСТЬ
-
 ; ================================================ ЧИСТИМ ПРОВОДНИК  ================================================
 ; Скрыть папку Объёмные объекты
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{31C0DD25-9439-4F12-BF41-7FF4EDA38722}\PropertyBag]
