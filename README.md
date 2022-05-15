@@ -122,7 +122,7 @@
 ## 🛠 Apps
 <details><summary><b>🔽 Restore UWP</b></summary>
   
-  ### WindowsStore
+  **WindowsStore**
   ```powershell
   Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
@@ -131,22 +131,22 @@
   wsreset.exe -i
   ```
 
-  ### AppInstaller (winget)
+  **AppInstaller (winget)**
   ```powershell
   Get-AppXPackage *AppInstaller* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
 
-  ### WindowsTerminal
+  **WindowsTerminal**
   ```powershell
   Get-AppXPackage *WindowsTerminal* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
 
-  ### Notepad
+  **Notepad**
   ```powershell
   Get-AppXPackage *Notepad* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
 
-  ### Gadgets
+  **Gadgets**
   ```powershell
   Get-AppXPackage *Windows.Client.WebExperience* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
@@ -154,35 +154,35 @@
 
 <details><summary><b>🗑 Remove UWP</b></summary>
   
-  ### WindowsPhone
+  **WindowsPhone**
   ```powershell
   Get-AppxPackage *YourPhone* | Remove-AppxPackage
   Get-AppxPackage -allusers *YourPhone* | Remove-AppxPackage
   Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*YourPhone*"} | Remove-AppxProvisionedPackage –online
   ```
 
-  ### AppInstaller (winget)
+  **AppInstaller (winget)**
   ```powershell
   Get-AppxPackage *AppInstaller* | Remove-AppxPackage
   Get-AppxPackage -allusers *AppInstaller* | Remove-AppxPackage
   Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*AppInstaller*"} | Remove-AppxProvisionedPackage –online
   ```
 
-  ### WindowsTerminal
+  **WindowsTerminal**
   ```powershell
   Get-AppxPackage *WindowsTerminal* | Remove-AppxPackage
   Get-AppxPackage -allusers *WindowsTerminal* | Remove-AppxPackage
   Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*WindowsTerminal*"} | Remove-AppxProvisionedPackage –online
   ```
 
-  ### Notepad
+  **Notepad**
   ```powershell
   Get-AppxPackage *Notepad* | Remove-AppxPackage
   Get-AppxPackage -allusers *Notepad* | Remove-AppxPackage
   Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*Notepad*"} | Remove-AppxProvisionedPackage –online
   ```
 
-  ### Gadgets
+  **Gadgets**
   ```powershell
   Get-AppxPackage *Windows.Client.WebExperience* | Remove-AppxPackage
   Get-AppxPackage -allusers *Windows.Client.WebExperience* | Remove-AppxPackage
