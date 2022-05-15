@@ -78,7 +78,7 @@
 | [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11)
 | [Win11SysCheck](https://github.com/mq1n/Win11SysCheck)
 
-<h1 align="center"> PowerShell Tweaks (Scripts)</h1>
+<h1 align="center">PowerShell Tweaks (Scripts)</h1>
 
 ## 🖼 Personalization
 <details><summary><b>🌑 Dark Theme: 0 | ☀️ Light Theme: 1</b></summary>
@@ -250,7 +250,8 @@
 | [contextmenu.reg](https://github.com/awesome-windows11/windows11/blob/df7d30d80c1cf5fac49b5c3517000cebae5e0d5d/windows_tweaker.reg#L73) <br> ![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png) | Восстановить классические контекстные меню в масштабе всей системы
 | [VsCodeDefault.reg](https://awesome-windows11.github.io/windows11/твики/vscodedefault.reg) <br> <a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a> | Сделать VScode Portable редактором по умолчанию <br> **Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`>
 
-# ❓ FAQ
+<h1 align="center">❓ FAQ</h1>
+
 ```powershell
 # Как закрепить UWP на рабочий стол?
 shell:AppsFolder
@@ -308,7 +309,7 @@ Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 
 Инструкция: https://youtu.be/CQ0DUd1kyDs?t=133
 
-# 🔗 Links
+<h1 align="center">🔗 Links</h1>
 
 - https://changewindows.org/timeline/pc
 
@@ -322,7 +323,8 @@ Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 - https://renenyffenegger.ch/notes/Windows
 - https://admx.help
 - 
-# 🖼 Wallpaper
+<h1 align="center">🖼 Wallpaper</h1>
+
 [Windows 11 обои скачать](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/wallpaper/)
 
 Стандартно обои хранятся по пути:
@@ -331,13 +333,14 @@ C:\Windows\Web
 ```
 ![image](https://user-images.githubusercontent.com/86190960/122684534-8785cc80-d20e-11eb-850b-84054ad55fd3.png)
 
-# 🎨 Icons
+<h1 align="center">🎨 Icons</h1>
+
 [Пак всех иконок из Windows 11](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/)
 <br>
 [shell32.dll](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32.dll) - оригинальный файл из папки System32 в Windows 11
 
 <a href="https://ibb.co/48GyYLn"><img src="https://i.ibb.co/48GyYLn/122690033-9d57b980-d22f-11eb-951b-887765151e81.png" alt="122690033-9d57b980-d22f-11eb-951b-887765151e81"></a>
 
-# Stats
+<h1 align="center">Stats</h1>
 
 [![Stargazers over time](https://starchart.cc/awesome-windows11/windows11.svg)](https://starchart.cc/awesome-windows11/windows11)
