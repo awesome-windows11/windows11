@@ -129,6 +129,7 @@
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\PropertyBag" /v ThisPCPolicy /t REG_SZ /d Hide /f
   taskkill /F /IM explorer.exe
   start explorer.exe
+  pause
   ```
 </details>
 
