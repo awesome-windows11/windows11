@@ -79,6 +79,7 @@
 | [Win11SysCheck](https://github.com/mq1n/Win11SysCheck)
 
 <h1 align="center"> PowerShell Tweaks (Scripts)</h1>
+
 ## 🖼 Personalization
 <details><summary><b>🌑 Dark Theme: 0 | ☀️ Light Theme: 1</b></summary>
   
