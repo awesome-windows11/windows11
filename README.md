@@ -148,7 +148,7 @@
 
 <details><summary><b>🗑 Remove UWP</b></summary>
   
-  ## WindowsPhone
+  ### WindowsPhone
   ```powershell
   Get-AppxPackage *YourPhone* | Remove-AppxPackage
   Get-AppxPackage -allusers *YourPhone* | Remove-AppxPackage
