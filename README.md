@@ -133,6 +133,13 @@
   ```
 </details>
 
+<details><summary><b>🗑 Remove ALL UWP</b></summary>
+  
+  ```powershell
+  Get-AppxPackage | Remove-AppxPackage
+  ```
+</details>
+
 <details><summary><b><a href="https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat">🗑 Remove Microsoft Edge</a></b></summary>
   
   ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
@@ -204,10 +211,6 @@ Get-AppxPackage -allusers *NAME* | Remove-AppxPackage
 ```powershell
 # Для всех новых:
 Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*NAME*"} | Remove-AppxProvisionedPackage –online
-```
-```powershell
-# Как удалить ВСЕ приложения?
-Get-AppxPackage | Remove-AppxPackage
 ```
 ```powershell
 # Как удалить все приложения кроме нескольких N приложений?
