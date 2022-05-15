@@ -93,6 +93,7 @@
 [🎨 Иконки](#icons)
 
 # PowerShell Scrypts
+## 🖼 Personalization
 ### 🌑 Dark Theme: 0 | ☀️ Light Theme: 1
 ```
 reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v AppsUseLightTheme /t REG_DWORD /d 0 /f
