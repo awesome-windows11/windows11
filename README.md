@@ -125,8 +125,8 @@
   ```
 </details>
 
-## Apps
-<details><summary><b>Remove Microsoft Edge</b></summary>
+## 🛠 Apps
+<details><summary><b>🗑 Remove Microsoft Edge</b></summary>
   
   [**remove_edge.bat**](https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat)
   
