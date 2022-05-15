@@ -11,7 +11,7 @@
 
 | Имя | Описание |
 | --- | ------ |
-| [gsudo.msi](https://github.com/gerardog/gsudo/releases/download/v1.0.2/gsudoSetup.msi) | Получение NT/SYSTEM прав для Windows
+| [gsudo.msi](https://github.com/gerardog/gsudo) | Получение NT/SYSTEM прав для Windows
 | [WhatInStartup.zip](https://www.nirsoft.net/utils/whatinstartup-x64.zip) | Отключение скрытых программ из автозапуска
 | [AppInstaller](https://github.com/microsoft/winget-cli) | Последний с поддержкой winget
 | [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) | Получение Windows Insider напрямую, без аккаунтов
