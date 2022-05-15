@@ -1,4 +1,4 @@
-<h1 align="center">Awesome Windows 11 [v2.0.3](https://github.com/awesome-windows11/windows11/releases/tag/2.0.3)</h1>
+<h1 align="center">Awesome Windows 11 (<a href="https://github.com/awesome-windows11/windows11/releases/tag/2.0.3">v2.0.3</a>)</h1>
 
 Первая помощь в настройке, твики и ISO образы
 
