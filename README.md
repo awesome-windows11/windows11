@@ -120,14 +120,35 @@
 </details>
 
 ## 🛠 Apps
-<details><summary><b>🔽 Restore Microsoft store</b></summary>
+<details><summary><b>🔽 Restore UWP</b></summary>
   
+  ### WindowsStore
   ```powershell
   Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
   OR
   ```powershell
   wsreset.exe -i
+  ```
+
+  ### AppInstaller (winget)
+  ```powershell
+  Get-AppXPackage *AppInstaller* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
+  ```
+
+  ### WindowsTerminal
+  ```powershell
+  Get-AppXPackage *WindowsTerminal* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
+  ```
+
+  ### Notepad
+  ```powershell
+  Get-AppXPackage *Notepad* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
+  ```
+
+  ### Gadgets
+  ```powershell
+  Get-AppXPackage *Windows.Client.WebExperience* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
 </details>
 
@@ -238,22 +259,6 @@ Get-AppxPackage –AllUsers | Select Name, PackageFullName
 ```powershell
 # Полная команда, для подробного анализа
 Get-AppxPackage –AllUsers
-```
-```powershell
-# Восстановить App Installer (winget)
-Get-AppXPackage *AppInstaller* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
-```
-```powershell
-# Восстановить Windows Terminal
-Get-AppXPackage *WindowsTerminal* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
-```
-```powershell
-# Восстановить Notepad (Блокнот)
-Get-AppXPackage *Notepad* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
-```
-```powershell
-# Восстановить Windows Gadgets (Гаджеты)
-Get-AppXPackage *Windows.Client.WebExperience* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
 <img width="40%" src="https://user-images.githubusercontent.com/86190960/125692295-e047e2fd-1fc8-414f-860c-4e12deec2bc3.png"></img><img width="40%" src="https://user-images.githubusercontent.com/86190960/125692307-e8b3f2d6-55c7-48c5-bb2e-c642afeb20bb.png"></img>
 ```powershell
