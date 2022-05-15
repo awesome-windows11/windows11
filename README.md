@@ -146,6 +146,16 @@
   ```
 </details>
 
+<details><summary><b>🗑 Remove UWP</b></summary>
+  
+  ## WindowsPhone
+  ```powershell
+  Get-AppxPackage *WindowsPhone* | Remove-AppxPackage
+  Get-AppxPackage -allusers *WindowsPhone* | Remove-AppxPackage
+  Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*WindowsPhone*"} | Remove-AppxProvisionedPackage –online
+  ```
+</details>
+
 <details><summary><b>🗑 Remove ALL UWP (except Microsoft store)</b></summary>
   
   ```powershell
@@ -235,19 +245,6 @@ Get-AppXPackage *Notepad* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopme
 Get-AppXPackage *Windows.Client.WebExperience* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
 ```
 <img width="40%" src="https://user-images.githubusercontent.com/86190960/125692295-e047e2fd-1fc8-414f-860c-4e12deec2bc3.png"></img><img width="40%" src="https://user-images.githubusercontent.com/86190960/125692307-e8b3f2d6-55c7-48c5-bb2e-c642afeb20bb.png"></img>
-
-```powershell
-# Удалить любое приложение в PowerShell
-Get-AppxPackage *NAME* | Remove-AppxPackage
-```
-```powershell
-# Для того чтобы приложение удалилось у всех пользователей:
-Get-AppxPackage -allusers *NAME* | Remove-AppxPackage
-```
-```powershell
-# Для всех новых:
-Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*NAME*"} | Remove-AppxProvisionedPackage –online
-```
 ```powershell
 # Как удалить все приложения кроме нескольких N приложений?
 Get-AppxPackage -AllUsers | where-object {$_.name -notlike "*NAME1*"} | where-object {$_.name -notlike "*NAME2*"} | where-object {$_.name -notlike "*NAME3*"} | Remove-AppxPackage
