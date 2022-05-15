@@ -98,6 +98,10 @@
 <br>
 [🎨 Иконки](#icons)
 
+## Тёмная тема: 0 | Светлая тема: 1
+```
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v SeparateProcess /t REG_DWORD /d 0 /f
+```
 # [Tweaks](#explore)
 🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
 | Скачать | Описание |
