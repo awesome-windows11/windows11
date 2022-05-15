@@ -239,7 +239,7 @@
 </details>
 
 
-<h1 align="center"> Tweaks </h1>
+<h1 align="center">Tweaks</h1>
 
 | Скачать | Описание |
 | -------- | --------- |
