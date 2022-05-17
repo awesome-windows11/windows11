@@ -1,6 +1,6 @@
 <h1 align="center">Awesome Windows 11 (<a href="https://github.com/awesome-windows11/windows11/releases/tag/2.0.3">v3.0.0</a>)</h1>
 
-Первая помощь в настройке, твики и ISO образы
+First help for setup, tweaks and ISO images
 
 > Site: https://windows12.glitch.me
 > <br>
