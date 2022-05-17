@@ -29,7 +29,9 @@
 <br>
 [SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/)
 <br>
-| [BulkCrap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+🗑 [BulkCrap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+<br>
+✨ [Portable Registrator](https://github.com/SiL3NC3/PortableRegistrator)
 
 <h3 align="center">🛠 Tweaks Windows</h3>
 
@@ -55,7 +57,6 @@
 <br>
 ✨ [Windows Optimize Harden Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat/blob/master/sos-optimize-windows.ps1)
 <br>
-✨ [Portable Registrator](https://github.com/SiL3NC3/PortableRegistrator)
 
 <h3 align="center">🛠 Tweaks Windows 11</h3>
 
