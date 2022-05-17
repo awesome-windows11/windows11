@@ -39,6 +39,7 @@
 | [Equk](https://github.com/equk/windows) | 🛠 Набор твикеров
 | [Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) | 🛠 Твикеры для тонкой настройки
 | [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat/blob/master/sos-optimize-windows.ps1) | 🛠 Тотальная настройка Windows 
+| [PortableRegistrator](https://github.com/SiL3NC3/PortableRegistrator)
 
 ### Твикеры Windows 11:
 | Имя | Описание |
