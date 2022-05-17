@@ -37,7 +37,7 @@
 
 🛡 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
 <br>
-🛡 [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2)
+🛡 [Defeat Defender](https://github.com/swagkarna/Defeat-Defender-V1.2)
 <br>
 🛡 [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender)
 <br>
