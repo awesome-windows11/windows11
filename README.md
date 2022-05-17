@@ -9,13 +9,17 @@
 > Telegram: https://t.me/windows11_insider
 > <br>
 
-| Имя | Описание |
-| --- | ------ |
-| [gsudo.msi](https://github.com/gerardog/gsudo) | Получение NT/SYSTEM прав для Windows
-| [WhatInStartup.zip](https://www.nirsoft.net/utils/whatinstartup-x64.zip) | Отключение скрытых программ из автозапуска
-| [AppInstaller](https://github.com/microsoft/winget-cli) | Последний с поддержкой winget
-| [OfflineInsider.zip](https://github.com/abbodi1406/offlineinsiderenroll) | Получение Windows Insider напрямую, без аккаунтов
-| [Инструменты](https://github.com/farag2/Utilities)
+<h3 align="center">❗ Important Apps</h3>
+
+[Gsudo (NT/SYSTEM console)](https://github.com/gerardog/gsudo)
+<br>
+[Hidden Apps AutoRun](https://www.nirsoft.net/utils/whatinstartup-x64.zip)
+<br>
+[AppInstaller (winget)](https://github.com/microsoft/winget-cli)
+<br>
+[OfflineInsider (Windows Insider witout Microsoft Account)](https://github.com/abbodi1406/offlineinsiderenroll)
+<br>
+[Utilities](https://github.com/farag2/Utilities)
 
 ### Другое:
 | Имя | Описание |
