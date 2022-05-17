@@ -25,23 +25,34 @@
 | [SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/) | Лаунчер Безопасного Режима
 | [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Удаление программ
 
-### Твикеры Windows
-| Имя | Описание |
-| --- | ------ |
-| [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control) | 🛡 Отключение Windows Defender
-| [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2) | 🛡 Отключение Windows Defender
-| [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) | 🛡 Настройка Windows Defender
-| [WuMgr](https://github.com/DavidXanatos/wumgr) | 🔄 Windows Update Manager for Windows |
-| [Wu10Man](https://github.com/WereDev/Wu10Man) | 🔄 Настройка Windows Update
-| [Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) | 🗃 Отключение UWP
-| [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 🗃 Удаление UWP
-| [Win10BloatRemover.zip](https://github.com/Fs00/Win10BloatRemover) | ✨ Большой твикер
-| [Equk](https://github.com/equk/windows) | 🛠 Набор твикеров
-| [Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) | 🛠 Твикеры для тонкой настройки
-| [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat/blob/master/sos-optimize-windows.ps1) | 🛠 Тотальная настройка Windows 
-| [PortableRegistrator](https://github.com/SiL3NC3/PortableRegistrator)
+<h3 align="center">🛠 Tweaks Windows</h3>
 
-### Твикеры Windows 11:
+🛡 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
+<br>
+🛡 [Defeat Defender.zip](https://github.com/swagkarna/Defeat-Defender-V1.2)
+<br>
+🛡 [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender)
+<br>
+🔄 [Windows Update Manager for Windows (WuMgr)](https://github.com/DavidXanatos/wumgr)
+<br>
+🔄 [Wu10Man](https://github.com/WereDev/Wu10Man)
+<br>
+🗃 [Remove MS Store Apps](https://github.com/Digressive/Remove-MS-Store-Apps)
+<br>
+🗃 [UWP Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)
+<br>
+✨ [Win10 Bloat Remover](https://github.com/Fs00/Win10BloatRemover)
+<br>
+✨ [Equk](https://github.com/equk/windows)
+<br>
+✨ [Windows10 PostInstall](https://github.com/r33int/Windows10-Postinstall)
+<br>
+✨ [Windows Optimize Harden Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat/blob/master/sos-optimize-windows.ps1)
+<br>
+✨ [Portable Registrator](https://github.com/SiL3NC3/PortableRegistrator)
+
+<h3 align="center">🛠 Tweaks Windows 11</h3>
+
 | Имя | Описание |
 | --- | ------ |
 | [ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) | Добавить кастомное контекстное меню |
