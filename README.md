@@ -62,15 +62,20 @@
 
 <h3 align="center">🛠 Tweaks Windows 11</h3>
 
-| Имя | Описание |
-| --- | ------ |
-| [ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) | Добавить кастомное контекстное меню |
-| [Windows.11Fixer.zip](https://github.com/99natmar99/Windows-11-Fixer) |
-| [Windows11DragAndDropToTaskbarFix.exe](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) | Фикс панели задач
-| [StartAllBack.zip](https://www.startallback.com/) | Вернуть меню пуск Windows 7 и 10
-| [10SM-1.1.zip](https://github.com/bbmaster123/10SM) | Вернуть меню пуск Windows 10
-| [WindowsThumbnailGenerator.zip](https://github.com/hahagu/WindowsThumbnailGenerator) | Вернуть папкам нормальный предварительный вид
-| [ExplorerPatcher.exe](https://github.com/valinet/ExplorerPatcher) | Вернуть старую панель задач Windows 10
+[Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11)
+<br>
+[Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer)
+<br>
+[Old Start Menu](https://github.com/bbmaster123/10SM)
+<br>
+[Start All Back](https://www.startallback.com/)
+<br>
+[Explorer Patcher (Old TaskBar)](https://github.com/valinet/ExplorerPatcher)
+<br>
+☠ [DATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
+<br>
+☠ [DATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
+<br>
 
 ### Скачивание и установка Windows:
 | Имя | Описание |
