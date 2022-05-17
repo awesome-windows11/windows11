@@ -21,13 +21,15 @@
 <br>
 [Utilities](https://github.com/farag2/Utilities)
 
-### Другое:
-| Имя | Описание |
-| --- | ------ |
-| [localbrute.ps1](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) | ХАК: брутфорс пароля
-| [MAS.7z](https://github.com/massgravel/Microsoft-Activation-Scripts) | Активаторы скрипты
-| [SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/) | Лаунчер Безопасного Режима
-| [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Удаление программ
+<h3 align="center">Other:</h3>
+
+[HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
+<br>
+[Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+<br>
+[SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/)
+<br>
+| [BulkCrap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
 <h3 align="center">🛠 Tweaks Windows</h3>
 
