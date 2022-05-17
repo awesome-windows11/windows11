@@ -72,9 +72,9 @@
 <br>
 [Explorer Patcher (Old TaskBar)](https://github.com/valinet/ExplorerPatcher)
 <br>
-☠ [DATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
+☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
 <br>
-☠ [DATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
+☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
 <br>
 
 ### Скачивание и установка Windows:
