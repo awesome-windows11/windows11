@@ -39,7 +39,7 @@
 <br>
 🛡 [Defeat Defender](https://github.com/swagkarna/Defeat-Defender-V1.2)
 <br>
-🛡 [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender)
+🛡 [Configure Defender](https://github.com/AndyFul/ConfigureDefender)
 <br>
 🔄 [Windows Update Manager for Windows (WuMgr)](https://github.com/DavidXanatos/wumgr)
 <br>
