@@ -27,7 +27,7 @@
 <br>
 [Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 <br>
-[SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/)
+🧰 [SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/)
 <br>
 🗑 [BulkCrap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 <br>
