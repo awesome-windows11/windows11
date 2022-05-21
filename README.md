@@ -259,10 +259,10 @@ Local:
 
 <h2 align="center">📜 Policies</h2>
 
-<details><summary><b>🗃 Windows Defender OFF</b></summary>
+<details><summary><b>🗃 Disable Windows Defender</b></summary>
 
   ```powershell
-  echo "Windows Defender OFF"
+  echo "Disable Windows Defender"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiSpyware /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableRealtimeMonitoring /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiVirus /t REG_DWORD /d 1 /f
@@ -288,6 +288,23 @@ Local:
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender" /v ServiceStartStates /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender" /v DisableAntiSpyware /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender" /v DisableAntiVirus /t REG_DWORD /d 1 /f
+  ```
+</details>
+
+<details><summary><b>🗃 Disable Windows Update</b></summary>
+
+  ```powershell
+  echo "Disable OS Upgrade"
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v DisableOSUpgrade /t REG_DWORD /d 1 /f
+  echo "Disable Scanning, Downloading and Installing Updates"
+"SetDisableUXWUAccess"=dword:00000001 ; отключить сканирование, загрузку и установку обновлений Windows
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
+"NoAutoUpdate"=dword:00000001 ; 1 = отключить Automatic Updates
+"AUOptions"=dword:00000002 ; 2 = извещать перед загрузкой;
+"ScheduledInstallDay"=dword:00000000 ; (действительно только при AUOptions = 4, по расписанию!) 0 = каждый день
+"ScheduledInstallTime"=dword:00000003 ; Время суток в 24-часовом формате (значение от 0 до 23)
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching]
+"SearchOrderConfig"=dword:00000000 ; отключить автоустановку драйверов (любых!)
   ```
 </details>
 
