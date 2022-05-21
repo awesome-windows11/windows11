@@ -100,19 +100,21 @@ First help for setup, tweaks and ISO images
 ☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
 <br>
 
-### APK Windows 11
-| Имя | Описание |
-| --- | ------ |
-| [An APK File Installer for WSA](https://www.microsoft.com/ru-ru/p/apk-file-installer/9mvvjldmwpsg#activetab=pivot:overviewtab) | Установка APK приложений
-| [WSATools](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) | Установка APK приложений 2
-| [Wsa Toolbox](https://github.com/voletro/wsa-toolbox) |  Установка APK приложений 3
-| [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) | Установка Google Play
+<h3 align="center">Android APK</h3>
 
-### Проверка на совместимость с Windows 11:
-| Имя | Описание |
-| --- | ------ |
-| [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11)
-| [Win11SysCheck](https://github.com/mq1n/Win11SysCheck)
+[An APK File Installer for WSA](https://www.microsoft.com/ru-ru/p/apk-file-installer/9mvvjldmwpsg#activetab=pivot:overviewtab) (APK Installer 1)
+<br>
+[WSATools](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) (APK Installer 2)
+<br>
+[Wsa Toolbox](https://github.com/voletro/wsa-toolbox) (APK Installer 3)
+<br>
+[WSAGAScript](https://github.com/ADeltaX/WSAGAScript) (Google Play Installer)
+
+<h3 align="center">Compatibility check</h3>
+
+[WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11)
+<br>
+[Win11SysCheck](https://github.com/mq1n/Win11SysCheck)
 
 <h1 align="center">PowerShell Tweaks (Scripts)</h1>
 
