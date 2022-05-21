@@ -2,8 +2,6 @@
 
 First help for setup, tweaks and ISO images
 
-> ISO: https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO
-> <br>
 > Site: https://windows12.glitch.me
 > <br>
 > VK: https://vk.com/flighthub
