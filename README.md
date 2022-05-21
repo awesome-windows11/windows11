@@ -271,7 +271,7 @@ Local:
   red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v ServiceKeepAlive /t RED_DWORD /d 0 /f
   echo Real-Time Protection OFF
   red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableBehaviorMonitoring /t RED_DWORD /d 1 /f
-  echo Access Protection File & Program OFF
+  echo File Access Protection OFF
   red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableOnAccessProtection /t RED_DWORD /d 1 /f
   echo Scan Process OFF
   red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableScanOnRealtimeEnable /t RED_DWORD /d 1 /f
