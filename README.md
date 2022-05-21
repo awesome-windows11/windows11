@@ -79,17 +79,23 @@ First help for setup, tweaks and ISO images
 ☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
 <br>
 
-### Скачивание и установка Windows:
-| Имя | Описание |
-| --- | ------ |
-| [UupDump.net](https://proxied.uupdump.net/)
-| [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ) |
-| [Ventoy](https://github.com/ventoy/Ventoy)
-| [Fido](https://github.com/pbatard/Fido)
-| [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15)
-| [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
-| [Rectify11](https://rectify.vercel.app)
-| [BlissOS](https://blissos.org/index.html)
+<h3 align="center">Downloading and installing Windows:</h3>
+
+[UupDump.net](https://proxied.uupdump.net)
+<br>
+[❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
+<br>
+[Ventoy](https://github.com/ventoy/Ventoy)
+<br>
+[Fido](https://github.com/pbatard/Fido)
+<br>
+[MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15)
+<br>
+[Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
+<br>
+[Rectify11](https://rectify.vercel.app)
+<br>
+[BlissOS](https://blissos.org/index.html)
 
 ### APK Windows 11
 | Имя | Описание |
