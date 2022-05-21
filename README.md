@@ -262,7 +262,6 @@ Local:
 <details><summary><b>🗃 Windows Defender OFF</b></summary>
 
   ```powershell
-  echo "Windows Defender OFF"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiSpyware /t RED_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableRealtimeMonitoring /t RED_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiVirus /t RED_DWORD /d 1 /f
