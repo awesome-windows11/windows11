@@ -273,7 +273,7 @@ Local:
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableBehaviorMonitoring /t RED_DWORD /d 1 /f
   echo File Access Protection OFF
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableOnAccessProtection /t RED_DWORD /d 1 /f
-  echo Scan Process OFF
+  echo ScanProcess OFF
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableScanOnRealtimeEnable /t RED_DWORD /d 1 /f
   echo Scan Download Files OFF
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableIOAVProtection /t RED_DWORD /d 1 /f
