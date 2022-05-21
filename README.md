@@ -323,7 +323,7 @@ Local:
   ```
 </details>
 
-<details><summary><b>🗃 Microsoft Edge Lite (without sync Microsoft Account)</b></summary>
+<details><summary><b>🗃 Microsoft Edge Lite (Without Sync Microsoft Account)</b></summary>
   
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge" /v SyncDisabled /t REG_DWORD /d 1 /f
