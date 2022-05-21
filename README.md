@@ -100,13 +100,13 @@ First help for setup, tweaks and ISO images
 ☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
 <br>
 
-<h3 align="center">Android APK</h3>
+<h3 align="center">☎ Android APK</h3>
 
-[An APK File Installer for WSA](https://www.microsoft.com/ru-ru/p/apk-file-installer/9mvvjldmwpsg#activetab=pivot:overviewtab) (APK Installer 1)
+[📱 An APK File Installer for WSA](https://www.microsoft.com/ru-ru/p/apk-file-installer/9mvvjldmwpsg#activetab=pivot:overviewtab) (APK Installer 1)
 <br>
-[WSATools](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) (APK Installer 2)
+[📱 WSATools](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) (APK Installer 2)
 <br>
-[Wsa Toolbox](https://github.com/voletro/wsa-toolbox) (APK Installer 3)
+[📱 Wsa Toolbox](https://github.com/voletro/wsa-toolbox) (APK Installer 3)
 <br>
 [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) (Google Play Installer)
 
