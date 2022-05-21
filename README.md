@@ -110,7 +110,7 @@ First help for setup, tweaks and ISO images
 <br>
 [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) (Google Play Installer)
 
-<h3 align="center">Compatibility check</h3>
+<h3 align="center">🔔 Compatibility check</h3>
 
 [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11)
 <br>
