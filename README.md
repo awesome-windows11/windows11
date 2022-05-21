@@ -11,7 +11,7 @@ First help for setup, tweaks and ISO images
 > Telegram: https://t.me/windows11_insider
 > <br>
 
-<h2 align="center">Tweaks-Apps</h2>
+<h2 align="center">Windows 10</h2>
 
 <h3 align="center">❗ Important Apps</h3>
 
@@ -37,7 +37,7 @@ First help for setup, tweaks and ISO images
 <br>
 ✨ [Portable Registrator](https://github.com/SiL3NC3/PortableRegistrator)
 
-<h3 align="center">🛠 Tweaks Windows</h3>
+<h3 align="center">🛠 Tweaks</h3>
 
 🛡 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
 <br>
@@ -62,24 +62,8 @@ First help for setup, tweaks and ISO images
 ✨ [Windows Optimize Harden Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat/blob/master/sos-optimize-windows.ps1)
 <br>
 
-<h3 align="center">🛠 Tweaks Windows 11</h3>
 
-[Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11)
-<br>
-[Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer)
-<br>
-[Old Start Menu](https://github.com/bbmaster123/10SM)
-<br>
-[Start All Back](https://www.startallback.com/)
-<br>
-[Explorer Patcher (Old TaskBar)](https://github.com/valinet/ExplorerPatcher)
-<br>
-☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
-<br>
-☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
-<br>
-
-<h3 align="center">Downloading and installing Windows:</h3>
+<h3 align="center">⬇ Downloading and Installing:</h3>
 
 [UupDump.net](https://proxied.uupdump.net)
 <br>
@@ -96,6 +80,25 @@ First help for setup, tweaks and ISO images
 [Rectify11](https://rectify.vercel.app)
 <br>
 [BlissOS](https://blissos.org/index.html)
+
+<h2 align="center">Windows 11</h2>
+
+<h3 align="center">🛠 Tweaks</h3>
+
+[Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11)
+<br>
+[Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer)
+<br>
+[Old Start Menu](https://github.com/bbmaster123/10SM)
+<br>
+[Start All Back](https://www.startallback.com/)
+<br>
+[Explorer Patcher (Old TaskBar)](https://github.com/valinet/ExplorerPatcher)
+<br>
+☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
+<br>
+☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
+<br>
 
 ### APK Windows 11
 | Имя | Описание |
