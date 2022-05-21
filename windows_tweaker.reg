@@ -13,32 +13,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching]
 "SearchOrderConfig"=dword:00000000 ; отключить автоустановку драйверов (любых!)
 
-; ================================================ WINDOWS DEFENDER ================================================
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
-"DisableAntiSpyware"=dword:00000001 ; отключить Защитник Windows
-"DisableRealtimeMonitoring"=dword:00000001
-"DisableAntiVirus"=dword:00000001
-"DisableSpecialRunningModes"=dword:00000001
-"DisableRoutinelyTakingAction"=dword:00000001
-"ServiceKeepAlive"=dword:00000000
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
-"DisableBehaviorMonitoring"=dword:00000001 ; отключить контроль поведения
-"DisableOnAccessProtection"=dword:00000001 ; отключить отслеживание действий файлов и программ будет
-"DisableScanOnRealtimeEnable"=dword:00000001 ; отключить сканирование процессов не будет запускаться при включенной защите в реальном времени.
-"DisableIOAVProtection"=dword:00000001 ; отключить проверку всех загруженных файлов и вложений будет отключена.
-"DisableRealtimeMonitoring"=dword:00000001 ; отключить предложение Microsoft Defender предпринять действия по обнаружению вредоносных программ.
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\SmartScreen]
-"ConfigureAppInstallControlEnabled"=dword:00000000 ; отключить рекомендации приложений | Если 3, разрешать использование приложений ТОЛЬКО из Store
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates]
-"ForceUpdateFromMU"=dword:00000000
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet]
-"DisableBlockAtFirstSeen"=dword:00000001
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Features]
-"TamperProtection"=dword:00000000 ; отключить защиту от несанкционированного доступа 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender]
-"ServiceStartStates"=dword:00000001
-"DisableAntiSpyware"=dword:00000001
-"DisableAntiVirus"=dword:00000001
 ; ================================================ РАЗМЫТИЕ ЭКРАНА БЛОКИРОВКИ ОТКЛЮЧИТЬ? ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
 "DisableAcrylicBackgroundOnLogon"=dword:00000001 ; Отключать - 1 | Не отключать - 0

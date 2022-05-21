@@ -259,7 +259,39 @@ Local:
 
 <h2 align="center">📜 Policies</h2>
 
-<details><summary><b>🗃 Microsoft Edge Enterprise</b></summary>
+<details><summary><b>🗃 Windows Defender OFF</b></summary>
+
+  ```powershell
+  echo Windows Defender OFF
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiSpyware /t RED_DWORD /d 1 /f
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableRealtimeMonitoring /t RED_DWORD /d 1 /f
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiVirus /t RED_DWORD /d 1 /f
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableSpecialRunningModes /t RED_DWORD /d 1 /f
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableRoutinelyTakingAction /t RED_DWORD /d 1 /f
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v ServiceKeepAlive /t RED_DWORD /d 0 /f
+  echo Real-Time Protection OFF
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableBehaviorMonitoring /t RED_DWORD /d 1 /f
+  echo Access Protection File & Program OFF
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableOnAccessProtection /t RED_DWORD /d 1 /f
+  echo Scan Process OFF
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableScanOnRealtimeEnable /t RED_DWORD /d 1 /f
+  echo Scan Download Files OFF
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableIOAVProtection /t RED_DWORD /d 1 /f
+  echo Virus Notification OFF
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableRealtimeMonitoring /t RED_DWORD /d 1 /f
+  echo App Control (Windows Store) OFF
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\SmartScreen" /v ConfigureAppInstallControlEnabled /t RED_DWORD /d 0 /f
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Signature Updates" /v ForceUpdateFromMU /t RED_DWORD /d 0 /f
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v DisableBlockAtFirstSeen /t RED_DWORD /d 1 /f
+  echo Tamper Protection OFF
+  red add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Features" /v TamperProtection /t RED_DWORD /d 0 /f
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender" /v ServiceStartStates /t RED_DWORD /d 1 /f
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender" /v DisableAntiSpyware /t RED_DWORD /d 1 /f
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender" /v DisableAntiVirus /t RED_DWORD /d 1 /f
+  ```
+</details>
+
+<details><summary><b>🗃 Microsoft Edge Lite (without sync Microsoft Account)</b></summary>
   
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge" /v SyncDisabled /t REG_DWORD /d 1 /f
