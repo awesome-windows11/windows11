@@ -1,17 +1,4 @@
 Windows Registry Editor Version 5.00
-; Source: https://admx.help/HKLM/Software/Policies
-
-; ================================================ WINDOWS UPDATE ================================================
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
-"DisableOSUpgrade"=dword:00000001 ; отключить установку новых версий
-"SetDisableUXWUAccess"=dword:00000001 ; отключить сканирование, загрузку и установку обновлений Windows
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
-"NoAutoUpdate"=dword:00000001 ; 1 = отключить Automatic Updates
-"AUOptions"=dword:00000002 ; 2 = извещать перед загрузкой;
-"ScheduledInstallDay"=dword:00000000 ; (действительно только при AUOptions = 4, по расписанию!) 0 = каждый день
-"ScheduledInstallTime"=dword:00000003 ; Время суток в 24-часовом формате (значение от 0 до 23)
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching]
-"SearchOrderConfig"=dword:00000000 ; отключить автоустановку драйверов (любых!)
 
 ; ================================================ РАЗМЫТИЕ ЭКРАНА БЛОКИРОВКИ ОТКЛЮЧИТЬ? ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]

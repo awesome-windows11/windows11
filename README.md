@@ -261,6 +261,7 @@ Local:
 
 <details><summary><b>🗃 Disable Windows Defender</b></summary>
 
+  Source: https://admx.help/HKLM/Software/Policies
   ```powershell
   echo "Disable Windows Defender"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiSpyware /t REG_DWORD /d 1 /f
