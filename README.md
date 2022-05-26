@@ -66,6 +66,8 @@ First help for setup, tweaks and ISO images
 <br>
 ✨ [Windows Optimize Harden Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat/blob/master/sos-optimize-windows.ps1)
 <br>
+✨ [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)
+
 
 
 <h3 align="center">⬇ Downloading and Installing:</h3>
