@@ -357,6 +357,10 @@ Taskbar:
   ```
 </details>
 
+<details><summary><b>🗃 Firefox Lite (NOT Sync Account, Pocket, etc.)</b></summary>
+  
+  https://github.com/awesome-windows11/firefox#policiesjson
+</details>
 
 <h1 align="center">Tweaks</h1>
 
