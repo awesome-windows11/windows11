@@ -1,4 +1,4 @@
-<h1 align="center">Awesome Windows 11 (<a href="https://github.com/awesome-windows11/windows11/releases/tag/3.1.0">v3.1.0</a>)</h1>
+<h1 align="center">Awesome Windows 11 (<a href="https://github.com/awesome-windows11/windows11/releases/tag/3.2.0">v3.2.0</a>)</h1>
 
 First help for setup, tweaks and ISO images
 
