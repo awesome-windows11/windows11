@@ -137,13 +137,6 @@ First help for setup, tweaks and ISO images
   ```
 </details>
 
-<details><summary><b>Adding App to the Context Menu</b></summary>
-  
-  ```cmd
-  reg add "HKEY_CLASSES_ROOT\Directory\Background\VScode" /ve /d "&VScode" /f
-  pause
-  ```
-</details>
 
 <details><summary><b>🧹 Clean Explorer</b></summary>
   
@@ -191,6 +184,15 @@ Taskbar:
   %UserProfile%\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
   ```
 
+</details>
+
+<details><summary><b>Adding App to the Context Menu</b></summary>
+  
+  ```cmd
+  reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\VScode" /ve /d "&VScode" /f
+  reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\VScode\command" /ve /d "D:\Apps\VSCode\code.exe" /f
+  pause
+  ```
 </details>
 
 <h2 align="center">🛠 Apps</h2>
