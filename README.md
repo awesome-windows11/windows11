@@ -140,7 +140,7 @@ First help for setup, tweaks and ISO images
 <details><summary><b>Adding App to the Context Menu</b></summary>
   
   ```cmd
-  reg add "HKEY_CLASSES_ROOT\Directory\Background\VScode" /ve /t /d "&VScode" /f
+  reg add "HKEY_CLASSES_ROOT\Directory\Background\VScode" /ve /d "&VScode" /f
   pause
   ```
 </details>
