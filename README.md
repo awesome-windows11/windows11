@@ -127,7 +127,7 @@ First help for setup, tweaks and ISO images
 
 <h2 align="center">🖼 Personalization</h2>
 
-<details><summary><h3 align="center">🌑 Dark Theme: 0 | ☀️ Light Theme: 1</h3></summary>
+<details><summary><b>🌑 Dark Theme: 0 | ☀️ Light Theme: 1</b></summary>
   
   ```cmd
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v AppsUseLightTheme /t REG_DWORD /d 0 /f
