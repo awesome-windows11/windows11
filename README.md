@@ -344,6 +344,18 @@ Taskbar:
   ```
 </details>
 
+<details><summary><b>🗃 Disable Cortana</b></summary>
+
+  ```powershell
+  echo "Disable Cloud Search"
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search" /v AllowCloudSearch /t REG_DWORD /d 0 /f
+  echo "Disable Cortana"
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search" /v AllowCortana /t REG_DWORD /d 0 /f
+  echo "Disable Cortana LockScreen"
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search" /v AllowCortanaAboveLock /t REG_DWORD /d 0 /f
+  ```
+</details>
+
 <details><summary><b>🗃 Microsoft Edge Lite (NOT Sync Microsoft Account)</b></summary>
   
   ```powershell
