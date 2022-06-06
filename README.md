@@ -1,4 +1,4 @@
-<h1 align="center">Awesome Windows 11 (<a href="https://github.com/awesome-windows11/windows11/releases/tag/3.2.0">v3.2.0</a>)</h1>
+<h1 align="center">Awesome Windows 11 (<a href="https://github.com/awesome-windows11/windows11/releases/tag/3.3.0">v3.3.0</a>)</h1>
 
 First help for setup, tweaks and ISO images
 
@@ -7,8 +7,6 @@ First help for setup, tweaks and ISO images
 > VK: https://vk.com/flighthub
 > <br>
 > Telegram: https://t.me/windows11_insider
-> <br>
-> Awesome Firefox: https://github.com/awesome-windows11/firefox
 
 <h2 align="center">📚 Guides</h2>
 
@@ -341,6 +339,18 @@ Taskbar:
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v ScheduledInstallTime /t REG_DWORD /d 3 /f
   echo "Disable AutoInstall Drivers"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching" /v SearchOrderConfig /t REG_DWORD /d 0 /f
+  ```
+</details>
+
+<details><summary><b>🗃 Disable Cortana</b></summary>
+
+  ```powershell
+  echo "Disable Cloud Search"
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search" /v AllowCloudSearch /t REG_DWORD /d 0 /f
+  echo "Disable Cortana"
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search" /v AllowCortana /t REG_DWORD /d 0 /f
+  echo "Disable Cortana LockScreen"
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search" /v AllowCortanaAboveLock /t REG_DWORD /d 0 /f
   ```
 </details>
 
