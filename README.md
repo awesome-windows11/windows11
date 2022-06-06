@@ -7,8 +7,6 @@ First help for setup, tweaks and ISO images
 > VK: https://vk.com/flighthub
 > <br>
 > Telegram: https://t.me/windows11_insider
-> <br>
-> Awesome Firefox: https://github.com/awesome-windows11/firefox
 
 <h2 align="center">📚 Guides</h2>
 
