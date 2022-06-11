@@ -448,7 +448,7 @@ Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 - https://ab57.ru/cmdlist.html
 - https://renenyffenegger.ch/notes/Windows
 - https://admx.help
-- 
+
 <h1 align="center">🖼 Wallpaper</h1>
 
 [Windows 11 обои скачать](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/wallpaper/)
