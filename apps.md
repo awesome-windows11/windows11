@@ -40,6 +40,12 @@ https://github.com/awesome-windows11/windows11/releases/tag/99
 
 Hash files are commonly used as a method of verifying file size. This process is called check-sum verification. When a file is sent over a network, it must be broken into small pieces and reassembled after it reaches its destination. In this situation the hash number represents the size of the data in a file. The hash can then be used as a tool for validating the entire file was successfully transmitted over the network.
 
+Hashes cannot be reversed, so simply knowing the result of a file’s hash from a hashing algorithm does not allow you to reconstruct the file’s contents. What it does allow you to do, however, is determine whether two files are identical or not without knowing anything about their contents.
+
+For this reason, the idea that the result is unique is fundamental to the whole concept of hashes. If two different files could produce the same digest, we would have a “collision”, and we would not be able to use the hash as a reliable identifier for that file.
+
+The possibility of producing a collision is small, but not unheard of, and is the reason why more secure algorithms like SHA-2 have replaced SHA-1 and MD5.
+
 [HashCheck](https://github.com/gurnec/HashCheck)
 <br>
 [HashTab](https://hashtab.ru)
