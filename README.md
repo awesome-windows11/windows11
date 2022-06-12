@@ -70,7 +70,9 @@ First help for setup, tweaks and ISO images
 
 <h3 align="center">⬇ Downloading and Installing:</h3>
 
-[TB rg Adguard](https://tb.rg-adguard.net/public.php?lang=ru-RU)
+https://tb.rg-adguard.net/public.php?lang=ru-RU
+<br>
+https://uup.rg-adguard.net/
 <br>
 [UupDump.net](https://proxied.uupdump.net)
 <br>
