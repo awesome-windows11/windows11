@@ -26,8 +26,6 @@ https://github.com/awesome-windows11/windows11/releases/tag/99
 <br>
 [qBittorrent Portable](https://portableapps.com/apps/internet/qbittorrent_portable)
 <br>
-[Windows Update Manager for Windows](https://github.com/DavidXanatos/wumgr)
-<br>
 [Chrlauncher Chromium](https://github.com/henrypp/chrlauncher)
 <br>
 [Browser Portable sourceforge.net](https://sourceforge.net/projects/portableapps/files/)
