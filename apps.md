@@ -53,3 +53,5 @@ A cryptographic hash such as MD5, SHA1, SHA256, or Keccak, has many more require
 [HashCheck](https://github.com/gurnec/HashCheck)
 <br>
 [HashTab](https://hashtab.ru)
+<br>
+[gtkhash](https://github.com/tristanheaven/gtkhash)
