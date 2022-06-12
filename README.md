@@ -70,6 +70,8 @@ First help for setup, tweaks and ISO images
 
 <h3 align="center">⬇ Downloading and Installing:</h3>
 
+[TB rg Adguard](https://tb.rg-adguard.net/public.php?lang=ru-RU)
+<br>
 [UupDump.net](https://proxied.uupdump.net)
 <br>
 [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
