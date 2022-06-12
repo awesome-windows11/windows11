@@ -72,6 +72,8 @@ First help for setup, tweaks and ISO images
 
 [UupDump.net](https://proxied.uupdump.net)
 <br>
+[Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
+<br>
 [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
 <br>
 [Ventoy](https://github.com/ventoy/Ventoy)
