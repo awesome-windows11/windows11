@@ -46,6 +46,10 @@ For this reason, the idea that the result is unique is fundamental to the whole 
 
 The possibility of producing a collision is small, but not unheard of, and is the reason why more secure algorithms like SHA-2 have replaced SHA-1 and MD5.
 
+An integrity hash (e.g. CRC32), sometimes called a "redundancy hash", has the properties necessary to provide a fairly good indication of accidental corruption of a file. These hashes will generally produce a different hash when a bit is changed, but will not withstand someone purposefully trying to generate a collision. For example, the strings "Maria has nine red beds." and "Steven has fifteen white tables." are different but generate the same CRC32 hash of 0ECB65F5. The general requirements for integrity hashes are as follows:
+
+A cryptographic hash such as MD5, SHA1, SHA256, or Keccak, has many more requirements. These hashes are designed to be highly resistant against attempts to discover any information about the original input data, or collisions in the hash function.
+
 [HashCheck](https://github.com/gurnec/HashCheck)
 <br>
 [HashTab](https://hashtab.ru)
