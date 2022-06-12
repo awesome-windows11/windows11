@@ -36,9 +36,7 @@ https://github.com/awesome-windows11/windows11/releases/tag/99
 <br>
 [Spyware Browsers](https://spyware.neocities.org/articles/browsers.html)
 
-<h3 align="center">💾 Hash</h3>
-
-<details><summary><b>What is it?</b></summary>
+<details><summary><h3>💾 Hash</h3></summary>
 Hash files are commonly used as a method of verifying file size. This process is called check-sum verification. When a file is sent over a network, it must be broken into small pieces and reassembled after it reaches its destination. In this situation the hash number represents the size of the data in a file. The hash can then be used as a tool for validating the entire file was successfully transmitted over the network.
 
 Hashes cannot be reversed, so simply knowing the result of a file’s hash from a hashing algorithm does not allow you to reconstruct the file’s contents. What it does allow you to do, however, is determine whether two files are identical or not without knowing anything about their contents.
