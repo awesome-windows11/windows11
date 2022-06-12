@@ -37,6 +37,8 @@ https://github.com/awesome-windows11/windows11/releases/tag/99
 [Effect8](http://effect8.ru/)
 <br>
 [Spyware Browsers](https://spyware.neocities.org/articles/browsers.html)
+<br>
+[How to choose a browser for everyday use?](https://digdeeper.neocities.org/ghost/browsers.html)
 </details>
 
 <details><summary><h3>💾 Hash</h3></summary>
