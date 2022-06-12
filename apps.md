@@ -26,7 +26,7 @@ https://github.com/awesome-windows11/windows11/releases/tag/99
 <br>
 [qBittorrent Portable](https://portableapps.com/apps/internet/qbittorrent_portable)
 
-<details><summary><h3>Browsers</h3></summary>
+<details><summary><h3>🌎 Browsers</h3></summary>
   
 [Chrlauncher Chromium](https://github.com/henrypp/chrlauncher)
 <br>
