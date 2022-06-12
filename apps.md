@@ -24,8 +24,6 @@ https://github.com/awesome-windows11/windows11/releases/tag/99
 <br>
 [Snappy Driver Installer](https://sdi-tool.org/download/)
 <br>
-[Defender Control](https://www.sordum.org/downloads/?st-defender-control)
-<br>
 [qBittorrent Portable](https://portableapps.com/apps/internet/qbittorrent_portable)
 <br>
 [Windows Update Manager for Windows](https://github.com/DavidXanatos/wumgr)
