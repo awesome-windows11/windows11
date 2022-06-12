@@ -15,15 +15,25 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 winget install 7zip ; winget install steam ; winget install git ; winget install Terminal
 ```
 https://github.com/awesome-windows11/windows11/releases/tag/99
-| Название | 
-| ---- |
-| ![image](https://user-images.githubusercontent.com/86190960/124669713-849c0480-debb-11eb-8da8-58ed039128c9.png)[Paint.NET](https://www.dotpdn.com/downloads/pdn.html)
-| ![image](https://user-images.githubusercontent.com/86190960/124670072-202d7500-debc-11eb-9af6-1205e192cf7a.png)[Snappy Driver Installer](https://sdi-tool.org/download/)
-| ![image](https://user-images.githubusercontent.com/86190960/124670250-5f5bc600-debc-11eb-8df0-062edc22f2e0.png)[Defender Control](https://www.sordum.org/downloads/?st-defender-control)
-| [qBittorrent Portable](https://portableapps.com/apps/internet/qbittorrent_portable)
-| [Windows Update Manager for Windows](https://github.com/DavidXanatos/wumgr)
-| [Chrlauncher Chromium](https://github.com/henrypp/chrlauncher)
-| [Browser Portable sourceforge.net](https://sourceforge.net/projects/portableapps/files/)
-| [Browser Portable portapps.io](https://portapps.io/apps/)
-| [Effect8](http://effect8.ru/)
-| [Spyware Browsers](https://spyware.neocities.org/articles/browsers.html)
+
+[Paint.NET](https://www.dotpdn.com/downloads/pdn.html)
+<br>
+[Snappy Driver Installer](https://sdi-tool.org/download/)
+<br>
+[Defender Control](https://www.sordum.org/downloads/?st-defender-control)
+<br>
+[qBittorrent Portable](https://portableapps.com/apps/internet/qbittorrent_portable)
+<br>
+[Windows Update Manager for Windows](https://github.com/DavidXanatos/wumgr)
+<br>
+[Chrlauncher Chromium](https://github.com/henrypp/chrlauncher)
+<br>
+[Browser Portable sourceforge.net](https://sourceforge.net/projects/portableapps/files/)
+<br>
+[Browser Portable portapps.io](https://portapps.io/apps/)
+<br>
+[Effect8](http://effect8.ru/)
+<br>
+[Spyware Browsers](https://spyware.neocities.org/articles/browsers.html)
+<br>
+[HashCheck](https://github.com/gurnec/HashCheck)
