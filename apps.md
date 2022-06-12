@@ -37,3 +37,5 @@ https://github.com/awesome-windows11/windows11/releases/tag/99
 [Spyware Browsers](https://spyware.neocities.org/articles/browsers.html)
 <br>
 [HashCheck](https://github.com/gurnec/HashCheck)
+<br>
+[HashTab](https://hashtab.ru)
