@@ -68,3 +68,9 @@ https://www.clickfix.cf
 
 https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
 </details>
+
+<details><summary><h3>🌎 Browsers</h3></summary>
+ 
+  [Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
+  
+</details>
