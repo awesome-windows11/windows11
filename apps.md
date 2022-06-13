@@ -66,3 +66,16 @@ A cryptographic hash such as MD5, SHA1, SHA256, or Keccak, has many more require
 [HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html)
 <br>
 [getmd5checker](http://getmd5checker.com)
+
+<details><summary><h3>Double-click</h3></summary>
+  
+# Проверка
+https://alexbruni.ru/checkmouse
+
+https://codepen.io/blink172/pen/vERyxK
+
+# Исправить
+https://www.clickfix.cf
+
+https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
+</details>
