@@ -69,8 +69,8 @@ https://www.clickfix.cf
 https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
 </details>
 
-<details><summary><h3>🌎 Browsers</h3></summary>
+<details><summary><h3>🔐 Security</h3></summary>
  
-  [Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
+  [Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - is a sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the windows registry. An isolated virtual environment allows controlled testing of untrusted programs and web surfing.
   
 </details>
