@@ -28,6 +28,8 @@ https://github.com/awesome-windows11/windows11/releases/tag/99
 
 <details><summary><h3>🌎 Browsers</h3></summary>
  
+  https://github.com/awesome-windows11/chrome
+  
 </details>
 
 <details><summary><h3>💾 Hash</h3></summary>
