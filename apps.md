@@ -67,7 +67,7 @@ A cryptographic hash such as MD5, SHA1, SHA256, or Keccak, has many more require
 <br>
 [getmd5checker](http://getmd5checker.com)
 
-<details><summary><h3>Double-click</h3></summary>
+<details><summary><h3>Double-click mouse fix</h3></summary>
   
 # Проверка
 https://alexbruni.ru/checkmouse
