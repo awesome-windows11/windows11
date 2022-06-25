@@ -385,6 +385,11 @@ Taskbar:
   ```
 </details>
 
+<details><summary><b>🗃 Chrome Lite (NOT Security, etc.)</b></summary>
+  
+  https://github.com/awesome-windows11/chrome
+</details>
+
 <details><summary><b>🗃 Firefox Lite (NOT Sync Account, Pocket, etc.)</b></summary>
   
   https://github.com/awesome-windows11/firefox#-policiesjson
