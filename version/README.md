@@ -11,6 +11,11 @@ Windows 11 Build 22000.778, по-видимому, содержит множес
 https://www.windowslatest.com/2022/06/24/windows-11-kb5014668-released-with-a-new-feature-and-more/
 </details>
 
+<details><summary><h3>KB5014666  - 19045.1806</h3></summary>
+https://thecommunity.ru/microsoft/windows/windows10/9408-upominanija-windows-10-22h2-build-19045-obnaruzheny-v-obnovlenii-kb5014666-preview.html
+ 
+ </details>
+ 
 <details><summary><h3>KB5014699 - 19044.1766</h3></summary>
  Накопительное обновление, по-видимому, не содержит серьезных изменений или улучшений, но есть несколько исправлений. Прямые ссылки для загрузки автономных установщиков Windows 10 KB5014699 также доступны в каталоге Центра обновления Майкрософт.
  
