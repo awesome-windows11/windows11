@@ -269,7 +269,7 @@ Taskbar:
   ```
 </details>
 
-<details><summary><b>🗑 Remove UWP</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove UWP</b></summary>
   
   **WindowsPhone**
   ```powershell
@@ -308,14 +308,14 @@ Taskbar:
 </details>
 
 
-<details><summary><b>🗑 Remove ALL UWP (NOT Microsoft Store)</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove ALL UWP (NOT Microsoft Store)</b></summary>
   
   ```powershell
   Get-AppxPackage -AllUsers | where-object {$_.name –notlike "*store*"} | Remove-AppxPackage
   ```
 </details>
 
-<details><summary><b>🗑 Remove ALL UWP</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove ALL UWP</b></summary>
   
   ```powershell
   Get-AppxPackage | Remove-AppxPackage
