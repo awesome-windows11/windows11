@@ -1,5 +1,5 @@
 # 💻 Apps
-Open .ogg file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
+Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
 <br>
 <details><summary><h3>🔓 Activators</h3></summary>
   
