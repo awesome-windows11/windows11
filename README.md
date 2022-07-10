@@ -143,6 +143,14 @@ https://uup.rg-adguard.net/
   ```
 </details>
 
+<details><summary><b>🖼 Disable Change Wallpaper</b></summary>
+  
+  ```powershell
+  reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop" /v NoChangingWallPaper /t REG_DWORD /d 1 /f
+  reg add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop" /v NoChangingWallPaper /t REG_DWORD /d 1 /f
+  pause
+  ```
+</details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"></img> Clean Explorer</b></summary>
   
