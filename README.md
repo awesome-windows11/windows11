@@ -163,7 +163,7 @@ https://uup.rg-adguard.net/
 </details>
 
 
-<details><summary><b>🧹 Clean Explorer</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/exlporer.png"></img> Clean Explorer</b></summary>
   
   Force File Explorer to open to This PC instead of Quick Access
 
