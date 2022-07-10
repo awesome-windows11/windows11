@@ -283,7 +283,7 @@ Taskbar:
 </details>
 
 
-<details><summary><b>🗑 Remove ALL UWP (NOT WindowsStore)</b></summary>
+<details><summary><b>🗑 Remove ALL UWP (NOT Microsoft Store)</b></summary>
   
   ```powershell
   Get-AppxPackage -AllUsers | where-object {$_.name –notlike "*store*"} | Remove-AppxPackage
@@ -358,6 +358,17 @@ Taskbar:
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching" /v SearchOrderConfig /t REG_DWORD /d 0 /f
   ```
 </details>
+
+
+
+<details><summary><b>🗃 Disable Apps Microsoft Store AutoUpdate and Install</b></summary>
+
+  ```powershell
+  echo "Disable AutoUpdate Apps Microsoft Store"
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent" /v DisableWindowsConsumerFeatures /t REG_DWORD /d 1 /f
+  ```
+</details>
+
 
 <details><summary><b>🗃 Disable Cortana</b></summary>
 
