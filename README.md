@@ -146,6 +146,8 @@ https://uup.rg-adguard.net/
 <details><summary><b>🧹 Clean Taskbar</b></summary>
   
   ```powershell
+  echo "Disable People"
+  reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\People" /v PeopleBand /t REG_DWORD /d 0 /f
   echo "Disable Weather, News and Interests on taskbar"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Feeds" /v EnableFeeds /t REG_DWORD /d 0 /f
   echo "Hide Weather, News and Interests on taskbar"
