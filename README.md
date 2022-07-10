@@ -331,7 +331,7 @@ Taskbar:
 
 <h3 align="center">📜 Policies</h3>
 
-<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/defender.png"> Disable Windows Defender</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/defender.png"></img> Disable Windows Defender</b></summary>
 
   Source: https://admx.help/HKLM/Software/Policies
   
@@ -376,7 +376,7 @@ Taskbar:
 </details>
 
 
-<details><summary><b>🗃 Disable Windows Update</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Disable Windows Update</b></summary>
   
   **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
   
