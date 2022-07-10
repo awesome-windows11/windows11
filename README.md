@@ -152,6 +152,15 @@ https://uup.rg-adguard.net/
   ```
 </details>
 
+<details><summary><b>🖼 Disable Screenlock Spotlight</b></summary>
+  
+  ```powershell
+  reg add "HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\CloudContent" /v DisableWindowsSpotlightFeatures /t REG_DWORD /d 1 /f
+  reg add "HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\CloudContent" /v DisableWindowsSpotlightOnActionCenter /t REG_DWORD /d 1 /f
+  pause
+  ```
+</details>
+
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"></img> Clean Explorer</b></summary>
   
   Force File Explorer to open to This PC instead of Quick Access
