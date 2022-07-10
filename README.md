@@ -330,6 +330,10 @@ Taskbar:
   Source: https://admx.help/HKLM/Software/Policies
   
   **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
+
+  ```powershell
+  gsudo cmd.exe -s
+  ```
   
   ```powershell
   echo "Disable Windows Defender"
