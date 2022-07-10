@@ -3,6 +3,8 @@ Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9
 <br>
 Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
 
+G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
+
 <details><summary><h3>🔓 Activators</h3></summary>
   
 ### <a target="_blank" href="https://github.com/awesome-windows11/windows11/releases/tag/99">🔓 Activator by Ratiborus</a>
