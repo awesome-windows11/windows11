@@ -401,7 +401,7 @@ Taskbar:
 
 
 
-<details><summary><b>🗃 Disable Apps Microsoft Store AutoUpdate and Install</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Disable Apps Microsoft Store AutoUpdate and Install</b></summary>
 
   ```powershell
   # "Disable AutoUpdate Apps Microsoft Store"
