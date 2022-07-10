@@ -366,6 +366,8 @@ Taskbar:
   ```powershell
   echo "Disable AutoUpdate Apps Microsoft Store"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent" /v DisableWindowsConsumerFeatures /t REG_DWORD /d 1 /f
+  echo "Block the automatic installation of suggested Windows 10 apps"
+  reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v SilentInstalledAppsEnabled /t REG_DWORD /d 0 /f
   ```
 </details>
 
