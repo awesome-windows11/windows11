@@ -194,7 +194,7 @@ Taskbar:
 
 <details><summary><b>Adding App to the Context Menu</b></summary>
   
-  ```cmd
+  ```powershell
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\VScode" /ve /d "&VScode" /f
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\VScode\command" /ve /d "D:\Apps\VSCode\code.exe" /f
   pause
@@ -202,6 +202,15 @@ Taskbar:
 </details>
 
 <h3 align="center">🛠 Apps</h3>
+
+<details><summary><b>🗑 Remove and Disable Windows PC Health Check</b></summary>
+  
+  
+  ```powershell
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PCHC" /v PreviousUninstall /t REG_DWORD /d 1 /f
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PCHealthCheck" /v PreviousUninstall /t REG_DWORD /d 1 /f
+  ```
+</details>
 
 <details><summary><b>🔽 Restore UWP</b></summary>
   
