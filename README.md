@@ -228,7 +228,7 @@ Taskbar:
 
 <h3 align="center">🛠 Apps</h3>
 
-<details><summary><b>🗑 Remove and Disable Windows PC Health Check</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/check.png"></img> Remove and Disable Windows PC Health Check</b></summary>
   
   
   ```powershell
