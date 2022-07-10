@@ -165,6 +165,12 @@ https://uup.rg-adguard.net/
 
 <details><summary><b>🧹 Clean Explorer</b></summary>
   
+  Force File Explorer to open to This PC instead of Quick Access
+
+  ```powershell
+  reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v LaunchTo /t REG_DWORD /d 1 /f
+  ```
+
   ```powershell
   echo 3D Objects
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{31C0DD25-9439-4F12-BF41-7FF4EDA38722}\PropertyBag" /v ThisPCPolicy /t REG_SZ /d Hide /f
