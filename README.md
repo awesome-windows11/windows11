@@ -133,7 +133,7 @@ https://uup.rg-adguard.net/
 
 <h3 align="center">🖼 Personalization</h3>
 
-<details><summary><h3>🌑 Set Dark Theme</h3></summary>
+<details><summary><b>🌑 Set Dark Theme</b></summary>
   
   ```powershell
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v AppsUseLightTheme /t REG_DWORD /d 0 /f
@@ -144,7 +144,7 @@ https://uup.rg-adguard.net/
 </details>
 
 
-<details><summary><h3><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"></img> Clean Explorer</h3></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"></img> Clean Explorer</b></summary>
   
   Force File Explorer to open to This PC instead of Quick Access
 
@@ -180,7 +180,7 @@ https://uup.rg-adguard.net/
   ```
 </details>
 
-<details><summary><h3>🧹 Clean Taskbar</h3></summary>
+<details><summary><b>🧹 Clean Taskbar</b></summary>
   
   Edit Taskbar:
   ```cmd
@@ -204,7 +204,7 @@ https://uup.rg-adguard.net/
   ```
 </details>
 
-<details><summary><h3><img width=20px src="https://site-iota-coral.vercel.app/icon/start.png"></img> Edit StartMenu</h3></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/start.png"></img> Edit StartMenu</b></summary>
 
 StartMenu Global:
   ```cmd
@@ -218,7 +218,7 @@ StartMenu Local:
 
 </details>
 
-<details><summary><h3>Adding App to the Context Menu</h3></summary>
+<details><summary><b>Adding App to the Context Menu</b></summary>
   
   ```powershell
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\VScode" /ve /d "&VScode" /f
@@ -229,7 +229,7 @@ StartMenu Local:
 
 <h3 align="center">🛠 Apps</h3>
 
-<details><summary><h3><img width=20px src="https://site-iota-coral.vercel.app/icon/check.png"></img> Remove and Disable Windows PC Health Check</h3></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/check.png"></img> Remove and Disable Windows PC Health Check</b></summary>
   
   
   ```powershell
@@ -238,7 +238,7 @@ StartMenu Local:
   ```
 </details>
 
-<details><summary><h3>🔽 Restore UWP</h3></summary>
+<details><summary><b>🔽 Restore UWP</b></summary>
   
   **WindowsStore**
   ```powershell
@@ -270,7 +270,7 @@ StartMenu Local:
   ```
 </details>
 
-<details><summary><h3><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove UWP</h3></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove UWP</b></summary>
   
   **WindowsPhone**
   ```powershell
@@ -309,21 +309,21 @@ StartMenu Local:
 </details>
 
 
-<details><summary><h3><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove ALL UWP (NOT Microsoft Store)</h3></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove ALL UWP (NOT Microsoft Store)</b></summary>
   
   ```powershell
   Get-AppxPackage -AllUsers | where-object {$_.name –notlike "*store*"} | Remove-AppxPackage
   ```
 </details>
 
-<details><summary><h3><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove ALL UWP</h3></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove ALL UWP</b></summary>
   
   ```powershell
   Get-AppxPackage | Remove-AppxPackage
   ```
 </details>
 
-<details><summary><h3><a href="https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat"><img width=20px src="https://site-iota-coral.vercel.app/icon/edge.png"></img> Remove Microsoft Edge</a></h3></summary>
+<details><summary><b><a href="https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat"><img width=20px src="https://site-iota-coral.vercel.app/icon/edge.png"></img> Remove Microsoft Edge</a></b></summary>
   
   ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
   ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
@@ -332,7 +332,7 @@ StartMenu Local:
 
 <h3 align="center">📜 Policies</h3>
 
-<details><summary><h3><img width=20px src="https://site-iota-coral.vercel.app/icon/defender.png"></img> Disable Windows Defender</h3></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/defender.png"></img> Disable Windows Defender</b></summary>
 
   Source: https://admx.help/HKLM/Software/Policies
   
@@ -377,7 +377,7 @@ StartMenu Local:
 </details>
 
 
-<details><summary><h3><img width=20px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Disable Windows Update</h3></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Disable Windows Update</b></summary>
   
   **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
   
@@ -402,7 +402,7 @@ StartMenu Local:
 
 
 
-<details><summary><h3><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Disable Apps Microsoft Store AutoUpdate and Force Install</h3></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Disable Apps Microsoft Store AutoUpdate and Force Install</b></summary>
 
   ```powershell
   # "Disable AutoUpdate Apps Microsoft Store"
@@ -420,7 +420,7 @@ StartMenu Local:
 </details>
 
 
-<details><summary><h3><img width=20px src="https://site-iota-coral.vercel.app/icon/cortana.png"></img> Disable Cortana</h3></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/cortana.png"></img> Disable Cortana</b></summary>
 
   ```powershell
   # "Disable Cloud Search"
@@ -438,7 +438,7 @@ StartMenu Local:
 </details>
 
 
-<details><summary><h3><img width=20px src="https://site-iota-coral.vercel.app/icon/edge.png"></img> Microsoft Edge Lite (NOT Sync Microsoft Account)</h3></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/edge.png"></img> Microsoft Edge Lite (NOT Sync Microsoft Account)</b></summary>
   
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge" /v SyncDisabled /t REG_DWORD /d 1 /f
@@ -461,12 +461,12 @@ StartMenu Local:
   ```
 </details>
 
-<details><summary><h3>🗃 Chrome Lite (NOT Security, etc.)</h3></summary>
+<details><summary><b>🗃 Chrome Lite (NOT Security, etc.)</b></summary>
   
   https://github.com/awesome-windows11/chrome
 </details>
 
-<details><summary><h3>🗃 Firefox Lite (NOT Sync Account, Pocket, etc.)</h3></summary>
+<details><summary><b>🗃 Firefox Lite (NOT Sync Account, Pocket, etc.)</b></summary>
   
   https://github.com/awesome-windows11/firefox#-policiesjson
 </details>
