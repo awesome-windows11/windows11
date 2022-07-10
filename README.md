@@ -147,10 +147,13 @@ https://uup.rg-adguard.net/
   
   ```powershell
   echo "Disable Weather, News and Interests on taskbar"
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Feeds" /v EnableFeeds /t REG_DWORD /d 0 /f
+  echo "Hide Weather, News and Interests on taskbar"
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Feeds" /v ShellFeedsTaskbarViewMode /t REG_DWORD /d 2 /f
   pause
   ```
 </details>
+
 
 <details><summary><b>🧹 Clean Explorer</b></summary>
   
