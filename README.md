@@ -366,6 +366,7 @@ Taskbar:
 
 
 <details><summary><b>🗃 Disable Windows Update</b></summary>
+  
   **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
   
   ```powershell
