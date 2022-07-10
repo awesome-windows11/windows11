@@ -371,6 +371,7 @@ Taskbar:
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender" /v ServiceStartStates /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender" /v DisableAntiSpyware /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender" /v DisableAntiVirus /t REG_DWORD /d 1 /f
+  pause
   ```
 </details>
 
@@ -394,6 +395,7 @@ Taskbar:
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v ScheduledInstallTime /t REG_DWORD /d 3 /f
   # "Disable AutoInstall Drivers"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching" /v SearchOrderConfig /t REG_DWORD /d 0 /f
+  pause
   ```
 </details>
 
@@ -402,16 +404,17 @@ Taskbar:
 <details><summary><b>🗃 Disable Apps Microsoft Store AutoUpdate and Install</b></summary>
 
   ```powershell
-  echo "Disable AutoUpdate Apps Microsoft Store"
+  # "Disable AutoUpdate Apps Microsoft Store"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent" /v DisableWindowsConsumerFeatures /t REG_DWORD /d 1 /f
-  echo "Block the automatic installation of suggested Windows 10 apps"
+  # "Block the automatic installation of suggested Windows 10 apps"
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v SilentInstalledAppsEnabled /t REG_DWORD /d 0 /f
-  echo "Disable Showing App Suggestions in Start in Windows 10 (settings app)"
+  # "Disable Showing App Suggestions in Start in Windows 10 (settings app)"
   reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v SubscribedContent-338388Enabled /t REG_DWORD /d 0 /f
-  echo "Disable OEM Apps"
+  # "Disable OEM Apps"
   reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v OemPreInstalledAppsEnabled /t REG_DWORD /d 0 /f
-  echo "Disable Promotional Apps"
+  # "Disable Promotional Apps"
   reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v PreInstalledAppsEnabled /t REG_DWORD /d 0 /f
+  pause
   ```
 </details>
 
@@ -419,16 +422,17 @@ Taskbar:
 <details><summary><b>🗃 Disable Cortana</b></summary>
 
   ```powershell
-  echo "Disable Cloud Search"
+  # "Disable Cloud Search"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search" /v AllowCloudSearch /t REG_DWORD /d 0 /f
-  echo "Disable Cortana"
+  # "Disable Cortana"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search" /v AllowCortana /t REG_DWORD /d 0 /f
-  echo "Disable Cortana LockScreen"
+  # "Disable Cortana LockScreen"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search" /v AllowCortanaAboveLock /t REG_DWORD /d 0 /f
-  echo "Disable Cortana"
+  # "Disable Cortana"
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search" /v CortanaEnabled /t REG_DWORD /d 0 /f
-  echo "Disable Cortana"
+  # "Disable Cortana"
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search" /v CortanaConsent /t REG_DWORD /d 0 /f
+  pause
   ```
 </details>
 
