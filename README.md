@@ -331,7 +331,7 @@ Taskbar:
 
 <h3 align="center">📜 Policies</h3>
 
-<details><summary><b>🗃 Disable Windows Defender</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/defender.png"> Disable Windows Defender</b></summary>
 
   Source: https://admx.help/HKLM/Software/Policies
   
