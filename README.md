@@ -199,7 +199,7 @@ https://uup.rg-adguard.net/
   ```
 </details>
 
-<details><summary><b>🎨 Editor StartMenu / TaskBar</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/start.png"></img> Editor StartMenu / TaskBar</b></summary>
 
 StartMenu Global:
   ```cmd
