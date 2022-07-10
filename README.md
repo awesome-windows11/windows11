@@ -419,7 +419,7 @@ Taskbar:
 </details>
 
 
-<details><summary><b>🗃 Disable Cortana</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/cortana.png"></img> Disable Cortana</b></summary>
 
   ```powershell
   # "Disable Cloud Search"
