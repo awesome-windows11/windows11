@@ -135,7 +135,7 @@ https://uup.rg-adguard.net/
 
 <details><summary><b>🌑 Dark Theme: 0 | ☀️ Light Theme: 1</b></summary>
   
-  ```cmd
+  ```powershell
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v AppsUseLightTheme /t REG_DWORD /d 0 /f
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v SystemUsesLightTheme /t REG_DWORD /d 0 /f
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v EnableTransparency /t REG_DWORD /d 1 /f
@@ -143,6 +143,14 @@ https://uup.rg-adguard.net/
   ```
 </details>
 
+<details><summary><b>🧹 Clean Taskbar</b></summary>
+  
+  ```powershell
+  echo "Disable Weather, News and Interests on taskbar"
+  reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Feeds" /v ShellFeedsTaskbarViewMode /t REG_DWORD /d 2 /f
+  pause
+  ```
+</details>
 
 <details><summary><b>🧹 Clean Explorer</b></summary>
   
