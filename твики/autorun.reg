@@ -5,4 +5,4 @@ Windows Registry Editor Version 5.00
 "Clipdiary"="D:\\Apps\\Autorun\\clipdiary\\clipdiary-portable.exe --portable"
 "KeePassXC"="\"D:\\Apps\\Autorun\\KeePassXC-2.7.1-Win64\\KeePassXC.exe\""
 "Mem Reduct"="\"D:\\Apps\\memreduct\\memreduct.exe\" -minimized"
-
+"VPN"="\"D:\\Apps\\1_russia_blacklist.cmd" -minimized"
