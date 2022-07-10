@@ -133,7 +133,7 @@ https://uup.rg-adguard.net/
 
 <h3 align="center">🖼 Personalization</h3>
 
-<details><summary><b>🌑 Dark Theme: 0 | ☀️ Light Theme: 1</b></summary>
+<details><summary><b>🌑 Set Dark Theme</b></summary>
   
   ```powershell
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v AppsUseLightTheme /t REG_DWORD /d 0 /f
@@ -402,7 +402,7 @@ StartMenu Local:
 
 
 
-<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Disable Apps Microsoft Store AutoUpdate and Install</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Disable Apps Microsoft Store AutoUpdate and Force Install</b></summary>
 
   ```powershell
   # "Disable AutoUpdate Apps Microsoft Store"
