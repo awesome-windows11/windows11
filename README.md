@@ -328,7 +328,9 @@ Taskbar:
 <details><summary><b>🗃 Disable Windows Defender</b></summary>
 
   Source: https://admx.help/HKLM/Software/Policies
+  
   **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
+  
   ```powershell
   echo "Disable Windows Defender"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiSpyware /t REG_DWORD /d 1 /f
@@ -364,9 +366,9 @@ Taskbar:
 
 
 <details><summary><b>🗃 Disable Windows Update</b></summary>
-
-  ```powershell
   **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
+  
+  ```powershell
   echo "Disable OS Upgrade"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v DisableOSUpgrade /t REG_DWORD /d 1 /f
   echo "Disable Scanning, Downloading and Installing Updates"
