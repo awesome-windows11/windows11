@@ -1,6 +1,6 @@
 # 💻 Apps
 
-<a href="https://www.sordum.org/13075/url-disabler-v1-1"><img src="https://www.sordum.org/wp-content/uploads/2020/10/url_disabler_block_url.png" width="189"></a>
+<a href="https://www.sordum.org/13075/url-disabler-v1-1"><img src="https://www.sordum.org/wp-content/uploads/2020/10/url_disabler_block_url.png" width="300"></a>
 
 Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
 <br>
