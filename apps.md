@@ -1,7 +1,6 @@
 # 💻 Apps
 
-[![An old rock in the desert](https://www.sordum.org/wp-content/uploads/2022/04/url_disabler.png "Shiprock, New Mexico by Beau Rogers")](https://www.sordum.org/13075/url-disabler-v1-1/)
-
+<img src="https://www.sordum.org/wp-content/uploads/2022/04/url_disabler.png">
 
 Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
 <br>
