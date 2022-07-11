@@ -29,6 +29,8 @@ https://support.microsoft.com/en-us/topic/kb4591272-oobe-update-for-windows-10-v
  
 https://thecommunity.ru/microsoft/windows/windows10/9408-upominanija-windows-10-22h2-build-19045-obnaruzheny-v-obnovlenii-kb5014666-preview.html
  
+ https://windowsreport.com/kb5014666/
+ 
  </details>
  
 <details><summary><h3>KB5014699 - 19044.1766</h3></summary>
