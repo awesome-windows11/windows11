@@ -224,6 +224,14 @@ https://uup.rg-adguard.net/
   ```
 </details>
 
+<details><summary><b>Clean Settings</b></summary>
+  
+  ```powershell
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v AllowOnlineTips /t REG_DWORD /d 0 /f
+  pause
+  ```
+</details>
+
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/start.png"></img> Edit StartMenu</b></summary>
 
 StartMenu Global:
