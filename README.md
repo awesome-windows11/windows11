@@ -150,6 +150,16 @@ https://uup.rg-adguard.net/
   reg add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop" /v NoChangingWallPaper /t REG_DWORD /d 1 /f
   pause
   ```
+  
+  [Windows 11 обои скачать](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/wallpaper/)
+
+	Стандартно обои хранятся по пути:
+	```
+	C:\Windows\Web
+	```
+	![image](https://user-images.githubusercontent.com/86190960/122684534-8785cc80-d20e-11eb-850b-84054ad55fd3.png)
+
+
 </details>
 
 <details><summary><b>🖼 Disable Screenlock Spotlight</b></summary>
@@ -565,16 +575,6 @@ Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 - https://ab57.ru/cmdlist.html
 - https://renenyffenegger.ch/notes/Windows
 - https://admx.help
-
-<h1 align="center">🖼 Wallpaper</h1>
-
-[Windows 11 обои скачать](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/wallpaper/)
-
-Стандартно обои хранятся по пути:
-```
-C:\Windows\Web
-```
-![image](https://user-images.githubusercontent.com/86190960/122684534-8785cc80-d20e-11eb-850b-84054ad55fd3.png)
 
 <h1 align="center">🎨 Icons</h1>
 
