@@ -18,6 +18,10 @@ https://www.windowslatest.com/2022/06/24/windows-11-kb5014668-released-with-a-ne
  
  </details>
  
+ <details><summary><h3>KB4591272 - OOBE</h3></summary>
+https://support.microsoft.com/en-us/topic/kb4591272-oobe-update-for-windows-10-version-1903-1909-2004-20h2-21h1-and-21h2-october-28-2021-30f749ff-a3a8-5314-a6c4-13f8650a10f2
+ 
+ </details>
  
 <details><summary><h3>KB5014666  - 19045.1806</h3></summary>
  
