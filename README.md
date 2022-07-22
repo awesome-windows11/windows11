@@ -108,11 +108,12 @@ https://uup.rg-adguard.net/
 <br>
 [Explorer Patcher (Old TaskBar)](https://github.com/valinet/ExplorerPatcher)
 <br>
+[privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+<br>
 ☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
 <br>
 ☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
 <br>
-
 <h3 align="center">☎ Android APK</h3>
 
 [📱 An APK File Installer for WSA](https://www.microsoft.com/ru-ru/p/apk-file-installer/9mvvjldmwpsg#activetab=pivot:overviewtab) (APK Installer 1)
