@@ -380,7 +380,9 @@ StartMenu Local:
 
   Source: https://admx.help/HKLM/Software/Policies
   
-  **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
+  > **Warning**
+  > <br>
+  > **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
   
   ```powershell
   gsudo -s powershell.exe
@@ -423,7 +425,9 @@ StartMenu Local:
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Disable Windows Update</b></summary>
   
-  **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
+  > **Warning**
+  > <br>
+  > **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
   
   ```powershell
   # "Disable OS Upgrade"
