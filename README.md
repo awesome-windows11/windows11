@@ -511,12 +511,12 @@ StartMenu Local:
   ```
 </details>
 
-<details><summary><b>🗃 Chrome Lite (NOT Security, etc.)</b></summary>
+<details><summary><b><img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/1200px-Chromium_Logo.svg.png"></img> Chrome Lite (NOT Security, etc.)</b></summary>
   
   https://github.com/awesome-windows11/chrome
 </details>
 
-<details><summary><b>🗃 Firefox Lite (NOT Sync Account, Pocket, etc.)</b></summary>
+<details><summary><b><img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png"></img> Firefox Lite (NOT Sync Account, Pocket, etc.)</b></summary>
   
   https://github.com/awesome-windows11/firefox#-policiesjson
 </details>
