@@ -35,12 +35,6 @@ https://github.com/awesome-windows11/windows11/releases/tag/99
 <br>
 [qBittorrent Portable](https://portableapps.com/apps/internet/qbittorrent_portable)
 
-<details><summary><h3>🌎 Browsers</h3></summary>
- 
-  All information: https://github.com/awesome-windows11/chrome
-  
-</details>
-
 <details><summary><h3>💾 Hash</h3></summary>
 Hash files are commonly used as a method of verifying file size. This process is called check-sum verification. When a file is sent over a network, it must be broken into small pieces and reassembled after it reaches its destination. In this situation the hash number represents the size of the data in a file. The hash can then be used as a tool for validating the entire file was successfully transmitted over the network.
 
