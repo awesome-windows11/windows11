@@ -112,6 +112,8 @@ https://uup.rg-adguard.net/
 <br>
 [Windows 11 Guide](https://github.com/mikeroyal/Windows-11-Guide) 
 <br>
+[Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
+<br>
 ☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
 <br>
 ☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
