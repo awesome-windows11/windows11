@@ -74,9 +74,7 @@ First help for setup, tweaks and ISO images
 
 https://tb.rg-adguard.net/public.php?lang=ru-RU
 <br>
-https://uup.rg-adguard.net/
-<br>
-[UupDump.net](https://proxied.uupdump.net)
+[UupDump.net](https://uup.rg-adguard.net)
 <br>
 [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
 <br>
