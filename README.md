@@ -110,7 +110,7 @@ https://uup.rg-adguard.net/
 <br>
 [privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
 <br>
-[Windows 11 Guide] https://github.com/mikeroyal/Windows-11-Guide
+[Windows 11 Guide](https://github.com/mikeroyal/Windows-11-Guide) 
 <br>
 ☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
 <br>
