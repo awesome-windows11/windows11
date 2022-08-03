@@ -27,7 +27,9 @@ https://www.windowslatest.com/2022/06/24/windows-11-kb5014668-released-with-a-ne
  
  В недавно выпущенном необязательном обновлении KB5014666 для Windows 10 версий 20H2, 21H1 и 22H2 энтузиасты обнаружили пакеты для перехода на версию 22H2. Если вручную активировать эти пакеты, то в свойствах ОС номер версии системы изменится на 22H2, а номер сборки — на 19045. Из этого можно сделать вывод, что Windows 10 версии 22H2 по-прежнему будет основан на кодовой базе May 2020 Update (версия 2004), как и несколько предыдущих подобных обновлений.
  
-https://thecommunity.ru/microsoft/windows/windows10/9408-upominanija-windows-10-22h2-build-19045-obnaruzheny-v-obnovlenii-kb5014666-preview.html
+ https://thecommunity.ru/microsoft/windows/windows10/9408-upominanija-windows-10-22h2-build-19045-obnaruzheny-v-obnovlenii-kb5014666-preview.html
+ 
+ https://www.windowslatest.com/2022/07/26/microsoft-begins-preparing-windows-10-22h2-for-public-rollout/
  
  https://windowsreport.com/kb5014666/
  
