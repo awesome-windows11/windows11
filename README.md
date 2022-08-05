@@ -65,7 +65,7 @@ First help for setup, tweaks and ISO images
 
 [Remove MS Store Apps](https://github.com/Digressive/Remove-MS-Store-Apps)
 <br>
-[UWP Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)
+[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)
 <br>
 ✨ [Win10 Bloat Remover](https://github.com/Fs00/Win10BloatRemover)
 <br>
