@@ -45,7 +45,7 @@ First help for setup, tweaks and ISO images
 <br>
 ✨ [Portable Registrator](https://github.com/SiL3NC3/PortableRegistrator)
 
-<h3 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/defender.png"></img> Windows Defender</h3>
+<h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/defender.png"></img> Windows Defender</h3>
 
 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
 <br>
@@ -53,13 +53,13 @@ First help for setup, tweaks and ISO images
 <br>
 [Configure Defender](https://github.com/AndyFul/ConfigureDefender)
 
-<h3 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
+<h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
 
 [Windows Update Manager for Windows (WuMgr)](https://github.com/DavidXanatos/wumgr)
 <br>
 [Wu10Man](https://github.com/WereDev/Wu10Man)
 
-<h3 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Microsoft Store Apps</h3>
+<h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Microsoft Store Apps</h3>
 
 [Remove MS Store Apps](https://github.com/Digressive/Remove-MS-Store-Apps)
 <br>
