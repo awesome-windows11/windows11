@@ -74,6 +74,30 @@ First help for setup, tweaks and ISO images
 ✨ [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)
 
 
+<h2 align="center">Windows 11</h2>
+
+<h3 align="center">🛠 Tweaks</h3>
+
+[Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11)
+<br>
+[Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer)
+<br>
+[Old Start Menu](https://github.com/bbmaster123/10SM)
+<br>
+[Start All Back](https://www.startallback.com/)
+<br>
+[Explorer Patcher (Old TaskBar)](https://github.com/valinet/ExplorerPatcher)
+<br>
+[privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+<br>
+[Windows 11 Guide](https://github.com/mikeroyal/Windows-11-Guide) 
+<br>
+[Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
+<br>
+☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
+<br>
+☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
+
 <details><summary><h3>⬇ Download and Install Windows</h3></summary>
 
 https://uupdump.net
@@ -99,32 +123,6 @@ https://uup.rg-adguard.net
 [BlissOS](https://blissos.org/index.html)
 
 </details>
-
-
-<h2 align="center">Windows 11</h2>
-
-<h3 align="center">🛠 Tweaks</h3>
-
-[Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11)
-<br>
-[Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer)
-<br>
-[Old Start Menu](https://github.com/bbmaster123/10SM)
-<br>
-[Start All Back](https://www.startallback.com/)
-<br>
-[Explorer Patcher (Old TaskBar)](https://github.com/valinet/ExplorerPatcher)
-<br>
-[privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
-<br>
-[Windows 11 Guide](https://github.com/mikeroyal/Windows-11-Guide) 
-<br>
-[Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
-<br>
-☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
-<br>
-☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
-
 
 <h3 align="center">☎ Android APK</h3>
 
