@@ -418,7 +418,32 @@ StartMenu Local:
   > **Смените путь к редактору на свой!** (по умолчанию `E:\VScode`)
   
   ![image](https://user-images.githubusercontent.com/87380272/183214790-4ed90003-a692-438f-b152-210a45fa2bd6.png)
-
+  
+  ```powershell
+  Windows Registry Editor Version 5.00
+  ; Default Path: "E:\VSCode"
+  ; https://medium.com/@fawwazyusran/create-a-portable-ide-with-visual-studio-code-fb0c6bc198ef
+  [HKEY_CLASSES_ROOT\*\shell\Open with VS Code]
+  @="Edit with VS Code"
+  "Icon"="E:\\VSCode\\Code.exe,0"
+  [HKEY_CLASSES_ROOT\*\shell\Open with VS Code\command]
+  @="\"E:\\VSCode\\Code.exe\" \"%1\""
+  ; This will make it appear when you right click ON a folder
+  ; The "Icon" line can be removed if you don't want the icon to appear
+  [HKEY_CLASSES_ROOT\Directory\shell\vscode]
+  @="Open Folder as VS Code Project"
+  "Icon"="\"E:\\VSCode\\Code.exe\",0"
+  [HKEY_CLASSES_ROOT\Directory\shell\vscode\command]
+  @="\"E:\\VSCode\\Code.exe\" \"%1\""
+  ; This will make it appear when you right click INSIDE a folder
+  ; The "Icon" line can be removed if you don't want the icon to appear
+  [HKEY_CLASSES_ROOT\Directory\Background\shell\vscode]
+  @="Open Folder as VS Code Project"
+  "Icon"="\"E:\\VSCode\\Code.exe\",0"
+  [HKEY_CLASSES_ROOT\Directory\Background\shell\vscode\command]
+  @="\"E:\\VSCode\\Code.exe\" \"%V\""
+  ```
+  
 </details>
 
 
