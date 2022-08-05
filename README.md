@@ -47,21 +47,25 @@ First help for setup, tweaks and ISO images
 <br>
 ✨ [Portable Registrator](https://github.com/SiL3NC3/PortableRegistrator)
 
-<h3 align="center">🛠 Tweaks</h3>
+<h3 align="center">🛡 Windows Defender</h3>
 
-🛡 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
+[Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
 <br>
-🛡 [Defeat Defender](https://github.com/swagkarna/Defeat-Defender-V1.2)
+[Defeat Defender](https://github.com/swagkarna/Defeat-Defender-V1.2)
 <br>
-🛡 [Configure Defender](https://github.com/AndyFul/ConfigureDefender)
+[Configure Defender](https://github.com/AndyFul/ConfigureDefender)
+
+<h3 align="center">🔄 Windows Update</h3>
+
+[Windows Update Manager for Windows (WuMgr)](https://github.com/DavidXanatos/wumgr)
 <br>
-🔄 [Windows Update Manager for Windows (WuMgr)](https://github.com/DavidXanatos/wumgr)
+[Wu10Man](https://github.com/WereDev/Wu10Man)
+
+<h3 align="center">🗃 Microsoft Store Apps</h3>
+
+[Remove MS Store Apps](https://github.com/Digressive/Remove-MS-Store-Apps)
 <br>
-🔄 [Wu10Man](https://github.com/WereDev/Wu10Man)
-<br>
-🗃 [Remove MS Store Apps](https://github.com/Digressive/Remove-MS-Store-Apps)
-<br>
-🗃 [UWP Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)
+[UWP Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)
 <br>
 ✨ [Win10 Bloat Remover](https://github.com/Fs00/Win10BloatRemover)
 <br>
