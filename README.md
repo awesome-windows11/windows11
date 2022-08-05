@@ -55,13 +55,13 @@ First help for setup, tweaks and ISO images
 <br>
 [Configure Defender](https://github.com/AndyFul/ConfigureDefender)
 
-<h3 align="center"><img width=20px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
+<h3 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
 
 [Windows Update Manager for Windows (WuMgr)](https://github.com/DavidXanatos/wumgr)
 <br>
 [Wu10Man](https://github.com/WereDev/Wu10Man)
 
-<h3 align="center">🗃 Microsoft Store Apps</h3>
+<h3 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Microsoft Store Apps</h3>
 
 [Remove MS Store Apps](https://github.com/Digressive/Remove-MS-Store-Apps)
 <br>
@@ -316,7 +316,7 @@ StartMenu Local:
   ```
 </details>
 
-<details><summary><b>🔽 Restore Microsoft Store Apps</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Restore Microsoft Store Apps</b></summary>
   
   **WindowsStore**
   ```powershell
