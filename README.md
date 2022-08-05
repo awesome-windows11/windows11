@@ -128,7 +128,7 @@ https://uup.rg-adguard.net
 
 <details><summary align="center"><h3>☎ Android APK (Win11)</h3></summary>
 
-[📱 An APK File Installer for WSA](https://www.microsoft.com/ru-ru/p/apk-file-installer/9mvvjldmwpsg#activetab=pivot:overviewtab) (APK Installer 1)
+[📱 An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG) (APK Installer 1)
 <br>
 [📱 WSATools](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) (APK Installer 2)
 <br>
