@@ -128,14 +128,13 @@ https://uup.rg-adguard.net
 
 <details><summary align="center"><h3>📱 Android APK (Win11)</h3></summary>
 
-[An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG) (APK Installer 1)
+APK Installer 1: [An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG)
 <br>
-[WSATools](https://apps.microsoft.com/store/detail/9N4P75DXL6FG) (APK Installer 2)
+APK Installer 2: [WSATools](https://apps.microsoft.com/store/detail/9N4P75DXL6FG)
 <br>
-https://github.com/voletro/wsa-toolbox (APK Installer 3)
+APK Installer 3: https://github.com/voletro/wsa-toolbox
 <br>
-https://github.com/ADeltaX/WSAGAScript (Google Play Installer)
-
+Google Play Installer: https://github.com/ADeltaX/WSAGAScript
 </details>
 
 
