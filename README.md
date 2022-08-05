@@ -21,8 +21,6 @@ First help for setup, tweaks and ISO images
 <br>
 [💿 ISO: Windows Images, HASH File](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
 
-<h2 align="center">Windows 10</h2>
-
 <h3 align="center">❗ Important Apps</h3>
 
 [Gsudo (NT/SYSTEM console)](https://github.com/gerardog/gsudo)
