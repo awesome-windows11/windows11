@@ -142,11 +142,11 @@ https://uup.rg-adguard.net
 <br>
 [Win11SysCheck](https://github.com/mq1n/Win11SysCheck)
 
+</details>
+
 <h1 align="center">PowerShell Tweaks (Scripts)</h1>
 
 <h3 align="center">🖼 Personalization</h3>
-
-</details>
 
 
 <details><summary><b>🌑 Set Dark Theme</b></summary>
