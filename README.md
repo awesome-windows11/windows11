@@ -141,9 +141,9 @@ Google Play Installer: https://github.com/ADeltaX/WSAGAScript
 
 <details><summary align="center"><h3>🔔 Compatibility check</h3></summary>
 
-[WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11)
+https://github.com/rcmaehl/WhyNotWin11
 <br>
-[Win11SysCheck](https://github.com/mq1n/Win11SysCheck)
+https://github.com/mq1n/Win11SysCheck
 
 </details>
 
