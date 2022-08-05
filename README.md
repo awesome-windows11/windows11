@@ -33,7 +33,7 @@ First help for setup, tweaks and ISO images
 <br>
 [Utilities](https://github.com/farag2/Utilities)
 
-<h2 align="center">Programs</h2>
+<h2 align="center">Apps</h2>
 
 <h3 align="center">The section will be replenished...</h3>
 
