@@ -33,7 +33,9 @@ First help for setup, tweaks and ISO images
 <br>
 [Utilities](https://github.com/farag2/Utilities)
 
-<h2 align="center">Extraneous programs</h2>
+<h2 align="center">Programs</h2>
+
+<h3 align="center">The section will be supplemented...</h3>
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
 <br>
