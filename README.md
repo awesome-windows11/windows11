@@ -13,7 +13,7 @@ First help for setup, tweaks and ISO images
 > <br>
 > Telegram: https://t.me/windows11_chat
 
-<h2 align="center">📚 Guides</h2>
+<h2 align="center">📚 Guides (Wiki)</h2>
 
 [💻 Apps: Browsers, Editors, Security](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BB-Apps)
 <br>
