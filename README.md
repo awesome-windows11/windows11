@@ -35,7 +35,7 @@ First help for setup, tweaks and ISO images
 
 <h2 align="center">Programs</h2>
 
-<h3 align="center">The section will be supplemented...</h3>
+<h3 align="center">The section will be replenished...</h3>
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
 <br>
