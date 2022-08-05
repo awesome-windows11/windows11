@@ -409,7 +409,7 @@ StartMenu Local:
   ```
 </details>
 
-<details><summary><b>VsCode Default Editor</a></b></summary>
+<details><summary><b><img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></img> VsCode Default Editor</a></b></summary>
   
   Сделать VScode Portable редактором по умолчанию
   <br>
