@@ -55,7 +55,7 @@ First help for setup, tweaks and ISO images
 <br>
 [Configure Defender](https://github.com/AndyFul/ConfigureDefender)
 
-<h3 align="center">🔄 Windows Update</h3>
+<h3 align="center"><img width=20px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
 
 [Windows Update Manager for Windows (WuMgr)](https://github.com/DavidXanatos/wumgr)
 <br>
