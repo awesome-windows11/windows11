@@ -78,7 +78,7 @@ https://uupdump.net
 <br>
 https://tb.rg-adguard.net/public.php
 <br>
-[UupDump.net](https://uup.rg-adguard.net)
+https://uup.rg-adguard.net
 <br>
 [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
 <br>
