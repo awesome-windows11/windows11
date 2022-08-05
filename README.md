@@ -74,7 +74,9 @@ First help for setup, tweaks and ISO images
 
 <h3 align="center">⬇ Downloading and Installing:</h3>
 
-https://tb.rg-adguard.net/public.php?lang=ru-RU
+https://uupdump.net
+<br>
+https://tb.rg-adguard.net/public.php
 <br>
 [UupDump.net](https://uup.rg-adguard.net)
 <br>
