@@ -23,8 +23,6 @@ First help for setup, tweaks and ISO images
 
 <h2 align="center">Apps</h2>
 
-<h3 align="center">The section will be replenished...</h3>
-
 <h3 align="center">❗ Important Apps</h3>
 
 [Gsudo (NT/SYSTEM console)](https://github.com/gerardog/gsudo)
