@@ -74,8 +74,7 @@ First help for setup, tweaks and ISO images
 ✨ [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)
 
 
-
-<h3 align="center">⬇ Downloading and Installing:</h3>
+<details><summary><h3>⬇ Download and Install Windows</h3></summary>
 
 https://uupdump.net
 <br>
@@ -98,6 +97,9 @@ https://uup.rg-adguard.net
 [Rectify11](https://rectify.vercel.app)
 <br>
 [BlissOS](https://blissos.org/index.html)
+
+</details>
+
 
 <h2 align="center">Windows 11</h2>
 
@@ -122,7 +124,8 @@ https://uup.rg-adguard.net
 ☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
 <br>
 ☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
-<br>
+
+
 <h3 align="center">☎ Android APK</h3>
 
 [📱 An APK File Installer for WSA](https://www.microsoft.com/ru-ru/p/apk-file-installer/9mvvjldmwpsg#activetab=pivot:overviewtab) (APK Installer 1)
