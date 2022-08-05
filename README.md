@@ -98,7 +98,7 @@ First help for setup, tweaks and ISO images
 <br>
 ☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
 
-<details><summary><h3>⬇ Download and Install Windows</h3></summary>
+<details><summary align="center"><h3>⬇ Download and Install Windows</h3></summary>
 
 https://uupdump.net
 <br>
@@ -124,7 +124,9 @@ https://uup.rg-adguard.net
 
 </details>
 
-<h3 align="center">☎ Android APK</h3>
+
+
+<details><summary align="center"><h3>☎ Android APK (Win11)</h3></summary>
 
 [📱 An APK File Installer for WSA](https://www.microsoft.com/ru-ru/p/apk-file-installer/9mvvjldmwpsg#activetab=pivot:overviewtab) (APK Installer 1)
 <br>
@@ -134,7 +136,11 @@ https://uup.rg-adguard.net
 <br>
 [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) (Google Play Installer)
 
-<h3 align="center">🔔 Compatibility check</h3>
+</details>
+
+
+
+<details><summary align="center"><h3>🔔 Compatibility check</h3></summary>
 
 [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11)
 <br>
@@ -143,6 +149,9 @@ https://uup.rg-adguard.net
 <h1 align="center">PowerShell Tweaks (Scripts)</h1>
 
 <h3 align="center">🖼 Personalization</h3>
+
+</details>
+
 
 <details><summary><b>🌑 Set Dark Theme</b></summary>
   
