@@ -316,7 +316,7 @@ StartMenu Local:
   ```
 </details>
 
-<details><summary><b>🔽 Restore UWP</b></summary>
+<details><summary><b>🔽 Restore Microsoft Store Apps</b></summary>
   
   **WindowsStore**
   ```powershell
@@ -348,7 +348,7 @@ StartMenu Local:
   ```
 </details>
 
-<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove UWP</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove Microsoft Store Apps</b></summary>
   
   **WindowsPhone**
   ```powershell
@@ -387,7 +387,7 @@ StartMenu Local:
 </details>
 
 
-<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove ALL UWP (NOT Microsoft Store)</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove ALL Microsoft Store Apps (NOT Microsoft Store)</b></summary>
   
   ```powershell
   Get-AppxPackage -AllUsers | where-object {$_.name –notlike "*store*"} | Remove-AppxPackage
