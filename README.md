@@ -402,6 +402,26 @@ StartMenu Local:
   ![image](https://user-images.githubusercontent.com/86190960/149354585-d467a0fe-60db-4a9b-82a6-20ea0f40934e.png)
 </details>
 
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove ALL UWP</b></summary>
+  
+  ```powershell
+  Get-AppxPackage | Remove-AppxPackage
+  ```
+</details>
+
+<details><summary><b>VsCode Default Editor</a></b></summary>
+  
+  Сделать VScode Portable редактором по умолчанию
+  <br>
+  > **Warning**
+  > <br>
+  > **Смените путь к редактору на свой!** (по умолчанию `E:\VScode`)
+  
+  ![image](https://user-images.githubusercontent.com/87380272/183214790-4ed90003-a692-438f-b152-210a45fa2bd6.png)
+
+</details>
+
+
 <h3 align="center">📜 Policies</h3>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/defender.png"></img> Disable Windows Defender</b></summary>
@@ -556,7 +576,6 @@ StartMenu Local:
 | [TaskBarSize.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarSize.bat) <a href="https://user-images.githubusercontent.com/86190960/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png"> <br> <img src="https://i.ibb.co/7X4680R/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png"></a> | Изменить размер панели задач |
 | [InputSwitch.zip](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip) <br> ![image](https://user-images.githubusercontent.com/86190960/149355219-377f3d65-d638-4937-bfa7-69e24332eab3.png) | Отключить / включить всплывающую панель языка
 | [contextmenu.reg](https://github.com/awesome-windows11/windows11/blob/df7d30d80c1cf5fac49b5c3517000cebae5e0d5d/windows_tweaker.reg#L73) <br> ![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png) | Восстановить классические контекстные меню в масштабе всей системы
-| [VsCodeDefault.reg](https://awesome-windows11.github.io/windows11/твики/vscodedefault.reg) <br> <a href="https://imgbb.com/"><img src="https://i.ibb.co/vYgZ5WH/image.png" alt="image" border="0"></a> | Сделать VScode Portable редактором по умолчанию <br> **Важно: смените путь к редактору на свой!** (по умолчанию `E:\VScode`>
 
 <h1 align="center">❓ FAQ</h1>
 
