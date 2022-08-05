@@ -47,7 +47,7 @@ First help for setup, tweaks and ISO images
 <br>
 ✨ [Portable Registrator](https://github.com/SiL3NC3/PortableRegistrator)
 
-<h3 align="center">🛡 Windows Defender</h3>
+<h3 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/defender.png"></img> Windows Defender</h3>
 
 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
 <br>
