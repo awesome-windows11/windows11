@@ -11,7 +11,7 @@ First help for setup, tweaks and ISO images
 > <br>
 > VK: https://vk.com/flighthub
 > <br>
-> Telegram: https://t.me/windows11_insider
+> Telegram: https://t.me/windows11_chat
 
 <h2 align="center">📚 Guides</h2>
 
