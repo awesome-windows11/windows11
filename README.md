@@ -74,9 +74,7 @@ First help for setup, tweaks and ISO images
 ✨ [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)
 
 
-<h2 align="center">Windows 11</h2>
-
-<h3 align="center">🛠 Tweaks</h3>
+<h3 align="center">🛠 Tweaks (Win11)</h3>
 
 [Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11)
 <br>
