@@ -420,28 +420,26 @@ StartMenu Local:
   ![image](https://user-images.githubusercontent.com/87380272/183214790-4ed90003-a692-438f-b152-210a45fa2bd6.png)
   
   ```powershell
-  Windows Registry Editor Version 5.00
-  ; Default Path: "E:\VSCode"
-  ; https://medium.com/@fawwazyusran/create-a-portable-ide-with-visual-studio-code-fb0c6bc198ef
-  [HKEY_CLASSES_ROOT\*\shell\Open with VS Code]
-  @="Edit with VS Code"
-  "Icon"="E:\\VSCode\\Code.exe,0"
-  [HKEY_CLASSES_ROOT\*\shell\Open with VS Code\command]
-  @="\"E:\\VSCode\\Code.exe\" \"%1\""
-  ; This will make it appear when you right click ON a folder
-  ; The "Icon" line can be removed if you don't want the icon to appear
-  [HKEY_CLASSES_ROOT\Directory\shell\vscode]
-  @="Open Folder as VS Code Project"
-  "Icon"="\"E:\\VSCode\\Code.exe\",0"
-  [HKEY_CLASSES_ROOT\Directory\shell\vscode\command]
-  @="\"E:\\VSCode\\Code.exe\" \"%1\""
-  ; This will make it appear when you right click INSIDE a folder
-  ; The "Icon" line can be removed if you don't want the icon to appear
-  [HKEY_CLASSES_ROOT\Directory\Background\shell\vscode]
-  @="Open Folder as VS Code Project"
-  "Icon"="\"E:\\VSCode\\Code.exe\",0"
-  [HKEY_CLASSES_ROOT\Directory\Background\shell\vscode\command]
-  @="\"E:\\VSCode\\Code.exe\" \"%V\""
+  echo "Default Path: E:\VSCode"
+  echo "https://medium.com/@fawwazyusran/create-a-portable-ide-with-visual-studio-code-fb0c6bc198ef"
+  
+  reg add "HKEY_CLASSES_ROOT\*\shell\Custom\shell\VsCode" /ve /d "Edit with VSCode" /f
+  reg add "HKEY_CLASSES_ROOT\*\shell\Custom\shell\VsCode" /v Icon /d "E:\VSCode\Code.exe,0" /f
+  reg add "HKEY_CLASSES_ROOT\*\shell\Custom\shell\VsCode\command" /ve /d "\"E:\VSCode\Code.exe\" "\"%1\" /f
+  
+  echo "This will make it appear when you right click ON a folder"
+  echo "The "Icon" line can be removed if you don't want the icon to appear"
+  
+  reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode" /ve /d "Open Folder as VS Code Project" /f
+  reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode" /v Icon /d "E:\VSCode\Code.exe,0" /f
+  reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode\command" /ve /d "\"E:\VSCode\Code.exe\" "\"%1\" /f
+  
+  echo "This will make it appear when you right click INSIDE a folder"
+  echo "The Icon line can be removed if you don't want the icon to appear"
+  
+  reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\vscode" /ve /d "Open Folder in VS Code Project" /f
+  reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode" /v Icon /d "E:\VSCode\Code.exe,0" /f
+  reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\vscode\command" /ve /d "\"E:\VSCode\Code.exe\" "\"%V\" /f
   ```
   
 </details>
