@@ -243,10 +243,9 @@ https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.
 
 <details><summary><b>🔐 VirtualWin</b></summary>
 
- ### [<img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></img> VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-
- ### [<img width=20px src="https://cdni.comss.net/logo/sandboxie_icon.png"></img> Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
- Is a sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the windows registry. An isolated virtual environment allows controlled testing of untrusted programs and web surfing.
+ [<img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></img> VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+<br>
+ [<img width=20px src="https://cdni.comss.net/logo/sandboxie_icon.png"></img> Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
   
 </details>
 
