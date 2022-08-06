@@ -522,7 +522,7 @@ StartMenu Local:
 
 <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Win11</h3>
 
-<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Explorer Switch</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Explorer (New, old)</b></summary>
   
   **New Explorer (Win11)**
   ```powershell
