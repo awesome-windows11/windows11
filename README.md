@@ -226,7 +226,7 @@ https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.
   <br>
   AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
 
-  <h3 align="center">Service SSD</h3>
+  <h3 align="center">SSD Info</h3>
 
 </details>
 
