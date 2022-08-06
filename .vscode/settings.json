@@ -4,5 +4,6 @@
     "editor.language.brackets": [
     
     ],
-    "workbench.settings.editor": "json"
+    "workbench.settings.editor": "json",
+    "editor.tabSize": 6
 }
