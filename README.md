@@ -29,6 +29,8 @@ First help for setup, tweaks and ISO images
 <br>
 [AppInstaller (winget)](https://github.com/microsoft/winget-cli)
 <br>
+[MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
+<br>
 [OfflineInsider (Windows Insider witout Microsoft Account)](https://github.com/abbodi1406/offlineinsiderenroll)
 <br>
 [Utilities](https://github.com/farag2/Utilities)
@@ -712,13 +714,6 @@ Get-AppxPackage –AllUsers
 ```
 Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 ```
-## Как сменить диск MBR в GPT (или наоборот) без потери данных?
-Используйте инструмент [pwfree9.iso](https://1drv.ms/u/s!AhusSLWjGpTDhHVVw3iu3wpvNCh4)
-<br>
-1) Запишите ISO образ на флешку
-2) Загрузитесь с неё и выберите нужные диски 
-
-Инструкция: https://youtu.be/CQ0DUd1kyDs?t=133
 
 <h1 align="center">🔗 Links</h1>
 
