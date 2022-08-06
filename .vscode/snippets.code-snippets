@@ -1,6 +1,6 @@
 {
 	"img": {
 		"prefix": "img",
-		"body": "<img width=20px src=>",
+		"body": "<img width=20px src=$1>",
 	},
 }

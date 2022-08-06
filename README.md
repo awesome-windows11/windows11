@@ -174,7 +174,7 @@ https://github.com/Sycnex/Windows10Debloater
   ```
 </details>
 
-<details><summary><b>🧹 Clean Taskbar</b></summary>
+<details><summary><b><img width=20px src="https://raw.githubusercontent.com/awesome-windows11/site/main/clean.png"> Clean Taskbar</b></summary>
   
   Edit Taskbar:
   ```cmd
