@@ -231,11 +231,11 @@ StartMenu Local:
 
 <details><summary><b>🎨 Icons</b></summary>
 
-[Пак всех иконок из Windows 11](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/)
-<br>
-[shell32.dll](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32.dll) - оригинальный файл из папки System32 в Windows 11
+  [Пак всех иконок из Windows 11](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/)
+  <br>
+  [shell32.dll](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32.dll) - оригинальный файл из папки System32 в Windows 11
 
-<a href="https://ibb.co/48GyYLn"><img src="https://i.ibb.co/48GyYLn/122690033-9d57b980-d22f-11eb-951b-887765151e81.png" alt="122690033-9d57b980-d22f-11eb-951b-887765151e81"></a>
+  <a href="https://ibb.co/48GyYLn"><img src="https://i.ibb.co/48GyYLn/122690033-9d57b980-d22f-11eb-951b-887765151e81.png" alt="122690033-9d57b980-d22f-11eb-951b-887765151e81"></a>
 
 </details>
 
@@ -554,79 +554,79 @@ StartMenu Local:
 
 <h3 align="center">Download ISO</h3>
 
-https://uupdump.net
-<br>
-https://tb.rg-adguard.net/public.php
-<br>
-https://uup.rg-adguard.net
-<br>
-[Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
-<br>
-https://github.com/pbatard/Fido
+  https://uupdump.net
+  <br>
+  https://tb.rg-adguard.net/public.php
+  <br>
+  https://uup.rg-adguard.net
+  <br>
+  [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
+  <br>
+  https://github.com/pbatard/Fido
 
 <h3 align="center">⬇ Install ISO</h3>
 
-[❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
-<br>
-Insider witout Microsoft Account: https://github.com/abbodi1406/offlineinsiderenroll
-<br>
-https://github.com/pbatard/rufus
-<br>
-https://github.com/ventoy/Ventoy
-<br>
-https://github.com/AveYo/MediaCreationTool.bat
-<br>
-Dism++: https://github.com/Chuyu-Team/Dism-Multi-language
-<br>
-WinNTSetup: http://wntsetup.ru
-<br>
-WinISO: https://rsload.net/soft/cleaner-disk/10195-winiso.html
-<br>
-[Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
-<br>
-[Rectify11](https://rectify.vercel.app)
-<br>
-[BlissOS](https://blissos.org/index.html)
+  [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
+  <br>
+  Insider witout Microsoft Account: https://github.com/abbodi1406/offlineinsiderenroll
+  <br>
+  https://github.com/pbatard/rufus
+  <br>
+  https://github.com/ventoy/Ventoy
+  <br>
+  https://github.com/AveYo/MediaCreationTool.bat
+  <br>
+  Dism++: https://github.com/Chuyu-Team/Dism-Multi-language
+  <br>
+  WinNTSetup: http://wntsetup.ru
+  <br>
+  WinISO: https://rsload.net/soft/cleaner-disk/10195-winiso.html
+  <br>
+  [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
+  <br>
+  [Rectify11](https://rectify.vercel.app)
+  <br>
+  [BlissOS](https://blissos.org/index.html)
 
 <h3 align="center">💽 Bypass TPM</h3>
 
-[TPM: About, Installer, Bypass, FAQ](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BD-TPM)
-<br>
-https://github.com/quickfever/Windows-11-Bypass-TPM
-<br>
-https://github.com/haithamaouati/BypassWin11
-<br>
-https://github.com/shirooo39/Windows-11-Bypass
-<br>
-https://github.com/rushiranpise/win11devbypass
-<br>
-https://github.com/FrancescoDiSalesGithub/TPM-windows11-hack
+  [TPM: About, Installer, Bypass, FAQ](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BD-TPM)
+  <br>
+  https://github.com/quickfever/Windows-11-Bypass-TPM
+  <br>
+  https://github.com/haithamaouati/BypassWin11
+  <br>
+  https://github.com/shirooo39/Windows-11-Bypass
+  <br>
+  https://github.com/rushiranpise/win11devbypass
+  <br>
+  https://github.com/FrancescoDiSalesGithub/TPM-windows11-hack
 
 <h3 align="center">Boot, VHD (Virtual Disks)</h3>
 
-https://rsload.net/soft/11768-easybcd.html
-<br>
-https://www.sordum.org/8705/simple-vhd-manager-v1-4
+  https://rsload.net/soft/11768-easybcd.html
+  <br>
+  https://www.sordum.org/8705/simple-vhd-manager-v1-4
 
 <h3 align="center">Hash ISO</h3>
 
-[💿 Known ISO file hashes (check for originality)](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
-<br>
-https://msdn.rg-adguard.net
-<br>
-https://sha1.rg-adguard.net
-<br>
-https://www.heidoc.net/php/myvsdump_directory.php?letter=W
-<br>
-https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
-<br>
-https://github.com/AndrewRathbun/VanillaWindowsReference
+  [💿 Known ISO file hashes (check for originality)](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
+  <br>
+  https://msdn.rg-adguard.net
+  <br>
+  https://sha1.rg-adguard.net
+  <br>
+  https://www.heidoc.net/php/myvsdump_directory.php?letter=W
+  <br>
+  https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
+  <br>
+  https://github.com/AndrewRathbun/VanillaWindowsReference
 
 <h3 align="center">Versions Windows</h3>
 
-https://github.com/awesome-windows11/windows11/tree/main/version
-<br>
-https://changewindows.org/timeline/pc
+  https://github.com/awesome-windows11/windows11/tree/main/version
+  <br>
+  https://changewindows.org/timeline/pc
 
 <h1 align="center">Apps</h1>
 
@@ -634,9 +634,9 @@ https://changewindows.org/timeline/pc
 
 <details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_25.ico"> AutoRun</b></summary>
 
-Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
-<br>
-AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
+  Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
+  <br>
+  AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 
 </details>
 
@@ -665,67 +665,63 @@ AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 
 <details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_32.ico"> Uninstaller</b></summary>
 
-BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
-<br>
-UninstallTool: https://crystalidea.com/ru/uninstall-tool
+  BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
+  <br>
+  UninstallTool: https://crystalidea.com/ru/uninstall-tool
 
 </details>
 
 <details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_137.ico"> Management</b></summary>
 
-SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
+  SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
 
 </details>
 
 
 <details><summary><b>🌎 Internet</b></summary>
 
-qBittorrent: https://portableapps.com/apps/internet/qbittorrent_portable
-<br>
-URL Disabler: https://www.sordum.org/13075/url-disabler-v1-1
+  qBittorrent: https://portableapps.com/apps/internet/qbittorrent_portable
+  <br>
+  URL Disabler: https://www.sordum.org/13075/url-disabler-v1-1
 
 </details>
 
 
 <details><summary><b>🔐 Virtual</b></summary>
 
- <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"> https://www.virtualbox.org/wiki/Downloads
-<br>
- <img width=20px src="https://cdni.comss.net/logo/sandboxie_icon.png"></img> https://github.com/sandboxie-plus/Sandboxie
-  
+  <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"> https://www.virtualbox.org/wiki/Downloads
+  <br>
+  <img width=20px src="https://cdni.comss.net/logo/sandboxie_icon.png"></img> https://github.com/sandboxie-plus/Sandboxie
+
 </details>
 
 <details><summary><b>Driver</b></summary>
 
-Snappy Driver Installer: https://sdi-tool.org/download
-<br>
-G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
+  Snappy Driver Installer: https://sdi-tool.org/download
+  <br>
+  G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
 
 </details>
 
 
 <details><summary><b>Activators</b></summary>
-  
-### <a target="_blank" href="https://github.com/awesome-windows11/windows11/releases/tag/99">🔓 Activator by Ratiborus</a>
 
-https://github.com/massgravel/Microsoft-Activation-Scripts
+  ### <a target="_blank" href="https://github.com/awesome-windows11/windows11/releases/tag/99">🔓 Activator by Ratiborus</a>
+
+  https://github.com/massgravel/Microsoft-Activation-Scripts
 
 
-В AAct все операции с активацией, с лицензиями, выполняются с помощью стандартных скриптов slmgr.vbs и ospp.vbs, уж их то даже самый ненормальный антивирусник не заподозрит в "троянстве".
+  В AAct все операции с активацией, с лицензиями, выполняются с помощью стандартных скриптов slmgr.vbs и ospp.vbs, уж их то даже самый ненормальный антивирусник не заподозрит в "троянстве".
 
-http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
+  http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 
-<details>
-<summary> В чём отличие KMSAuto Net 2016 1.5.0 и Portable AAct?</summary>
-Принципиальное отличие этих двух программ в том, что у первой для работы программы требуется .NET Framework 4.5 , а вот для второй НЕ требуется .NET Framework, работает на Windows XP - 10.
-<br><br>
-С другой стороны KMSAuto Net имеет намного больше возможностей по настройке процесса активации, чем AAct и иногда позволяет решить проблемы с KMS-активацией там, где AAct не справляется. Или, если использовать автомобильную терминологию, первая программа является высокоэффективной ручной коробкой передач, позволяющей опытному водителю использовать ее возможности по максимуму, в то время как вторая программа является "автоматом", более подходящим для новичков и домохозяек.
+  <details>
+    <summary> В чём отличие KMSAuto Net 2016 1.5.0 и Portable AAct?</summary>
+    Принципиальное отличие этих двух программ в том, что у первой для работы программы требуется .NET Framework 4.5 , а вот для второй НЕ требуется .NET Framework, работает на Windows XP - 10.
+    <br><br>
+    С другой стороны KMSAuto Net имеет намного больше возможностей по настройке процесса активации, чем AAct и иногда позволяет решить проблемы с KMS-активацией там, где AAct не справляется. Или, если использовать автомобильную терминологию, первая программа является высокоэффективной ручной коробкой передач, позволяющей опытному водителю использовать ее возможности по максимуму, в то время как вторая программа является "автоматом", более подходящим для новичков и домохозяек.
+  </details>
 </details>
-</details>
-
-
-
-
 
 
 
@@ -733,38 +729,37 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 
 <details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_236.ico"> Media (Photo, Video, Audio)</b></summary>
 
-PaintNet: https://www.dotpdn.com/downloads/pdn.html
-<br>
-Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
-<br>
-Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
+  PaintNet: https://www.dotpdn.com/downloads/pdn.html
+  <br>
+  Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
+  <br>
+  Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
 </details>
 
 <details><summary><b>👨‍💻 Hash</b></summary>
 
-[HashCheck](https://github.com/gurnec/HashCheck)
-<br>
-[HashTab](https://hashtab.ru)
-<br>
-[gtkhash](https://github.com/tristanheaven/gtkhash)
-<br>
-[HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html)
-<br>
-[getmd5checker](http://getmd5checker.com)
-
+  [HashCheck](https://github.com/gurnec/HashCheck)
+  <br>
+  [HashTab](https://hashtab.ru)
+  <br>
+  [gtkhash](https://github.com/tristanheaven/gtkhash)
+  <br>
+  [HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html)
+  <br>
+  [getmd5checker](http://getmd5checker.com)
 </details>
 
 <details><summary><b>Double-click mouse fix</b></summary>
-  
-# Проверка
-https://alexbruni.ru/checkmouse
 
-https://codepen.io/blink172/pen/vERyxK
+  **Проверка**
+  https://alexbruni.ru/checkmouse
+  <br>
+  https://codepen.io/blink172/pen/vERyxK
+  <br>
+  **Исправить**
+  https://www.clickfix.cf
 
-# Исправить
-https://www.clickfix.cf
-
-https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
+  https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
 </details>
 
 
@@ -772,23 +767,22 @@ https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.
 
 <details><summary><b>📱 Win11 APK</b></summary>
 
-APK Installer 1: [An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG)
-<br>
-APK Installer 2: [WSATools](https://apps.microsoft.com/store/detail/9N4P75DXL6FG)
-<br>
-APK Installer 3: https://github.com/voletro/wsa-toolbox
-<br>
-Google Play Installer: https://github.com/ADeltaX/WSAGAScript
+  APK Installer 1: [An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG)
+  <br>
+  APK Installer 2: [WSATools](https://apps.microsoft.com/store/detail/9N4P75DXL6FG)
+  <br>
+  APK Installer 3: https://github.com/voletro/wsa-toolbox
+  <br>
+  Google Play Installer: https://github.com/ADeltaX/WSAGAScript
 </details>
 
 
 
 <details><summary><b>🔔 Compatibility check (Win11)</b></summary>
 
-https://github.com/rcmaehl/WhyNotWin11
-<br>
-https://github.com/mq1n/Win11SysCheck
-
+  https://github.com/rcmaehl/WhyNotWin11
+  <br>
+  https://github.com/mq1n/Win11SysCheck
 </details>
 
 
