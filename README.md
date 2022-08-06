@@ -218,7 +218,9 @@ https://www.clickfix.cf
 https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
 </details>
 
-<details><summary> <b>💿 Disk Tools</b></summary>
+<details><summary> <b>💿 Disk</b></summary>
+
+  <h3 align="center">Manager Tools</h3>
 
   MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
   
