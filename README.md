@@ -380,7 +380,7 @@ StartMenu Local:
 
 <h3 align="center">📜 Policies</h3>
 
-<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/defender.png"></img> Disable Windows Defender</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/defender.png"> Disable Windows Defender</b></summary>
 
   Source: https://admx.help/HKLM/Software/Policies
   
@@ -515,7 +515,7 @@ StartMenu Local:
   https://github.com/awesome-windows11/chrome
 </details>
 
-<details><summary><b><img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png"></img> Firefox Lite (NOT Sync Account, Pocket, etc.)</b></summary>
+<details><summary><b><img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png"> Firefox Lite (NOT Sync Account, Pocket, etc.)</b></summary>
   
   https://github.com/awesome-windows11/firefox#-policiesjson
 </details>
@@ -618,7 +618,7 @@ https://changewindows.org/timeline/pc
 
 <h1 align="center">Apps</h1>
 
-<h2 align="center">System Tools</h1>
+<h2 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16.ico"> System Tools</h1>
 
 <details><summary><b>✨ AutoRun</b></summary>
 
