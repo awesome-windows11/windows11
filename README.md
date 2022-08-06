@@ -86,7 +86,7 @@ https://github.com/Sycnex/Windows10Debloater
 
 <h1 align="center"><img width=25px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> PowerShell Tweaks (Scripts)</h1>
 
-<h3 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png">Personalization</h3>
+<h3 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h3>
 
 
 <details><summary><b>🌑 Set Dark Theme</b></summary>
