@@ -99,7 +99,7 @@ https://github.com/Sycnex/Windows10Debloater
   ```
 </details>
 
-<details><summary><b>🖼 Disable Change Wallpaper</b></summary>
+<details><summary><b><img width=20px src="https://steamuserimages-a.akamaihd.net/ugc/1809887800478745061/3ECDD5E87CF66532103B2A6991728155ACFEF2F8/?imw=512&amp;imh=367&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"> Disable Change Wallpaper</b></summary>
   
   ```powershell
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop" /v NoChangingWallPaper /t REG_DWORD /d 1 /f
