@@ -651,7 +651,7 @@ AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
   ClearDiskInfo: https://www.carifred.com/cleardiskinfo
 </details>
 
-<details><summary><b>🗑 Uninstaller</b></summary>
+<details><summary><b><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_32.ico"> Uninstaller</b></summary>
 
 BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
 <br>
