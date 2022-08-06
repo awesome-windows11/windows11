@@ -112,7 +112,7 @@ https://github.com/ventoy/Ventoy
 <br>
 https://github.com/pbatard/Fido
 <br>
-[MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15)
+https://github.com/AveYo/MediaCreationTool.bat
 <br>
 [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
 <br>
