@@ -8,7 +8,7 @@
     "editor.tabSize": 6,
     "editor.mouseWheelZoom": true,
     "files.associations": {
-              "*.md": "powershell"
+        "*.md": "powershell"
     },
     "indentRainbow.colors": [
         "rgba(0,255,0,0.27)",
