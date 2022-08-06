@@ -19,8 +19,6 @@ First help for setup, tweaks and ISO images
 
 NT/SYSTEM console: https://github.com/gerardog/gsudo
 <br>
-[Hidden Apps AutoRun](https://www.nirsoft.net/utils/what_run_in_startup.html)
-<br>
 https://github.com/microsoft/winget-cli
 <br>
 [MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
@@ -610,6 +608,39 @@ https://changewindows.org/timeline/pc
 
 <h1 align="center">Apps</h1>
 
+<h2 align="center">System Tools</h1>
+
+<details><summary><b>✨ AutoRun</b></summary>
+
+Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
+<br>
+AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
+
+</details>
+
+<details><summary> <b>💿 Disk</b></summary>
+
+  <h3 align="center">Manager Partition</h3>
+
+  MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
+  <br>
+  AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
+
+  <h3 align="center">SSD Info</h3>
+
+  CrystalDiskInfo: https://crystalmark.info/en/download/#CrystalDiskInfo
+  <br>
+  CrystalDiskMark: https://crystalmark.info/en/download/#CrystalDiskMark
+  <br>
+  IsMyHdOK: https://www.softwareok.com/?Download=IsMyHdOK
+  <br>
+  Hard Disk Sentinel: https://www.hdsentinel.com/download.php
+  <br>
+  Victoria: https://hdd.by/victoria
+  <br>
+  ClearDiskInfo: https://www.carifred.com/cleardiskinfo
+</details>
+
 <details><summary><b>🗑 Uninstaller</b></summary>
 
 BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
@@ -618,15 +649,33 @@ UninstallTool: https://crystalidea.com/ru/uninstall-tool
 
 </details>
 
+<details><summary><b>🌎 Internet</b></summary>
 
-<details><summary><b>🎨 Media (Video, Audio)</b></summary>
-
-Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
+qBittorrent: https://portableapps.com/apps/internet/qbittorrent_portable
 <br>
-Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
+URL Disabler: https://www.sordum.org/13075/url-disabler-v1-1
+
 </details>
 
-<details><summary><b>🔓 Activators</b></summary>
+
+<details><summary><b>🔐 Virtual</b></summary>
+
+ [<img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></img> VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+<br>
+ [<img width=20px src="https://cdni.comss.net/logo/sandboxie_icon.png"></img> Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
+  
+</details>
+
+<details><summary><b>Driver</b></summary>
+
+Snappy Driver Installer: https://sdi-tool.org/download
+<br>
+G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
+
+</details>
+
+
+<details><summary><b>Activators</b></summary>
   
 ### <a target="_blank" href="https://github.com/awesome-windows11/windows11/releases/tag/99">🔓 Activator by Ratiborus</a>
 
@@ -643,6 +692,23 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 <br><br>
 С другой стороны KMSAuto Net имеет намного больше возможностей по настройке процесса активации, чем AAct и иногда позволяет решить проблемы с KMS-активацией там, где AAct не справляется. Или, если использовать автомобильную терминологию, первая программа является высокоэффективной ручной коробкой передач, позволяющей опытному водителю использовать ее возможности по максимуму, в то время как вторая программа является "автоматом", более подходящим для новичков и домохозяек.
 </details>
+</details>
+
+
+
+
+
+
+
+<h2 align="center">User Tools</h1>
+
+<details><summary><b>🎨 Media (Photo, Video, Audio)</b></summary>
+
+PaintNet: https://www.dotpdn.com/downloads/pdn.html
+<br>
+Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
+<br>
+Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
 </details>
 
 <details><summary><b>👨‍💻 Hash</b></summary>
@@ -672,51 +738,6 @@ https://www.clickfix.cf
 https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
 </details>
 
-<details><summary> <b>💿 Disk</b></summary>
-
-  <h3 align="center">Manager Partition</h3>
-
-  MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
-  <br>
-  AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
-
-  <h3 align="center">SSD Info</h3>
-
-  CrystalDiskInfo: https://crystalmark.info/en/download/#CrystalDiskInfo
-  <br>
-  CrystalDiskMark: https://crystalmark.info/en/download/#CrystalDiskMark
-  <br>
-  IsMyHdOK: https://www.softwareok.com/?Download=IsMyHdOK
-  <br>
-  Hard Disk Sentinel: https://www.hdsentinel.com/download.php
-  <br>
-  Victoria: https://hdd.by/victoria
-  <br>
-  ClearDiskInfo: https://www.carifred.com/cleardiskinfo
-</details>
-
-<details><summary><b>🔐 VirtualWin</b></summary>
-
- [<img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></img> VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-<br>
- [<img width=20px src="https://cdni.comss.net/logo/sandboxie_icon.png"></img> Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
-  
-</details>
-
-
-<details><summary><b>Other</b></summary>
-
-PaintNet: https://www.dotpdn.com/downloads/pdn.html
-<br>
-Snappy Driver Installer: https://sdi-tool.org/download
-<br>
-qBittorrent: https://portableapps.com/apps/internet/qbittorrent_portable
-<br>
-G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
-<br>
-https://www.sordum.org/13075/url-disabler-v1-1/
-
-</details>
 
 
 
