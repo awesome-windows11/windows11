@@ -138,6 +138,10 @@ https://github.com/rushiranpise/win11devbypass
 <br>
 https://github.com/FrancescoDiSalesGithub/TPM-windows11-hack
 
+<h3 align="center">Create VHD (Virtual Disks)</h3>
+
+https://www.sordum.org/8705/simple-vhd-manager-v1-4
+
 <h3 align="center">Hash ISO</h3>
 
 [💿 Known ISO file hashes (check for originality)](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
