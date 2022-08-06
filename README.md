@@ -269,7 +269,7 @@ https://www.sordum.org/13075/url-disabler-v1-1/
 
 
 
-<details><summary><b>📱 Android APK (Win11)</b></summary>
+<details><summary><b>📱 Win11 APK</b></summary>
 
 APK Installer 1: [An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG)
 <br>
