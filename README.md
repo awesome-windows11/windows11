@@ -110,9 +110,9 @@ https://uup.rg-adguard.net
 <br>
 [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
 <br>
-[Ventoy](https://github.com/ventoy/Ventoy)
+https://github.com/ventoy/Ventoy
 <br>
-[Fido](https://github.com/pbatard/Fido)
+https://github.com/pbatard/Fido
 <br>
 [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15)
 <br>
