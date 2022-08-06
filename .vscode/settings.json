@@ -1,25 +1,25 @@
 {
-    "remoteHub.commitDirectlyWarning": "off",
-    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
-    "editor.language.brackets": [
-    
-    ],
-    "workbench.settings.editor": "json",
-    "editor.tabSize": 2,
-    "editor.mouseWheelZoom": true,
-    "files.associations": {
-        "*.md": "powershell"
-    },
-    "indentRainbow.colors": [
-        "rgba(0,255,0,0.27)",
-        "rgba(0,150,255,0.27)",
-        "rgba(255,0,0,0.27)"
-    ],
+  "remoteHub.commitDirectlyWarning": "off",
+  "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+  "editor.language.brackets": [
 
-    // The indent color if the number of spaces is not a multiple of "tabSize".
-    "indentRainbow.errorColor": "rgba(0,255,0,0.27)",
+  ],
+  "workbench.settings.editor": "json",
+  "editor.tabSize": 2,
+  "editor.mouseWheelZoom": true,
+  "files.associations": {
+    "*.md": "powershell"
+  },
+  "indentRainbow.colors": [
+    "rgba(0,255,0,0.27)",
+    "rgba(0,150,255,0.27)",
+    "rgba(255,0,0,0.27)"
+  ],
 
-    // The indent color when there is a mix between spaces and tabs.
-    // To be disabled this coloring set this to an empty string.
-    "indentRainbow.tabmixColor": "rgba(0,255,0,0.27)",
+  // The indent color if the number of spaces is not a multiple of "tabSize".
+  "indentRainbow.errorColor": "rgba(0,255,0,0.27)",
+
+  // The indent color when there is a mix between spaces and tabs.
+  // To be disabled this coloring set this to an empty string.
+  "indentRainbow.tabmixColor": "rgba(0,255,0,0.27)",
 }
