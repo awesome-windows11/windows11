@@ -524,12 +524,12 @@ StartMenu Local:
 
 <details><summary><b>Explorer Switch</b></summary>
   
-  ### New Explorer (Win11)
+  **New Explorer (Win11)**
   ```powershell
   reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v SeparateProcess /t REG_DWORD /d 0 /f
   ```
 
-   ### Old Explorer (Win10)
+  **Old Explorer (Win10)**
   ```powershell
   reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v SeparateProcess /t REG_DWORD /d 1 /f
   ```
