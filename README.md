@@ -170,7 +170,7 @@ https://changewindows.org/timeline/pc
 
 https://github.com/Klocman/Bulk-Crap-Uninstaller
 <br>
-UninstalTool: https://crystalidea.com/ru/uninstall-tool
+UninstallTool: https://crystalidea.com/ru/uninstall-tool
 
 </details>
 
