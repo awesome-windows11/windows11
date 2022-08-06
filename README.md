@@ -659,7 +659,7 @@ UninstallTool: https://crystalidea.com/ru/uninstall-tool
 
 </details>
 
-<details><summary><b>🧰 Management</b></summary>
+<details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_137.ico"> Management</b></summary>
 
 SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
 
@@ -677,7 +677,7 @@ URL Disabler: https://www.sordum.org/13075/url-disabler-v1-1
 
 <details><summary><b>🔐 Virtual</b></summary>
 
- <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></img> https://www.virtualbox.org/wiki/Downloads
+ <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"> https://www.virtualbox.org/wiki/Downloads
 <br>
  <img width=20px src="https://cdni.comss.net/logo/sandboxie_icon.png"></img> https://github.com/sandboxie-plus/Sandboxie
   
