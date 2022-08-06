@@ -1,5 +1,5 @@
 
-<h2 align="center"><img width=32px src="https://raw.githubusercontent.com/awesome-windows11/site/main/win11.jpg"></img> Awesome Windows 11 (<a href="https://github.com/awesome-windows11/windows11/releases/tag/3.7.0">v3.7.0</a>)</h2>
+<h2 align="center"><img width=32px src="https://raw.githubusercontent.com/awesome-windows11/site/main/win11.jpg"> Awesome Windows 11 (<a href="https://github.com/awesome-windows11/windows11/releases/tag/3.7.0">v3.7.0</a>)</h2>
 
 First help for setup, tweaks and ISO images
 
@@ -426,7 +426,6 @@ StartMenu Local:
   ```
 </details>
 
-
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Disable Windows Update</b></summary>
   
   > **Warning**
@@ -451,8 +450,6 @@ StartMenu Local:
   pause
   ```
 </details>
-
-
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Disable Apps Microsoft Store AutoUpdate and Force Install</b></summary>
 
@@ -522,6 +519,9 @@ StartMenu Local:
   
   https://github.com/awesome-windows11/firefox#-policiesjson
 </details>
+
+<h3 align="center"> <img width=25px src="https://raw.githubusercontent.com/awesome-windows11/site/main/win11.jpg"> Win11</h3>
+
 
 
 
