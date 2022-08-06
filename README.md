@@ -118,6 +118,8 @@ https://github.com/AveYo/MediaCreationTool.bat
 <br>
 [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
 <br>
+https://github.com/Chuyu-Team/Dism-Multi-language
+<br>
 [Rectify11](https://rectify.vercel.app)
 <br>
 [BlissOS](https://blissos.org/index.html)
