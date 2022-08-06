@@ -13,7 +13,7 @@ First help for setup, tweaks and ISO images
 > <br>
 > Telegram: https://t.me/windows11_chat
 
-<h2 align="center">🔗 Setup Windows</h2>
+<h1 align="center">🔗 Setup Windows</h1>
 
 <h3 align="center">❗ Important</h3>
 
@@ -32,8 +32,6 @@ First help for setup, tweaks and ISO images
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
 <br>
 🧰 [SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/)
-<br>
-🗑 [BulkCrap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 <br>
 ✨ [Portable Registrator](https://github.com/SiL3NC3/PortableRegistrator)
 
@@ -90,9 +88,9 @@ https://github.com/WereDev/Wu10Man
 <br>
 ☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
 
-<h2 align="center">Setup Windows</h2>
+<h1 align="center">💿 ISO Windows</h1>
 
-<h3 align="center">💿 Download ISO</h3>
+<h3 align="center">Download ISO</h3>
 
 https://uupdump.net
 <br>
@@ -166,7 +164,15 @@ https://github.com/awesome-windows11/windows11/tree/main/version
 <br>
 https://changewindows.org/timeline/pc
 
-<h2 align="center">Apps</h2>
+<h1 align="center">Apps</h1>
+
+<details><summary><b>🗑 Uninstaller</b></summary>
+
+https://github.com/Klocman/Bulk-Crap-Uninstaller
+<br>
+
+</details>
+
 
 <details><summary><b>🎨 Media (Video, Audio)</b></summary>
 
