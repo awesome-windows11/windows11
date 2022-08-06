@@ -3,6 +3,11 @@
 
 First help for setup, tweaks and ISO images
 
+Our mission is to show that it is possible to configure Windows without using third-party programs, just learn a few simple tweakers.
+<br>This way you can forget about extraneous cleaning tools with closed source code. All our scripts are written in the standard bat language and you can always check them or change them to suit your needs. 
+<br>
+No files or programs, just console and commands!
+
 > MORE PROJECTS: https://github.com/awesome-windows11
 > <br>
 > Site: https://windows12.glitch.me
