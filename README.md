@@ -220,7 +220,7 @@ StartMenu Local:
 
 </details>
 
-<details><summary><b>Adding App to the Context Menu</b></summary>
+<details><summary><b><img width=20px src="https://cdn-icons-png.flaticon.com/512/1545/1545241.png"> Adding App to the Context Menu</b></summary>
   
   ```powershell
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\VScode" /ve /d "&VScode" /f
