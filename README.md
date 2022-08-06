@@ -119,7 +119,8 @@ https://www.heidoc.net/php/myvsdump_directory.php?letter=W
 https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
 <br>
 https://github.com/AndrewRathbun/VanillaWindowsReference
-<h3 align="center">Configure ISO</h3>
+
+<h3 align="center">Setup ISO</h3>
 
 [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
 <br>
