@@ -122,14 +122,14 @@ https://uup.rg-adguard.net
 
 <h2 align="center">Apps</h2>
 
-<details><summary align="center"><h3>🎨 Media (Video, Audio)</h3></summary>
+<details><summary align="center"><b>🎨 Media (Video, Audio)</b></summary>
 
 Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
 <br>
 Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
 </details>
 
-<details><summary align="center"><h3>🔓 Activators</h3></summary>
+<details><summary align="center"><b>🔓 Activators</b></summary>
   
 ### <a target="_blank" href="https://github.com/awesome-windows11/windows11/releases/tag/99">🔓 Activator by Ratiborus</a>
 В AAct все операции с активацией, с лицензиями, выполняются с помощью стандартных скриптов slmgr.vbs и ospp.vbs, уж их то даже самый ненормальный антивирусник не заподозрит в "троянстве".
@@ -144,7 +144,7 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 </details>
 </details>
 
-<details><summary align="center"><h3>💾 Hash</h3></summary>
+<details><summary align="center"><b>💾 Hash</b></summary>
 Hash files are commonly used as a method of verifying file size. This process is called check-sum verification. When a file is sent over a network, it must be broken into small pieces and reassembled after it reaches its destination. In this situation the hash number represents the size of the data in a file. The hash can then be used as a tool for validating the entire file was successfully transmitted over the network.
 
 Hashes cannot be reversed, so simply knowing the result of a file’s hash from a hashing algorithm does not allow you to reconstruct the file’s contents. What it does allow you to do, however, is determine whether two files are identical or not without knowing anything about their contents.
@@ -169,7 +169,7 @@ A cryptographic hash such as MD5, SHA1, SHA256, or Keccak, has many more require
 
 </details>
 
-<details><summary align="center"><h3>Double-click mouse fix</h3></summary>
+<details><summary align="center"><b>Double-click mouse fix</b></summary>
   
 # Проверка
 https://alexbruni.ru/checkmouse
@@ -182,7 +182,7 @@ https://www.clickfix.cf
 https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
 </details>
 
-<details><summary align="center"><h3>🔐 Security (Virtual Drive, ISO)</h3></summary>
+<details><summary align="center"><b>🔐 Security (Virtual Drive, ISO)</b></summary>
 
  ### [<img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></img> VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
@@ -192,7 +192,7 @@ https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.
 </details>
 
 
-<details><summary align="center"><h3>Other</h3></summary>
+<details><summary align="center"><b>Other</b></summary>
 
 PaintNet: https://www.dotpdn.com/downloads/pdn.html
 <br>
@@ -208,7 +208,7 @@ https://www.sordum.org/13075/url-disabler-v1-1/
 
 
 
-<details><summary align="center"><h3>📱 Android APK (Win11)</h3></summary>
+<details><summary align="center"><b>📱 Android APK (Win11)</b></summary>
 
 APK Installer 1: [An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG)
 <br>
@@ -221,7 +221,7 @@ Google Play Installer: https://github.com/ADeltaX/WSAGAScript
 
 
 
-<details><summary align="center"><h3>🔔 Compatibility check</h3></summary>
+<details><summary align="center"><b>🔔 Compatibility check (Win11)</b></summary>
 
 https://github.com/rcmaehl/WhyNotWin11
 <br>
