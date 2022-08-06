@@ -124,8 +124,6 @@ https://uup.rg-adguard.net
 
 </details>
 
-<a href="https://www.sordum.org/13075/url-disabler-v1-1"><img src="https://www.sordum.org/wp-content/uploads/2020/10/url_disabler_block_url.png" width="300"></a>
-
 <details><summary align="center"><h3>🎨 Media (Video, Audio)</h3></summary>
 
 Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
@@ -205,6 +203,8 @@ Snappy Driver Installer: https://sdi-tool.org/download
 qBittorrent: https://portableapps.com/apps/internet/qbittorrent_portable
 <br>
 G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
+<br>
+https://www.sordum.org/13075/url-disabler-v1-1/
 
 </details>
 
