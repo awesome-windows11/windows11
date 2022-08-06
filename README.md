@@ -19,7 +19,7 @@ First help for setup, tweaks and ISO images
 <br>
 [💿 ISO: Windows Images, HASH File](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
 
-<h2 align="center">🔗 Useful Links</h2>
+<h2 align="center">🔗 Setup Windows</h2>
 
 <h3 align="center">❗ Important</h3>
 
@@ -96,7 +96,7 @@ First help for setup, tweaks and ISO images
 <br>
 ☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
 
-<details><summary align="center"><h3>⬇ Download and Install Windows</h3></summary>
+<h3 align="center">⬇ Download and Install Windows</h3>
 
 https://uupdump.net
 <br>
@@ -119,8 +119,6 @@ https://uup.rg-adguard.net
 [Rectify11](https://rectify.vercel.app)
 <br>
 [BlissOS](https://blissos.org/index.html)
-
-</details>
 
 <h2 align="center">Apps</h2>
 
