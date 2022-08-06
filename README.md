@@ -27,8 +27,6 @@ https://github.com/farag2/Utilities
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
 <br>
-🧰 [SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/)
-<br>
 ✨ [Portable Registrator](https://github.com/SiL3NC3/PortableRegistrator)
 
 <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/defender.png"></img> Windows Defender</h3>
@@ -648,6 +646,13 @@ BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
 UninstallTool: https://crystalidea.com/ru/uninstall-tool
 
 </details>
+
+<details><summary><b>🧰 Security</b></summary>
+
+SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
+
+</details>
+
 
 <details><summary><b>🌎 Internet</b></summary>
 
