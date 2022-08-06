@@ -138,7 +138,7 @@ https://github.com/Sycnex/Windows10Debloater
   ```
 </details>
 
-<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"></img> Clean Explorer</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Clean Explorer</b></summary>
   
   Force File Explorer to open to This PC instead of Quick Access
 
@@ -522,7 +522,7 @@ StartMenu Local:
 
 <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Win11</h3>
 
-<details><summary><b>Explorer Switch</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Explorer Switch</b></summary>
   
   **New Explorer (Win11)**
   ```powershell
