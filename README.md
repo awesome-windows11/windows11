@@ -13,12 +13,6 @@ First help for setup, tweaks and ISO images
 > <br>
 > Telegram: https://t.me/windows11_chat
 
-<h2 align="center">📚 Guides (Wiki)</h2>
-
-[💽 TPM: About, Installer, FAQ](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BD-TPM)
-<br>
-[💿 ISO: Windows Images, HASH File](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
-
 <h2 align="center">🔗 Setup Windows</h2>
 
 <h3 align="center">❗ Important</h3>
@@ -100,6 +94,10 @@ https://github.com/WereDev/Wu10Man
 
 <h3 align="center">⬇ Download and Install Windows</h3>
 
+[💿 Guide: Windows Images (ISO), HASH File](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
+<br>
+[💽 TPM: About, Installer, Bypass, FAQ](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BD-TPM)
+<br>
 https://uupdump.net
 <br>
 https://tb.rg-adguard.net/public.php
