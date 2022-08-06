@@ -51,19 +51,19 @@ https://github.com/WereDev/Wu10Man
 
 <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Microsoft Store Apps</h3>
 
-[Remove MS Store Apps](https://github.com/Digressive/Remove-MS-Store-Apps)
+https://github.com/Digressive/Remove-MS-Store-Apps
 <br>
-[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater)
+https://github.com/Sycnex/Windows10Debloater
 <br>
-✨ [Win10 Bloat Remover](https://github.com/Fs00/Win10BloatRemover)
+✨ https://github.com/Fs00/Win10BloatRemover
 <br>
-✨ [Equk](https://github.com/equk/windows)
+✨ https://github.com/equk/windows
 <br>
-✨ [Windows10 PostInstall](https://github.com/r33int/Windows10-Postinstall)
+✨ https://github.com/r33int/Windows10-Postinstall
 <br>
-✨ [Windows Optimize Harden Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat/blob/master/sos-optimize-windows.ps1)
+✨ https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloa
 <br>
-✨ [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)
+✨ https://github.com/ChrisTitusTech/win10script
 
 
 <h3 align="center">🛠 Tweaks (Win11)</h3>
