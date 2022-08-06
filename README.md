@@ -13,7 +13,7 @@ First help for setup, tweaks and ISO images
 > <br>
 > Telegram: https://t.me/windows11_chat
 
-<h1 align="center"> <img width=25px src="https://cdn-icons-png.flaticon.com/512/1053/1053320.png"> Setup Windows</h1>
+<h1 align="center"> <img width=28px src="https://cdn-icons-png.flaticon.com/512/1053/1053320.png"> Setup Windows</h1>
 
 <h3 align="center">❗ Important</h3>
 
