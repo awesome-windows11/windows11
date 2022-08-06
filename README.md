@@ -168,7 +168,7 @@ https://changewindows.org/timeline/pc
 
 <details><summary><b>🗑 Uninstaller</b></summary>
 
-https://github.com/Klocman/Bulk-Crap-Uninstaller
+BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
 <br>
 UninstallTool: https://crystalidea.com/ru/uninstall-tool
 
