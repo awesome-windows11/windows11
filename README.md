@@ -43,7 +43,7 @@ https://github.com/DavidXanatos/wumgr
 <br>
 https://github.com/WereDev/Wu10Man
 
-<h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Microsoft Store Apps</h3>
+<h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/store.png"> Microsoft Store Apps</h3>
 
 https://github.com/Digressive/Remove-MS-Store-Apps
 <br>
