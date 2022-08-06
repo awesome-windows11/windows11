@@ -15,8 +15,6 @@ First help for setup, tweaks and ISO images
 
 <h2 align="center">📚 Guides (Wiki)</h2>
 
-[💻 Apps: Browsers, Editors, Security](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BB-Apps)
-<br>
 [💽 TPM: About, Installer, FAQ](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BD-TPM)
 <br>
 [💿 ISO: Windows Images, HASH File](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
