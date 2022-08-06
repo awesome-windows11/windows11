@@ -108,6 +108,8 @@ https://uup.rg-adguard.net
 
 [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
 <br>
+https://github.com/pbatard/rufus
+<br>
 https://github.com/ventoy/Ventoy
 <br>
 https://github.com/pbatard/Fido
