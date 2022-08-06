@@ -520,7 +520,7 @@ StartMenu Local:
   https://github.com/awesome-windows11/firefox#-policiesjson
 </details>
 
-<h3 align="center"> <img width=25px src="https://raw.githubusercontent.com/awesome-windows11/site/main/icon/win11.png"> Win11</h3>
+<h3 align="center"> <img width=25px src="https://i.ibb.co/kyCSz2B/win11.png"> Win11</h3>
 
 
 
