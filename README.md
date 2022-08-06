@@ -120,6 +120,8 @@ Dism++: https://github.com/Chuyu-Team/Dism-Multi-language
 <br>
 WinNTSetup: http://wntsetup.ru
 <br>
+WinISO: https://rsload.net/soft/cleaner-disk/10195-winiso.html
+<br>
 [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
 <br>
 [Rectify11](https://rectify.vercel.app)
