@@ -522,7 +522,19 @@ StartMenu Local:
 
 <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Win11</h3>
 
+<details><summary><b>Explorer Switch</b></summary>
+  
+  ### New Explorer (Win11)
+  ```powershell
+  reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v SeparateProcess /t REG_DWORD /d 0 /f
+  ```
 
+   ### Old Explorer (Win10)
+  ```powershell
+  reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v SeparateProcess /t REG_DWORD /d 1 /f
+  ```
+
+</details>
 
 
 
@@ -773,7 +785,6 @@ https://github.com/mq1n/Win11SysCheck
 
 | Скачать | Описание |
 | -------- | --------- |
-| [ExplorerSwitch.bat](https://awesome-windows11.github.io/windows11/explorerswitch.bat) | Переключение между старым и новым проводником
 | [TaskBarLayout.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarLayout.bat) ![image](https://user-images.githubusercontent.com/86190960/149355038-60bd0c3e-cec0-4ca7-bab3-16bccfa4d597.png)  | Изменить расположение панели задач
 | [TaskBarSize.bat](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/TaskBarSize.bat) <a href="https://user-images.githubusercontent.com/86190960/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png"> <br> <img src="https://i.ibb.co/7X4680R/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png"></a> | Изменить размер панели задач |
 | [InputSwitch.zip](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip) <br> ![image](https://user-images.githubusercontent.com/86190960/149355219-377f3d65-d638-4937-bfa7-69e24332eab3.png) | Отключить / включить всплывающую панель языка
