@@ -720,7 +720,7 @@ StartMenu Local:
 
 </details>
 
-<details><summary><b>Driver</b></summary>
+<details><summary><b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/1400/1400975.png"> Driver</b></summary>
 
   Snappy Driver Installer: https://sdi-tool.org/download
   <br>
