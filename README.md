@@ -147,6 +147,8 @@ https://www.heidoc.net/php/myvsdump_directory.php?letter=W
 https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
 <br>
 https://github.com/AndrewRathbun/VanillaWindowsReference
+<br>
+https://changewindows.org/timeline/pc
 
 <h2 align="center">Apps</h2>
 
@@ -742,8 +744,6 @@ Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 ```
 
 <h1 align="center">🔗 Links</h1>
-
-- https://changewindows.org/timeline/pc
 
 Реестр проводника:
 - http://www.rusdoc.ru/material/os/win/reestr.shtml
