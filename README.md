@@ -19,7 +19,7 @@ First help for setup, tweaks and ISO images
 
 NT/SYSTEM console: https://github.com/gerardog/gsudo
 <br>
-[Hidden Apps AutoRun](https://www.nirsoft.net/utils/whatinstartup-x64.zip)
+[Hidden Apps AutoRun](https://www.nirsoft.net/utils/what_run_in_startup.html)
 <br>
 https://github.com/microsoft/winget-cli
 <br>
