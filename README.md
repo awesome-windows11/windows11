@@ -620,7 +620,7 @@ https://changewindows.org/timeline/pc
 
 <h2 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16.ico"> System Tools</h1>
 
-<details><summary><b>✨ AutoRun</b></summary>
+<details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_25.ico"> AutoRun</b></summary>
 
 Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
 <br>
