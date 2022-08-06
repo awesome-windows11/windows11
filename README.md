@@ -235,7 +235,8 @@ https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.
   Hard Disk Sentinel: https://www.hdsentinel.com/download.php
   <br>
   Victoria: https://hdd.by/victoria
-
+  <br>
+  ClearDiskInfo: https://www.carifred.com/cleardiskinfo
 </details>
 
 <details><summary><b>🔐 Security (Virtual Drive, ISO)</b></summary>
