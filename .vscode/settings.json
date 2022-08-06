@@ -1,10 +1,13 @@
 {
     "remoteHub.commitDirectlyWarning": "off",
-    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
     "editor.language.brackets": [
     
     ],
     "workbench.settings.editor": "json",
     "editor.tabSize": 6,
-    "editor.mouseWheelZoom": true
+    "editor.mouseWheelZoom": true,
+    "files.associations": {
+              "*.md": "powershell"
+    },
 }
