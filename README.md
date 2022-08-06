@@ -147,6 +147,10 @@ https://www.heidoc.net/php/myvsdump_directory.php?letter=W
 https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
 <br>
 https://github.com/AndrewRathbun/VanillaWindowsReference
+
+<h3 align="center">Versions Windows</h3>
+
+https://github.com/awesome-windows11/windows11/tree/main/version
 <br>
 https://changewindows.org/timeline/pc
 
