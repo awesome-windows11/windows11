@@ -719,7 +719,7 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 
 <h2 align="center">User Tools</h1>
 
-<details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_236.ico"> Media (Photo, Video, Audio)</b></summary>
+<details><summary><b><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_236.ico"> Media (Photo, Video, Audio)</b></summary>
 
 PaintNet: https://www.dotpdn.com/downloads/pdn.html
 <br>
