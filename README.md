@@ -103,6 +103,8 @@ https://tb.rg-adguard.net/public.php
 https://uup.rg-adguard.net
 <br>
 [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
+<br>
+https://github.com/pbatard/Fido
 
 <h3 align="center">Setup ISO</h3>
 
@@ -111,8 +113,6 @@ https://uup.rg-adguard.net
 https://github.com/pbatard/rufus
 <br>
 https://github.com/ventoy/Ventoy
-<br>
-https://github.com/pbatard/Fido
 <br>
 https://github.com/AveYo/MediaCreationTool.bat
 <br>
