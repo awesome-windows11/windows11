@@ -538,23 +538,23 @@ StartMenu Local:
 
 <details><summary><b>TaskBar Layout (Top, bottom)</b></summary>
 
-  Change the location of the taskbar
-
   ![image](https://user-images.githubusercontent.com/86190960/149355038-60bd0c3e-cec0-4ca7-bab3-16bccfa4d597.png)
 
-  **Up TaskBar**
+  Change the location of the taskbar
+
+  **Up TaskBar ⬆**
 
   ```powershell
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3" /v Settings /t REG_BINARY /d 30000000feffffff0200000001000000300000002000000000000000c203000080070000e20300006000000001000000 /f
   ```
 
-  **Down TaskBar**
+  **Down TaskBar ⬇**
 
   ```powershell
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3" /v Settings /t REG_BINARY /d 30000000feffffff0200000003000000300000002000000000000000c203000080070000e20300006000000001000000 /f
   ```
 
-  **Left TaskBar**
+  **Left TaskBar ⬅**
 
   > **Warning**
   > <br>
@@ -564,7 +564,7 @@ StartMenu Local:
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3" /v Settings /t REG_BINARY /d 30000000feffffff0200000000000000300000002000000000000000c203000080070000e20300006000000001000000 /f
   ```
 
-  **Right TaskBar**
+  **Right TaskBar ➡**
 
   > **Warning**
   > <br>
