@@ -1,6 +1,6 @@
 {
 	"img": {
-		"prefix": "комм",
+		"prefix": "img",
 		"body": "<img width=20px src=>",
 	},
 }
