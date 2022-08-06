@@ -17,17 +17,17 @@ First help for setup, tweaks and ISO images
 
 <h3 align="center">❗ Important</h3>
 
-[Gsudo (NT/SYSTEM console)](https://github.com/gerardog/gsudo)
+NT/SYSTEM console: https://github.com/gerardog/gsudo
 <br>
 [Hidden Apps AutoRun](https://www.nirsoft.net/utils/whatinstartup-x64.zip)
 <br>
-[AppInstaller (winget)](https://github.com/microsoft/winget-cli)
+https://github.com/microsoft/winget-cli
 <br>
 [MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
 <br>
 [OfflineInsider (WinInsider witout Microsoft Account)](https://github.com/abbodi1406/offlineinsiderenroll)
 <br>
-[Utilities](https://github.com/farag2/Utilities)
+https://github.com/farag2/Utilities
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
 <br>
