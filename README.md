@@ -84,7 +84,7 @@ https://github.com/Sycnex/Windows10Debloater
 
 
 
-<h1 align="center">PowerShell Tweaks (Scripts)</h1>
+<h1 align="center"><img width=25px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> PowerShell Tweaks (Scripts)</h1>
 
 <h3 align="center">🖼 Personalization</h3>
 
