@@ -228,6 +228,8 @@ https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.
 
   <h3 align="center">SSD Info</h3>
 
+  Victoria: https://hdd.by/victoria
+
 </details>
 
 <details><summary><b>🔐 Security (Virtual Drive, ISO)</b></summary>
