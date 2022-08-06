@@ -92,7 +92,7 @@ https://github.com/WereDev/Wu10Man
 <br>
 ☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
 
-<h2 align="center">⬇ Install Windows</h2>
+<h2 align="center">Setup Windows</h2>
 
 <h3 align="center">💿 Download ISO</h3>
 
@@ -106,7 +106,7 @@ https://uup.rg-adguard.net
 <br>
 https://github.com/pbatard/Fido
 
-<h3 align="center">Setup ISO</h3>
+<h3 align="center">⬇ Install ISO</h3>
 
 [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
 <br>
