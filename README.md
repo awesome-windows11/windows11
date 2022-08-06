@@ -120,7 +120,7 @@ https://github.com/Sycnex/Windows10Debloater
 
 </details>
 
-<details><summary><b>🖼 Disable Screenlock Spotlight</b></summary>
+<details><summary><b><img width=20px src="https://filestore.community.support.microsoft.com/api/images/27d56705-6298-4dd1-a8d2-15558be2ce38?upload=true"> Disable Screenlock Spotlight</b></summary>
   
   ```powershell
   reg add "HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\CloudContent" /v DisableWindowsSpotlightWindowsWelcomeExperience /t REG_DWORD /d 1 /f
