@@ -195,18 +195,6 @@ http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
 </details>
 
 <details><summary><b>👨‍💻 Hash</b></summary>
-Hash files are commonly used as a method of verifying file size. This process is called check-sum verification. When a file is sent over a network, it must be broken into small pieces and reassembled after it reaches its destination. In this situation the hash number represents the size of the data in a file. The hash can then be used as a tool for validating the entire file was successfully transmitted over the network.
-
-Hashes cannot be reversed, so simply knowing the result of a file’s hash from a hashing algorithm does not allow you to reconstruct the file’s contents. What it does allow you to do, however, is determine whether two files are identical or not without knowing anything about their contents.
-
-For this reason, the idea that the result is unique is fundamental to the whole concept of hashes. If two different files could produce the same digest, we would have a “collision”, and we would not be able to use the hash as a reliable identifier for that file.
-
-The possibility of producing a collision is small, but not unheard of, and is the reason why more secure algorithms like SHA-2 have replaced SHA-1 and MD5.
-
-An integrity hash (e.g. CRC32), sometimes called a "redundancy hash", has the properties necessary to provide a fairly good indication of accidental corruption of a file. These hashes will generally produce a different hash when a bit is changed, but will not withstand someone purposefully trying to generate a collision. For example, the strings "Maria has nine red beds." and "Steven has fifteen white tables." are different but generate the same CRC32 hash of 0ECB65F5. The general requirements for integrity hashes are as follows:
-
-A cryptographic hash such as MD5, SHA1, SHA256, or Keccak, has many more requirements. These hashes are designed to be highly resistant against attempts to discover any information about the original input data, or collisions in the hash function.
-
 [HashCheck](https://github.com/gurnec/HashCheck)
 <br>
 [HashTab](https://hashtab.ru)
