@@ -220,13 +220,13 @@ https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.
 
 <details><summary> <b>💿 Disk</b></summary>
 
-  <h3 align="center">Manager Partition</h3>
+  <b align="center">Manager Partition</b>
 
   MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
   <br>
   AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
 
-  <h3 align="center">SSD Info</h3>
+  <b align="center">SSD Info</b>
 
 </details>
 
