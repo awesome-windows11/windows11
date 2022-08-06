@@ -647,7 +647,7 @@ UninstallTool: https://crystalidea.com/ru/uninstall-tool
 
 </details>
 
-<details><summary><b>🧰 Security</b></summary>
+<details><summary><b>🧰 Management</b></summary>
 
 SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
 
