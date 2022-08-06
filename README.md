@@ -3,8 +3,6 @@
 
 First help for setup, tweaks and ISO images
 
-**In the process of moving to v4.0**!
-
 > MORE PROJECTS: https://github.com/awesome-windows11
 > <br>
 > Site: https://windows12.glitch.me
