@@ -31,8 +31,6 @@ First help for setup, tweaks and ISO images
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
 <br>
-[Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-<br>
 🧰 [SafeMode Launcher](https://www.sordum.org/12964/safe-mode-launcher-v1-1/)
 <br>
 🗑 [BulkCrap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
@@ -180,6 +178,10 @@ Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-play
 <details><summary><b>🔓 Activators</b></summary>
   
 ### <a target="_blank" href="https://github.com/awesome-windows11/windows11/releases/tag/99">🔓 Activator by Ratiborus</a>
+
+https://github.com/massgravel/Microsoft-Activation-Scripts
+
+
 В AAct все операции с активацией, с лицензиями, выполняются с помощью стандартных скриптов slmgr.vbs и ospp.vbs, уж их то даже самый ненормальный антивирусник не заподозрит в "троянстве".
 
 http://forum.ru-board.com/topic.cgi?forum=2&topic=5559
