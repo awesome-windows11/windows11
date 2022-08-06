@@ -55,9 +55,9 @@ First help for setup, tweaks and ISO images
 
 <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
 
-[Windows Update Manager for Windows (WuMgr)](https://github.com/DavidXanatos/wumgr)
+https://github.com/DavidXanatos/wumgr
 <br>
-[Wu10Man](https://github.com/WereDev/Wu10Man)
+https://github.com/WereDev/Wu10Man
 
 <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Microsoft Store Apps</h3>
 
