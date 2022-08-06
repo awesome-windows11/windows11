@@ -19,9 +19,9 @@ First help for setup, tweaks and ISO images
 <br>
 [💿 ISO: Windows Images, HASH File](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
 
-<h2 align="center">Apps</h2>
+<h2 align="center">🔗 Useful Links</h2>
 
-<h3 align="center">❗ Important Apps</h3>
+<h3 align="center">❗ Important</h3>
 
 [Gsudo (NT/SYSTEM console)](https://github.com/gerardog/gsudo)
 <br>
@@ -121,6 +121,8 @@ https://uup.rg-adguard.net
 [BlissOS](https://blissos.org/index.html)
 
 </details>
+
+<h2 align="center">Apps</h2>
 
 <details><summary align="center"><h3>🎨 Media (Video, Audio)</h3></summary>
 
