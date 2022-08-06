@@ -96,8 +96,6 @@ https://github.com/WereDev/Wu10Man
 
 <h3 align="center">💿 Download ISO</h3>
 
-[💽 TPM: About, Installer, Bypass, FAQ](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BD-TPM)
-<br>
 https://uupdump.net
 <br>
 https://tb.rg-adguard.net/public.php
@@ -105,20 +103,6 @@ https://tb.rg-adguard.net/public.php
 https://uup.rg-adguard.net
 <br>
 [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
-
-<h3 align="center">Hash ISO</h3>
-
-[💿 Known ISO file hashes (check for originality)](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
-<br>
-https://msdn.rg-adguard.net
-<br>
-https://sha1.rg-adguard.net
-<br>
-https://www.heidoc.net/php/myvsdump_directory.php?letter=W
-<br>
-https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
-<br>
-https://github.com/AndrewRathbun/VanillaWindowsReference
 
 <h3 align="center">Setup ISO</h3>
 
@@ -135,6 +119,34 @@ https://github.com/pbatard/Fido
 [Rectify11](https://rectify.vercel.app)
 <br>
 [BlissOS](https://blissos.org/index.html)
+
+<h3 align="center">💽 Bypass TPM</h3>
+
+[TPM: About, Installer, Bypass, FAQ](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BD-TPM)
+<br>
+https://github.com/quickfever/Windows-11-Bypass-TPM
+<br>
+https://github.com/haithamaouati/BypassWin11
+<br>
+https://github.com/shirooo39/Windows-11-Bypass
+<br>
+https://github.com/rushiranpise/win11devbypass
+<br>
+https://github.com/FrancescoDiSalesGithub/TPM-windows11-hack
+
+<h3 align="center">Hash ISO</h3>
+
+[💿 Known ISO file hashes (check for originality)](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
+<br>
+https://msdn.rg-adguard.net
+<br>
+https://sha1.rg-adguard.net
+<br>
+https://www.heidoc.net/php/myvsdump_directory.php?letter=W
+<br>
+https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
+<br>
+https://github.com/AndrewRathbun/VanillaWindowsReference
 
 <h2 align="center">Apps</h2>
 
