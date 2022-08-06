@@ -536,7 +536,19 @@ StartMenu Local:
 
 </details>
 
+<details><summary><b>Explorer Switch</b></summary>
+  
+  **New Explorer (Win11)**
+  ```powershell
+  reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v SeparateProcess /t REG_DWORD /d 0 /f
+  ```
 
+  **Old Explorer (Win10)**
+  ```powershell
+  reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v SeparateProcess /t REG_DWORD /d 1 /f
+  ```
+
+</details>
 
 <h1 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> ISO Windows</h1>
 

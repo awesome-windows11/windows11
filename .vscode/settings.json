@@ -10,4 +10,14 @@
     "files.associations": {
               "*.md": "powershell"
     },
+    "indentRainbow.colors": [
+        "#ffffff"
+    ],
+
+    // The indent color if the number of spaces is not a multiple of "tabSize".
+    "indentRainbow.errorColor": "white",
+
+    // The indent color when there is a mix between spaces and tabs.
+    // To be disabled this coloring set this to an empty string.
+    "indentRainbow.tabmixColor": "white",
 }
