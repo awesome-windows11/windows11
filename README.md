@@ -31,7 +31,7 @@ First help for setup, tweaks and ISO images
 <br>
 [MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
 <br>
-[OfflineInsider (Windows Insider witout Microsoft Account)](https://github.com/abbodi1406/offlineinsiderenroll)
+[OfflineInsider (WinInsider witout Microsoft Account)](https://github.com/abbodi1406/offlineinsiderenroll)
 <br>
 [Utilities](https://github.com/farag2/Utilities)
 
