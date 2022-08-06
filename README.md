@@ -96,8 +96,6 @@ https://github.com/WereDev/Wu10Man
 
 <h3 align="center">💿 Download ISO</h3>
 
-[💿 Guide: Windows Images (ISO), HASH File](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
-<br>
 [💽 TPM: About, Installer, Bypass, FAQ](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BD-TPM)
 <br>
 https://uupdump.net
@@ -108,6 +106,19 @@ https://uup.rg-adguard.net
 <br>
 [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
 
+<h3 align="center">Hash ISO</h3>
+
+[💿 Known ISO file hashes (check for originality)](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
+<br>
+https://msdn.rg-adguard.net
+<br>
+https://sha1.rg-adguard.net
+<br>
+https://www.heidoc.net/php/myvsdump_directory.php?letter=W
+<br>
+https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
+<br>
+https://github.com/AndrewRathbun/VanillaWindowsReference
 <h3 align="center">Configure ISO</h3>
 
 [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
