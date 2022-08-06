@@ -633,7 +633,7 @@ StartMenu Local:
   <br>
   https://www.sordum.org/8705/simple-vhd-manager-v1-4
 
-<h3 align="center"> <img width=20px src="https://cdn-icons-png.flaticon.com/512/7754/7754226.png"> Hash ISO</h3>
+<h3 align="center"> <img width=25px src="https://cdn-icons-png.flaticon.com/512/7754/7754226.png"> Hash ISO</h3>
 
   [💿 Known ISO file hashes (check for originality)](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
   <br>
@@ -761,7 +761,7 @@ StartMenu Local:
   Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
 </details>
 
-<details><summary><b>👨‍💻 Hash</b></summary>
+<details><summary><b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/7754/7754226.png"> Hash</b></summary>
 
   [HashCheck](https://github.com/gurnec/HashCheck)
   <br>
