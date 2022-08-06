@@ -198,7 +198,7 @@ https://github.com/Sycnex/Windows10Debloater
   ```
 </details>
 
-<details><summary><b>Clean Settings</b></summary>
+<details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16826.ico"> Clean Settings</b></summary>
   
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v AllowOnlineTips /t REG_DWORD /d 0 /f
