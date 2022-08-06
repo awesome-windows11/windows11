@@ -241,7 +241,7 @@ https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.
   ClearDiskInfo: https://www.carifred.com/cleardiskinfo
 </details>
 
-<details><summary><b>🔐 Security (Virtual Drive, ISO)</b></summary>
+<details><summary><b>🔐 Virtual</b></summary>
 
  ### [<img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></img> VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
