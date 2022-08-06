@@ -84,7 +84,7 @@ https://github.com/Sycnex/Windows10Debloater
 
 
 
-<h1 align="center"><img width=30px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> PowerShell Tweaks (Scripts)</h1>
+<h1 align="center"><img width=25px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> PowerShell Tweaks (Scripts)</h1>
 
 <h3 align="center">🖼 Personalization</h3>
 
@@ -538,7 +538,7 @@ StartMenu Local:
 
 
 
-<h1 align="center">💿 ISO Windows</h1>
+<h1 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> ISO Windows</h1>
 
 <h3 align="center">Download ISO</h3>
 
