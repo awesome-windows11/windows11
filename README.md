@@ -92,7 +92,9 @@ https://github.com/WereDev/Wu10Man
 <br>
 ☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
 
-<h3 align="center">⬇ Download and Install Windows</h3>
+<h2 align="center">⬇ Install Windows</h2>
+
+<h3 align="center">💿 Download ISO</h3>
 
 [💿 Guide: Windows Images (ISO), HASH File](https://github.com/awesome-windows11/windows11/wiki/%F0%9F%92%BF-ISO)
 <br>
@@ -105,7 +107,9 @@ https://tb.rg-adguard.net/public.php
 https://uup.rg-adguard.net
 <br>
 [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
-<br>
+
+<h3 align="center">Configure ISO</h3>
+
 [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
 <br>
 https://github.com/ventoy/Ventoy
