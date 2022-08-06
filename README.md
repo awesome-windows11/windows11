@@ -228,7 +228,9 @@ https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.
 
   <h3 align="center">SSD Info</h3>
 
-  CrystalDiskInfo: https://crystalmark.info/en/download/#CrystalDiskMark
+  CrystalDiskInfo: https://crystalmark.info/en/download/#CrystalDiskInfo
+  <br>
+  CrystalDiskMark: https://crystalmark.info/en/download/#CrystalDiskMark
   <br>
   Hard Disk Sentinel: https://www.hdsentinel.com/download.php
   <br>
