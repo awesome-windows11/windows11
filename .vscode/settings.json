@@ -5,7 +5,7 @@
     
     ],
     "workbench.settings.editor": "json",
-    "editor.tabSize": 6,
+    "editor.tabSize": 2,
     "editor.mouseWheelZoom": true,
     "files.associations": {
         "*.md": "powershell"
