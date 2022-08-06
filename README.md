@@ -223,6 +223,8 @@ https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.
   <h3 align="center">Manager Partition</h3>
 
   MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
+  <br>
+  AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
   
 </details>
 
