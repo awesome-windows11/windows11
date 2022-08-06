@@ -39,9 +39,9 @@ First help for setup, tweaks and ISO images
 
 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
 <br>
-[Defeat Defender](https://github.com/swagkarna/Defeat-Defender-V1.2)
+https://github.com/swagkarna/Defeat-Defender-V1.2
 <br>
-[Configure Defender](https://github.com/AndyFul/ConfigureDefender)
+https://github.com/AndyFul/ConfigureDefender
 
 <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
 
