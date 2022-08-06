@@ -628,7 +628,7 @@ AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 
 </details>
 
-<details><summary> <b>💿 Disk</b></summary>
+<details><summary> <b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> Disk</b></summary>
 
   <h3 align="center">Manager Partition</h3>
 
