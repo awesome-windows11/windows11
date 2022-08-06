@@ -230,6 +230,8 @@ https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.
 
   CrystalDiskInfo: https://crystalmark.info/en/download/#CrystalDiskMark
   <br>
+  Hard Disk Sentinel: https://www.hdsentinel.com/download.php
+  <br>
   Victoria: https://hdd.by/victoria
 
 </details>
