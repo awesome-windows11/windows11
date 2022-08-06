@@ -1,0 +1,8 @@
+{
+    "remoteHub.commitDirectlyWarning": "off",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "editor.language.brackets": [
+    
+    ],
+    "workbench.settings.editor": "json"
+}
