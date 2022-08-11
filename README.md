@@ -29,8 +29,6 @@ No files or programs, just console and commands!
 https://github.com/farag2/Utilities
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
-<br>
-<img width=20px src="https://raw.githubusercontent.com/SiL3NC3/PortableRegistrator/master/Resources/Wallpaperfx-3d-Bluefx-Desktop-Usb.png"> https://github.com/SiL3NC3/PortableRegistrator
 
 <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/defender.png"></img> Windows Defender</h3>
 
@@ -703,7 +701,10 @@ StartMenu Local:
 
 <details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_137.ico"> Management</b></summary>
 
+  <img width=20px src="https://raw.githubusercontent.com/SiL3NC3/PortableRegistrator/master/Resources/Wallpaperfx-3d-Bluefx-Desktop-Usb.png"> https://github.com/SiL3NC3/PortableRegistrator
+  <br>
   SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
+  <br>
   Compressor CompactOS: https://github.com/IridiumIO/CompactGUI
 </details>
 
