@@ -507,7 +507,7 @@ StartMenu Local:
   ```
 </details>
 
-<details><summary><b><img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/1200px-Chromium_Logo.svg.png"></img> Chrome Lite (NOT Security, etc.)</b></summary>
+<details><summary><b><img width=20px src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/512/Chrome-icon.png"> Chrome Lite (NOT Security, etc.)</b></summary>
   
   https://github.com/awesome-windows11/chrome
 </details>
