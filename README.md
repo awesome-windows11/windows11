@@ -22,7 +22,7 @@ No files or programs, just console and commands!
 
 NT/SYSTEM console: https://github.com/gerardog/gsudo
 <br>
-https://github.com/microsoft/winget-cli
+Winget Installer: https://apps.microsoft.com/store/detail/9NBLGGH4NNS1
 <br>
 AppInstaller & MSIXbundle https://apps.microsoft.com/store/detail/9NBLGGH4NNS1
 <br>
