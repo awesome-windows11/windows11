@@ -30,7 +30,7 @@ https://github.com/farag2/Utilities
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
 <br>
-✨ [Portable Registrator](https://github.com/SiL3NC3/PortableRegistrator)
+<img width=20px src="https://raw.githubusercontent.com/SiL3NC3/PortableRegistrator/master/Resources/Wallpaperfx-3d-Bluefx-Desktop-Usb.png"> https://github.com/SiL3NC3/PortableRegistrator
 
 <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/defender.png"></img> Windows Defender</h3>
 
