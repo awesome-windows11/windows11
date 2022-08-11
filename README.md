@@ -26,7 +26,7 @@ NT/SYSTEM console: https://github.com/gerardog/gsudo
 <br>
 [MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
 <br>
-Microsoft Emoji: https://github.com/microsoft/fluentui-emoji
+<img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Slightly%20smiling%20face/3D/slightly_smiling_face_3d.png"> Microsoft Emoji: https://github.com/microsoft/fluentui-emoji
 <br>
 https://github.com/farag2/Utilities
 
