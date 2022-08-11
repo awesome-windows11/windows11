@@ -26,6 +26,8 @@ AppInstaller & MSIXbundle (WinGet) https://apps.microsoft.com/store/detail/9NBLG
 <br>
 [MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
 <br>
+Microsoft Emoji: https://github.com/microsoft/fluentui-emoji
+<br>
 https://github.com/farag2/Utilities
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
