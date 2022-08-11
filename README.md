@@ -16,7 +16,7 @@ No files or programs, just console and commands!
 > <br>
 > Telegram: https://t.me/windows11_chat
 
-<h1 align="center"> <img width=28px src="https://cdn-icons-png.flaticon.com/512/1053/1053320.png"> Setup Windows</h1>
+<h1 align="center"> <img width=28px src="https://cdn-icons-png.flaticon.com/512/1053/1053320.png"> Setup Windows (Features)</h1>
 
 <h3 align="center"><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Red%20exclamation%20mark/3D/red_exclamation_mark_3d.png"> Important</h3>
 
