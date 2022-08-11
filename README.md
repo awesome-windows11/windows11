@@ -705,7 +705,7 @@ StartMenu Local:
 </details>
 
 
-<details><summary><b>🌎 Internet</b></summary>
+<details><summary><b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20americas/3D/globe_showing_americas_3d.png"> Internet</b></summary>
 
   qBittorrent: https://portableapps.com/apps/internet/qbittorrent_portable
   <br>
