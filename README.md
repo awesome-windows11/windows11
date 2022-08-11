@@ -63,21 +63,21 @@ https://github.com/ChrisTitusTech/win10script
 
 <h3 align="center">🛠 Tweaks (Win11)</h3>
 
-[Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11)
+Custom Context Menu: https://github.com/ikas-mc/ContextMenuForWindows11
 <br>
-[Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer)
+Windows Fixer: https://github.com/99natmar99/Windows-11-Fixer
 <br>
-[Old Start Menu](https://github.com/bbmaster123/10SM)
+Old Start Menu: https://github.com/bbmaster123/10SM
 <br>
-[Start All Back](https://www.startallback.com/)
+[Start All Back](https://www.startallback.com)
 <br>
-[Explorer Patcher (Old TaskBar)](https://github.com/valinet/ExplorerPatcher)
+Explorer Patcher (Old TaskBar): https://github.com/valinet/ExplorerPatcher
 <br>
-[privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+https://github.com/undergroundwires/privacy.sexy
 <br>
-[Windows 11 Guide](https://github.com/mikeroyal/Windows-11-Guide) 
+https://github.com/mikeroyal/Windows-11-Guide
 <br>
-[Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
+https://github.com/xanderfrangos/twinkle-tray
 <br>
 ☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
 <br>
