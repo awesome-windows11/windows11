@@ -50,15 +50,15 @@ https://github.com/Digressive/Remove-MS-Store-Apps
 <br>
 https://github.com/Sycnex/Windows10Debloater
 <br>
-✨ https://github.com/Fs00/Win10BloatRemover
+https://github.com/Fs00/Win10BloatRemover
 <br>
-✨ https://github.com/equk/windows
+https://github.com/equk/windows
 <br>
-✨ https://github.com/r33int/Windows10-Postinstall
+https://github.com/r33int/Windows10-Postinstall
 <br>
-✨ https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloa
+https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloa
 <br>
-✨ https://github.com/ChrisTitusTech/win10script
+https://github.com/ChrisTitusTech/win10script
 
 
 <h3 align="center">🛠 Tweaks (Win11)</h3>
