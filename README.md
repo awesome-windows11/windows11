@@ -69,8 +69,6 @@ Windows Fixer: https://github.com/99natmar99/Windows-11-Fixer
 <br>
 Old Start Menu: https://github.com/bbmaster123/10SM
 <br>
-[Start All Back](https://www.startallback.com)
-<br>
 Explorer Patcher (Old TaskBar): https://github.com/valinet/ExplorerPatcher
 <br>
 https://github.com/undergroundwires/privacy.sexy
