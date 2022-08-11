@@ -24,6 +24,8 @@ NT/SYSTEM console: https://github.com/gerardog/gsudo
 <br>
 https://github.com/microsoft/winget-cli
 <br>
+AppInstaller & MSIXbundle https://apps.microsoft.com/store/detail/9NBLGGH4NNS1
+<br>
 [MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
 <br>
 https://github.com/farag2/Utilities

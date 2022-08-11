@@ -22,5 +22,8 @@
   // The indent color when there is a mix between spaces and tabs.
   // To be disabled this coloring set this to an empty string.
   "indentRainbow.tabmixColor": "rgba(0,255,0,0.27)",
-  "editor.wordWrap": "on"
+  "editor.wordWrap": "on",
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "main"
+  ]
 }
