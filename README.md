@@ -793,7 +793,7 @@ StartMenu Local:
 
 
 
-<details><summary><b>📱 Win11 APK</b></summary>
+<details><summary><b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Mobile%20phone/3D/mobile_phone_3d.png"> Win11 APK</b></summary>
 
   APK Installer 1: [An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG)
   <br>
