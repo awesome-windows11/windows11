@@ -22,9 +22,7 @@ No files or programs, just console and commands!
 
 NT/SYSTEM console: https://github.com/gerardog/gsudo
 <br>
-Winget Installer: https://apps.microsoft.com/store/detail/9NBLGGH4NNS1
-<br>
-AppInstaller & MSIXbundle https://apps.microsoft.com/store/detail/9NBLGGH4NNS1
+AppInstaller & MSIXbundle (WinGet) https://apps.microsoft.com/store/detail/9NBLGGH4NNS1
 <br>
 [MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
 <br>
