@@ -783,12 +783,12 @@ StartMenu Local:
 
 <details><summary><b> <img width=20px src="https://cdn-icons.flaticon.com/png/512/4906/premium/4906326.png?token=exp=1659819721~hmac=793c3499d47b6e2495e248b010477f07"> Double-click mouse fix</b></summary>
 
-  **Проверка**
+  ### Проверка
   https://alexbruni.ru/checkmouse
   <br>
   https://codepen.io/blink172/pen/vERyxK
   <br>
-  **Исправить**
+  ### Исправить
   https://www.clickfix.cf
 
   https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
