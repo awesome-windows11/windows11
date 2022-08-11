@@ -20,7 +20,7 @@ No files or programs, just console and commands!
 
 <h3 align="center"><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Red%20exclamation%20mark/3D/red_exclamation_mark_3d.png"> Important</h3>
 
-NT/SYSTEM console: https://github.com/gerardog/gsudo
+<img width=20px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> NT/SYSTEM console: https://github.com/gerardog/gsudo
 <br>
 <img width=20px src="https://store-images.s-microsoft.com/image/apps.33061.13510798887475206.34a5b1cc-aab2-4ec5-ac80-54aecc0eb29a.fb80a0d9-dd99-4cfc-92c3-e937dd0dc5c9?mode=scale&q=90&w=300&h=300&background=%230078d7"> AppInstaller & MSIXbundle (WinGet) https://apps.microsoft.com/store/detail/9NBLGGH4NNS1
 <br>
