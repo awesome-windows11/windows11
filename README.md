@@ -697,6 +697,8 @@ StartMenu Local:
 
 <details><summary><b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/3D/shield_3d.png"> Management (Security)</b></summary>
 
+  https://defaultprogramseditor.com
+  <br>
   <img width=20px src="https://raw.githubusercontent.com/SiL3NC3/PortableRegistrator/master/Resources/Wallpaperfx-3d-Bluefx-Desktop-Usb.png"> https://github.com/SiL3NC3/PortableRegistrator
   <br>
   SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
