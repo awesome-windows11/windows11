@@ -349,7 +349,7 @@ StartMenu Local:
 
   ```powershell
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun" /v "1" /d "msedge.exe" /f
-  Remove-item C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Edge
+  Remove-item "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Edge"
   ```
   > **Warning**
   > <br>
