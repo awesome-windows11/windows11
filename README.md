@@ -345,6 +345,13 @@ StartMenu Local:
 
   > **Warning**
   > <br>
+  > **This tweak is the most secure and does not break updates**
+
+  ```powershell
+  reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun" /v "1" /d "msedge.exe" /f
+  ```
+  > **Warning**
+  > <br>
   > **DANGEROUS: THE TWEAK WILL BREAK NEW UPDATES AND FEATURE INSTALLATIONS!**
 
   ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
