@@ -217,6 +217,15 @@ StartMenu Local:
 
 </details>
 
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/start.png"></img> Fix StartMenu (Does not open?)</b></summary>
+
+  ```cmd
+  Get-AppxPackage Microsoft.Windows.ShellExperienceHost | foreach {Add-AppxPackage -register "$($_. InstallLocation)\appxmanifest.xml" -DisableDevelopmentMode}
+
+  ```
+
+</details>
+
 <details><summary><b><img width=20px src="https://cdn-icons-png.flaticon.com/512/1545/1545241.png"> Adding App to the Context Menu</b></summary>
   
   ```powershell
