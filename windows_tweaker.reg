@@ -11,6 +11,8 @@ Windows Registry Editor Version 5.00
 ; ================================================ Восстановить старый проводник ================================================
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked]
 "{e2bf9676-5f8f-435c-97eb-11607a5bedf7}"="" ; Скрыть меню поделиться (Вернуть старый проводник!)
+
+; ================================================ Восстановить панель инструментов ================================================
 [HKEY_CURRENT_USER\Software\Classes\CLSID\{d93ed569-3b3e-4bff-8355-3c44f6a52bb5}\InprocServer32]
 @=""
 
