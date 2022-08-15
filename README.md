@@ -541,22 +541,45 @@ StartMenu Local:
 
 <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Win11</h3>
 
-<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Exlporer (Restore The Ribbon)</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Explorer (Restore The Ribbon)</b></summary>
   
   ![image](https://user-images.githubusercontent.com/87380272/184669919-f84bccc8-aa31-4f3a-8bed-98230aa8fef0.png)
 
   **New Explorer (Win11)**
   ```powershell
   reg delete "HKCU\Software\Classes\CLSID\{d93ed569-3b3e-4bff-8355-3c44f6a52bb5}" /f
+  taskkill /F /IM explorer.exe
+  start explorer.exe
   ```
 
   **Old Explorer (Win10)**
   ```powershell
   reg add "HKCU\Software\Classes\CLSID\{d93ed569-3b3e-4bff-8355-3c44f6a52bb5}\InprocServer32" /f /ve
+  taskkill /F /IM explorer.exe
+  start explorer.exe
   ```
 
 </details>
 
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Context Menu (New, old)</b></summary>
+  
+  ![image](https://user-images.githubusercontent.com/87380272/184685122-69e70453-acc8-469d-88ec-3f525e085d97.png)
+
+  **New Menu (Win11)**
+  ```powershell
+  reg delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f
+  taskkill /F /IM explorer.exe
+  start explorer.exe
+  ```
+
+  **Old menu (Win10)**
+  ```powershell
+  reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+  taskkill /F /IM explorer.exe
+  start explorer.exe
+  ```
+
+</details>
 
 <details><summary><b> <img width=20px src="https://cdn-icons.flaticon.com/png/512/4480/premium/4480425.png?token=exp=1659819484~hmac=fb7708a1ecfd7935b6eff069cf947704"> TaskBar Layout (Top, bottom)</b></summary>
 
