@@ -541,7 +541,7 @@ StartMenu Local:
 
 <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Win11</h3>
 
-<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Toolbar Exlporer (Restore The Ribbon)</b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Exlporer (Restore The Ribbon)</b></summary>
   
   ![image](https://user-images.githubusercontent.com/87380272/184669919-f84bccc8-aa31-4f3a-8bed-98230aa8fef0.png)
 
@@ -553,20 +553,6 @@ StartMenu Local:
   **Old Explorer (Win10)**
   ```powershell
   reg add "HKCU\Software\Classes\CLSID\{d93ed569-3b3e-4bff-8355-3c44f6a52bb5}\InprocServer32" /f /ve
-  ```
-
-</details>
-
-<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Explorer (New, old)</b></summary>
-  
-  **New Explorer (Win11)**
-  ```powershell
-  reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v SeparateProcess /t REG_DWORD /d 0 /f
-  ```
-
-  **Old Explorer (Win10)**
-  ```powershell
-  reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v SeparateProcess /t REG_DWORD /d 1 /f
   ```
 
 </details>
