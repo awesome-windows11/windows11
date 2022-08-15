@@ -541,6 +541,20 @@ StartMenu Local:
 
 <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Win11</h3>
 
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Toolbar Exlporer (Restore The Ribbon)</b></summary>
+  
+  **New Explorer (Win11)**
+  ```powershell
+  reg delete "HKCU\Software\Classes\CLSID\{d93ed569-3b3e-4bff-8355-3c44f6a52bb5}" /f
+  ```
+
+  **Old Explorer (Win10)**
+  ```powershell
+  reg add "HKCU\Software\Classes\CLSID\{d93ed569-3b3e-4bff-8355-3c44f6a52bb5}\InprocServer32" /f /ve
+  ```
+
+</details>
+
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Explorer (New, old)</b></summary>
   
   **New Explorer (Win11)**
@@ -554,6 +568,7 @@ StartMenu Local:
   ```
 
 </details>
+
 
 <details><summary><b> <img width=20px src="https://cdn-icons.flaticon.com/png/512/4480/premium/4480425.png?token=exp=1659819484~hmac=fb7708a1ecfd7935b6eff069cf947704"> TaskBar Layout (Top, bottom)</b></summary>
 
