@@ -1,16 +1,3 @@
-![image](https://user-images.githubusercontent.com/87380272/184685122-69e70453-acc8-469d-88ec-3f525e085d97.png)
-
-
-# убрать новое меню
-```
-reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
-```
-# вернуть новое меню
-```
-reg delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f
-```
-
-
 убрать баннер в настройках
 
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\4\4095660171" /V EnabledState /T REG_DWORD /F /D 1
