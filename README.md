@@ -543,7 +543,7 @@ StartMenu Local:
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Toolbar Exlporer (Restore The Ribbon)</b></summary>
   
-  ![image](https://user-images.githubusercontent.com/87380272/184669678-068b71f8-523c-4f1b-a2f8-9c3be4950ef9.png)
+  ![image](https://user-images.githubusercontent.com/87380272/184669919-f84bccc8-aa31-4f3a-8bed-98230aa8fef0.png)
 
   **New Explorer (Win11)**
   ```powershell
