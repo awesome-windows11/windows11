@@ -581,7 +581,7 @@ StartMenu Local:
 
 </details>
 
-<details><summary><b> <img width=20px src="https://cdn-icons.flaticon.com/png/512/4480/premium/4480425.png?token=exp=1659819484~hmac=fb7708a1ecfd7935b6eff069cf947704"> TaskBar Layout (Top, bottom)</b></summary>
+<details><summary><b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/6585/6585361.png"> TaskBar Layout (Top, bottom)</b></summary>
 
   ![image](https://user-images.githubusercontent.com/86190960/149355038-60bd0c3e-cec0-4ca7-bab3-16bccfa4d597.png)
 
