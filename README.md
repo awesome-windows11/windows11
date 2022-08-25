@@ -564,6 +564,7 @@ StartMenu Local:
 <details><summary><b><img width=20px src="https://cdn-icons.flaticon.com/png/512/4480/premium/4480425.png?token=exp=1659819484~hmac=fb7708a1ecfd7935b6eff069cf947704"> Switch Context Menu (New, old)</b></summary>
   
   ![image](https://user-images.githubusercontent.com/87380272/184685122-69e70453-acc8-469d-88ec-3f525e085d97.png)
+  ![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png)
 
   **New Menu (Win11)**
   ```powershell
@@ -898,8 +899,7 @@ StartMenu Local:
 
 | Скачать | Описание |
 | -------- | --------- |
-| [InputSwitch.zip](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip) <br> ![image](https://user-images.githubusercontent.com/86190960/149355219-377f3d65-d638-4937-bfa7-69e24332eab3.png) | Отключить / включить всплывающую панель языка
-| [contextmenu.reg](https://github.com/awesome-windows11/windows11/blob/df7d30d80c1cf5fac49b5c3517000cebae5e0d5d/windows_tweaker.reg#L73) <br> ![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png) | Восстановить классические контекстные меню в масштабе всей системы
+| [InputSwitch.zip](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip) <br> ![image](https://user-images.githubusercontent.com/86190960/149355219-377f3d65-d638-4937-bfa7-69e24332eab3.png) | Отключить / включить всплывающую панель
 
 <h1 align="center">❓ FAQ</h1>
 
