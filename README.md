@@ -61,11 +61,8 @@ https://github.com/r33int/Windows10-Postinstall
 https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
 <br>
 https://github.com/simeononsecurity/Windows-Optimize-Debloat
-
 <br>
-
-
-https://github.com/ChrisTitusTech/win10script
+https://github.com/ChrisTitusTech/winutil
 
 
 <h3 align="center">🛠 Tweaks (Win11)</h3>
