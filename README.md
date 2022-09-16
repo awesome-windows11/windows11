@@ -35,6 +35,10 @@ https://github.com/farag2/Utilities
 https://github.com/swagkarna/Defeat-Defender-V1.2
 <br>
 https://github.com/AndyFul/ConfigureDefender
+<br>
+https://github.com/simeononsecurity/Windows-Defender-Hardening
+<br>
+https://github.com/simeononsecurity/Windows-Defender-Application-Control-Hardening
 
 <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
 
@@ -54,8 +58,13 @@ https://github.com/equk/windows
 <br>
 https://github.com/r33int/Windows10-Postinstall
 <br>
-https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloa
+https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
 <br>
+https://github.com/simeononsecurity/Windows-Optimize-Debloat
+
+<br>
+
+
 https://github.com/ChrisTitusTech/win10script
 
 
