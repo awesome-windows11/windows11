@@ -776,7 +776,8 @@ StartMenu Local:
   BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
   <br>
   UninstallTool: https://crystalidea.com/ru/uninstall-tool
-
+  <br>
+  https://lockhunter.com
 </details>
 
 <details><summary><b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/3D/shield_3d.png"> Management (Security)</b></summary>
@@ -788,8 +789,6 @@ StartMenu Local:
   SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
   <br>
   Compressor CompactOS: https://github.com/IridiumIO/CompactGUI
-  <br>
-  https://lockhunter.com
 </details>
 
 
