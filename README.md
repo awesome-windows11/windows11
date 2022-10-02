@@ -788,6 +788,8 @@ StartMenu Local:
   SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
   <br>
   Compressor CompactOS: https://github.com/IridiumIO/CompactGUI
+  <br>
+  https://lockhunter.com
 </details>
 
 
