@@ -909,7 +909,7 @@ StartMenu Local:
 
 | Скачать | Описание |
 | -------- | --------- |
-| [InputSwitch.zip](https://awesome-windows11.github.io/windows11/%D1%82%D0%B2%D0%B8%D0%BA%D0%B8/InputSwitch.zip) <br> ![image](https://user-images.githubusercontent.com/86190960/149355219-377f3d65-d638-4937-bfa7-69e24332eab3.png) | Отключить / включить всплывающую панель
+| [InputSwitch.zip](https://github.com/awesome-windows11/windows11/blob/main/archive/InputSwitch.zip?raw=true) <br> ![image](https://user-images.githubusercontent.com/86190960/149355219-377f3d65-d638-4937-bfa7-69e24332eab3.png) | Отключить / включить всплывающую панель
 
 <h1 align="center">❓ FAQ</h1>
 
