@@ -676,7 +676,7 @@ StartMenu Local:
   <br>
   <img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> [MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
   <br>
-  Insider witout Microsoft Account: https://github.com/abbodi1406/offlineinsiderenroll
+  Insider without Microsoft Account: https://github.com/abbodi1406/offlineinsiderenroll
   <br>
   https://github.com/pbatard/rufus
   <br>
