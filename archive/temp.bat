@@ -1,5 +1,5 @@
 @echo Off
-rem Перенести "C:\Users\Local\Temp" в "C:\Temp"
+rem "C:\Users\Local\Temp" in "C:\Temp"
 md "%SystemDrive%\Temp" >nul 2>&1
 icacls "%SystemDrive%\Temp" /grant:r *S-1-5-32-544:(CI)(OI)F /inheritance:d /T /Q >nul
 icacls "%SystemDrive%\Temp" /grant:r *S-1-5-32-545:(CI)(OI)F /inheritance:d /T /Q >nul
