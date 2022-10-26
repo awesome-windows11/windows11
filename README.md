@@ -81,6 +81,9 @@ https://github.com/mikeroyal/Windows-11-Guide
 <br>
 https://github.com/xanderfrangos/twinkle-tray
 <br>
+Manager context menu: https://nilesoft.org
+<br>
+<br>
 ☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
 <br>
 ☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
