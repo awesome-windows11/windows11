@@ -452,6 +452,26 @@ StartMenu Local:
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender" /v DisableAntiVirus /t REG_DWORD /d 1 /f
   pause
   ```
+  Optional settings:
+  ```powershell
+  # Windows Defender Advanced Threat Protection
+  sc config WinDefend start=disabled >nul && net stop WinDefend >nul
+  sc config SecurityHealthService start=disabled >nul
+  sc config Sense start=disabled >nul
+  sc config WdNisDrv start=disabled >nul
+  sc config WdNisSvc start=disabled >nul
+  reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "SecurityHealth" /f
+
+  # Служба которая висит в трее панели задач (значок защитника), отключение убивает UI защитника
+  reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SecurityHealthService" /v Start /t REG_DWORD /d 4 /f
+  # Служба которая сканирует файлы и убивает HDD, само тело службы защитника
+  reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinDefend" /v Start /t REG_DWORD /d 4 /f
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableRealtimeMonitoring /t REG_DWORD /d 1 /f
+  
+  reg add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /v "DontOfferThroughWUAU" /t REG_DWORD /d "1" /f >nul
+  reg add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /v "DontReportInfectionInformation" /t REG_DWORD /d "1" /f >nul
+  pause
+  ```
 </details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Disable Windows Update</b></summary>
