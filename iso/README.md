@@ -1,4 +1,4 @@
-<h1 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> ISO Windows</h1>
+
 
 <h3 align="center">Download ISO</h3>
 
