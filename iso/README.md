@@ -28,7 +28,7 @@
   <br>
   Dism++: https://github.com/Chuyu-Team/Dism-Multi-language
   <br>
-  WinNTSetup: http://wntsetup.ru
+  http://wntsetup.ru
   <br>
   WinISO: https://rsload.net/soft/cleaner-disk/10195-winiso.html
   <br>
