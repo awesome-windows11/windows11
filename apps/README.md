@@ -63,7 +63,7 @@
 </details>
 
 
-<details><summary><b> <img width=20px src="https://cdn-icons.flaticon.com/png/512/3672/premium/3672629.png?token=exp=1659819914~hmac=3e43fd18dcd3033d8553dfd15a0a37c4"> Virtual</b></summary>
+<details><summary><b> Virtual</b></summary>
 
   <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"> https://www.virtualbox.org/wiki/Downloads
   <br>
