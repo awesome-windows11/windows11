@@ -15,17 +15,17 @@
   <br>
   https://github.com/pbatard/Fido
 
-<h3 align="center">2. Create VHD (Virtual Disks)</h3>
+  <h3 align="center">2. Create VHD (Virtual Disks)</h3>
 
   https://rsload.net/soft/11768-easybcd.html
   <br>
   https://www.sordum.org/8705/simple-vhd-manager-v1-4
 
-<h3 align="center">⬇ 3. Install ISO</h3>
+  <h3 align="center">⬇ 3. Install ISO</h3>
 
   [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
   <br>
-  <img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> [MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
+  http://wntsetup.ru
   <br>
   Insider without Microsoft Account: https://github.com/abbodi1406/offlineinsiderenroll
   <br>
@@ -37,11 +37,11 @@
   <br>
   Dism++: https://github.com/Chuyu-Team/Dism-Multi-language
   <br>
-  http://wntsetup.ru
-  <br>
   WinISO: https://rsload.net/soft/cleaner-disk/10195-winiso.html
   <br>
   [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
+  <br>
+  <img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> [MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
   <br>
   [Rectify11](https://rectify.vercel.app)
   <br>
