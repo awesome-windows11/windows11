@@ -25,7 +25,7 @@
 
   [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
   <br>
-  http://wntsetup.ru
+  https://www.majorgeeks.com/files/details/winntsetup.html
   <br>
   Insider without Microsoft Account: https://github.com/abbodi1406/offlineinsiderenroll
   <br>
