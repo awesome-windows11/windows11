@@ -21,7 +21,7 @@
   <br>
   https://www.sordum.org/8705/simple-vhd-manager-v1-4
 
-<h3 align="center">3. ⬇ Install ISO</h3>
+<h3 align="center">⬇ 3. Install ISO</h3>
 
   [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
   <br>
