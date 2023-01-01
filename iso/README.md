@@ -1,6 +1,9 @@
 <h3 align="center"> <a href="https://github.com/awesome-windows11/windows11/blob/main/README.md"> <img width=25px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> Tweaks </a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/apps"> <img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16826.ico"> Apps </a> | <img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> ISO </h3>
 
-<h3 align="center">Download ISO</h3>
+<h3 align="center">❗ How to install Windows 11 on a computer, without a flash drive?</h3>
+
+
+<h3 align="center">1. Download ISO</h3>
 
   https://uupdump.net
   <br>
@@ -12,7 +15,13 @@
   <br>
   https://github.com/pbatard/Fido
 
-<h3 align="center">⬇ Install ISO</h3>
+<h3 align="center">2. Create VHD (Virtual Disks)</h3>
+
+  https://rsload.net/soft/11768-easybcd.html
+  <br>
+  https://www.sordum.org/8705/simple-vhd-manager-v1-4
+
+<h3 align="center">3. ⬇ Install ISO</h3>
 
   [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
   <br>
@@ -51,12 +60,6 @@
   https://github.com/rushiranpise/win11devbypass
   <br>
   https://github.com/FrancescoDiSalesGithub/TPM-windows11-hack
-
-<h3 align="center">Boot, VHD (Virtual Disks)</h3>
-
-  https://rsload.net/soft/11768-easybcd.html
-  <br>
-  https://www.sordum.org/8705/simple-vhd-manager-v1-4
 
 <h3 align="center">Hash ISO</h3>
 
