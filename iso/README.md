@@ -17,7 +17,7 @@
 
   <h3 align="center">2. Create VHD (Virtual Disks)</h3>
 
-  https://rsload.net/soft/11768-easybcd.html
+  <img width=20px src="https://neosmart.net/EasyBCD/i/favicon.png"> https://rsload.net/soft/11768-easybcd.html
   <br>
   https://www.sordum.org/8705/simple-vhd-manager-v1-4
 
