@@ -360,6 +360,7 @@ StartMenu Local:
   > **Warning**
   > <br>
   > **DANGEROUS: THE TWEAK WILL BREAK NEW UPDATES AND FEATURE INSTALLATIONS!**
+  > <br>
   > **We do not recommend deleting the browser for the correct operation of the system!**
 
   https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat
