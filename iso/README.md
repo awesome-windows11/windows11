@@ -19,7 +19,7 @@
 
   <img width=20px src="https://neosmart.net/EasyBCD/i/favicon.png"> https://rsload.net/soft/11768-easybcd.html
   <br>
-  <img width=20px src="https://i.imgur.com/YKIJORz.png"> https://www.sordum.org/8705/simple-vhd-manager-v1-4
+  <img width=20px src="https://i.imgur.com/Fzky91J.png"> https://www.sordum.org/8705/simple-vhd-manager-v1-4
 
   <h3 align="center">⬇ 3. Install ISO</h3>
 
