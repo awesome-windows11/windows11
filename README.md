@@ -348,7 +348,7 @@ StartMenu Local:
   ```
 </details>
 
-<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/edge.png"></img> Remove Microsoft Edge</a></b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/edge.png"></img> Remove / Disable Microsoft Edge</a></b></summary>
 
   > **Warning**
   > <br>
@@ -360,6 +360,7 @@ StartMenu Local:
   > **Warning**
   > <br>
   > **DANGEROUS: THE TWEAK WILL BREAK NEW UPDATES AND FEATURE INSTALLATIONS!**
+  > **We do not recommend deleting the browser for the correct operation of the system!**
 
   https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat
 
