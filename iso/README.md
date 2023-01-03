@@ -7,7 +7,7 @@
 
   <img width=20px src="https://i.imgur.com/2yjdLcp.png"> https://uupdump.net
   <br>
-  https://tb.rg-adguard.net/public.php
+  <img width=20px src="https://tb.rg-adguard.net/favicon.ico"> https://tb.rg-adguard.net/public.php
   <br>
   https://uup.rg-adguard.net
   <br>
