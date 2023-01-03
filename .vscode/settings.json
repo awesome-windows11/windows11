@@ -8,7 +8,7 @@
   "editor.tabSize": 2,
   "editor.mouseWheelZoom": true,
   "files.associations": {
-    "*.md": "powershell"
+    "*.md": "markdown"
   },
   "indentRainbow.colors": [
     "rgba(0,255,0,0.27)",
