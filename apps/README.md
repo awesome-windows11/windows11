@@ -155,7 +155,7 @@
 
 
 
-<details><summary><b>🔔 Compatibility check (Win11)</b></summary>
+<details><summary><b><img width=20px src="https://i.imgur.com/Bi8Dvrt.png"> Compatibility check (Win11)</b></summary>
 
   https://github.com/rcmaehl/WhyNotWin11
   <br>
