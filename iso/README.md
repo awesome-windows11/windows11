@@ -11,7 +11,7 @@
   <br>
   <img width=20px src="https://uup.rg-adguard.net/favicon.ico"> https://uup.rg-adguard.net
   <br>
-  [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
+  <img width=20px src="https://i.imgur.com/VzGUTpz.png"> [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
   <br>
   https://github.com/pbatard/Fido
 
