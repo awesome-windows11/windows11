@@ -2,82 +2,74 @@
 
 <h2 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16.ico"> System Tools</h1>
 
-<details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_25.ico"> AutoRun</b></summary>
+<b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_25.ico"> AutoRun</b>
 
-  Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
-  <br>
-  AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
-
-</details>
-
-<details><summary> <b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> Disk</b></summary>
-
-  <h3 align="center">Manager Partition</h3>
-
-  MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
-  <br>
-  AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
-
-  <h3 align="center">SSD Info</h3>
-
-  CrystalDiskInfo: https://crystalmark.info/en/download/#CrystalDiskInfo
-  <br>
-  CrystalDiskMark: https://crystalmark.info/en/download/#CrystalDiskMark
-  <br>
-  IsMyHdOK: https://www.softwareok.com/?Download=IsMyHdOK
-  <br>
-  Hard Disk Sentinel: https://www.hdsentinel.com/download.php
-  <br>
-  Victoria: https://hdd.by/victoria
-  <br>
-  ClearDiskInfo: https://www.carifred.com/cleardiskinfo
-</details>
-
-<details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_32.ico"> Uninstaller</b></summary>
-
-  BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
-  <br>
-  UninstallTool: https://crystalidea.com/ru/uninstall-tool
-  <br>
-  https://lockhunter.com
-</details>
-
-<details><summary><b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/3D/shield_3d.png"> Management (Security)</b></summary>
-
-  https://defaultprogramseditor.com
-  <br>
-  <img width=20px src="https://raw.githubusercontent.com/SiL3NC3/PortableRegistrator/master/Resources/Wallpaperfx-3d-Bluefx-Desktop-Usb.png"> https://github.com/SiL3NC3/PortableRegistrator
-  <br>
-  SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
-  <br>
-  Compressor CompactOS: https://github.com/IridiumIO/CompactGUI
-</details>
+Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
+<br>
+AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 
 
-<details><summary><b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20americas/3D/globe_showing_americas_3d.png"> Internet</b></summary>
 
-  qBittorrent: https://portableapps.com/apps/internet/qbittorrent_portable
-  <br>
-  URL Disabler: https://www.sordum.org/13075/url-disabler-v1-1
+<b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> Disk</b>
 
-</details>
+<b>Manager Partition</b>
+
+MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
+<br>
+AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
+
+<b>SSD Info</b>
+
+CrystalDiskInfo: https://crystalmark.info/en/download/#CrystalDiskInfo
+<br>
+CrystalDiskMark: https://crystalmark.info/en/download/#CrystalDiskMark
+<br>
+IsMyHdOK: https://www.softwareok.com/?Download=IsMyHdOK
+<br>
+Hard Disk Sentinel: https://www.hdsentinel.com/download.php
+<br>
+Victoria: https://hdd.by/victoria
+<br>
+ClearDiskInfo: https://www.carifred.com/cleardiskinfo
+
+<b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_32.ico"> Uninstaller</b>
+
+BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
+<br>
+UninstallTool: https://crystalidea.com/ru/uninstall-tool
+<br>
+https://lockhunter.com
+
+<b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/3D/shield_3d.png"> Management (Security)</b>
+
+https://defaultprogramseditor.com
+<br>
+<img width=20px src="https://raw.githubusercontent.com/SiL3NC3/PortableRegistrator/master/Resources/Wallpaperfx-3d-Bluefx-Desktop-Usb.png"> https://github.com/SiL3NC3/PortableRegistrator
+<br>
+SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
+<br>
+Compressor CompactOS: https://github.com/IridiumIO/CompactGUI
 
 
-<details><summary><b> Virtual</b></summary>
+<b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20americas/3D/globe_showing_americas_3d.png"> Internet</b>
 
-  <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"> https://www.virtualbox.org/wiki/Downloads
-  <br>
-  <img width=20px src="https://cdni.comss.net/logo/sandboxie_icon.png"></img> https://github.com/sandboxie-plus/Sandboxie
+qBittorrent: https://portableapps.com/apps/internet/qbittorrent_portable
+<br>
+URL Disabler: https://www.sordum.org/13075/url-disabler-v1-1
 
-</details>
 
-<details><summary><b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/1400/1400975.png"> Driver</b></summary>
+<b> Virtual</b>
 
-  Snappy Driver Installer: https://sdi-tool.org/download
-  <br>
-  G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
+<img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"> https://www.virtualbox.org/wiki/Downloads
+<br>
+<img width=20px src="https://cdni.comss.net/logo/sandboxie_icon.png"></img> https://github.com/sandboxie-plus/Sandboxie
 
-</details>
+
+<b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/1400/1400975.png"> Driver</b>
+
+Snappy Driver Installer: https://sdi-tool.org/download
+<br>
+G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
 
 
 <details><summary><b>Activators</b></summary>
@@ -104,27 +96,25 @@
 
 <h2 align="center">User Tools</h1>
 
-<details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_236.ico"> Media (Photo, Video, Audio)</b></summary>
+<b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_236.ico"> Media (Photo, Video, Audio)</b>
 
-  PaintNet: https://www.dotpdn.com/downloads/pdn.html
-  <br>
-  Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
-  <br>
-  Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
-</details>
+PaintNet: https://www.dotpdn.com/downloads/pdn.html
+<br>
+Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
+<br>
+Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
 
-<details><summary><b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/7754/7754226.png"> Hash</b></summary>
+<b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/7754/7754226.png"> Hash</b>
 
-  https://github.com/gurnec/HashCheck
-  <br>
-  https://hashtab.ru
-  <br>
-  https://github.com/tristanheaven/gtkhash
-  <br>
-  [HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html)
-  <br>
-  http://getmd5checker.com
-</details>
+https://github.com/gurnec/HashCheck
+<br>
+https://hashtab.ru
+<br>
+https://github.com/tristanheaven/gtkhash
+<br>
+[HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html)
+<br>
+http://getmd5checker.com
 
 <details><summary><b> <img width=20px src="https://i.imgur.com/vTxqXNZ.png"> Double-click mouse fix</b></summary>
 
