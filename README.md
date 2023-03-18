@@ -574,7 +574,7 @@ StartMenu Local:
   
   > **Warning**
   > <br>
-  > This feature has been removed in Windows 22H2!
+  > This feature has been [removed](https://www.winhelponline.com/blog/get-back-windows-10-ribbon-ui-windows-11/) in Windows 22H2!
   
   ![image](https://user-images.githubusercontent.com/87380272/184669919-f84bccc8-aa31-4f3a-8bed-98230aa8fef0.png)
 
