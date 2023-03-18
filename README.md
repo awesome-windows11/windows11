@@ -1,6 +1,6 @@
 <h1 align="center"><img width=32px src="https://i.ibb.co/5KpSCNv/win11.png"> Awesome Win11 (<a href="https://github.com/awesome-windows11/windows11/releases/tag/3.8.4">v3.8.4</a>)</h1>
 
-<h3 align="center"> <img width=25px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> Tweaks | <a href="https://github.com/awesome-windows11/windows11/tree/main/apps"> <img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16826.ico"> Apps </a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/iso"> <img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> ISO </a> </h3>
+<h3 align="center"> <img width=25px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Tweaks | <a href="https://github.com/awesome-windows11/windows11/tree/main/apps"> <img width=25px src="https://i.ibb.co/1zmkmc7/settings.png"> Apps </a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/iso"> <img width=25px src="https://i.ibb.co/gP68qTr/ISO.png"> ISO </a> </h3>
 
 First help for setup, tweaks and ISO images
 
@@ -17,19 +17,19 @@ No files or programs, just console and commands!
 > <br>
 > Telegram: https://t.me/windows11_chat
 
-<h3 align="center"><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Red%20exclamation%20mark/3D/red_exclamation_mark_3d.png"> Important</h3>
+<h3 align="center"><img width=20px src="https://i.ibb.co/jDhhyDF/mark.png"> Important</h3>
 
-<img width=20px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> NT/SYSTEM console: https://github.com/gerardog/gsudo
+<img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> NT/SYSTEM console: https://github.com/gerardog/gsudo
 <br>
-<img width=20px src="https://store-images.s-microsoft.com/image/apps.33061.13510798887475206.34a5b1cc-aab2-4ec5-ac80-54aecc0eb29a.fb80a0d9-dd99-4cfc-92c3-e937dd0dc5c9?mode=scale&q=90&w=300&h=300&background=%230078d7"> AppInstaller & MSIXbundle (WinGet) https://apps.microsoft.com/store/detail/9NBLGGH4NNS1
+<img width=20px src="https://i.ibb.co/1XW0LcH/AppInstaller.png"> AppInstaller & MSIXbundle (WinGet) https://apps.microsoft.com/store/detail/9NBLGGH4NNS1
 <br>
-<img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Slightly%20smiling%20face/3D/slightly_smiling_face_3d.png"> Microsoft Emoji: https://github.com/microsoft/fluentui-emoji
+<img width=20px src="https://i.ibb.co/X3951pZ/Face.png"> Microsoft Emoji: https://github.com/microsoft/fluentui-emoji
 <br>
 https://github.com/farag2/Utilities
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
 
-<h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/defender.png"></img> Windows Defender</h3>
+<h3 align="center"><img width=25px src="https://i.ibb.co/YpmKpwn/defender.png"></img> Windows Defender</h3>
 
 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
 <br>
