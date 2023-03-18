@@ -572,6 +572,10 @@ StartMenu Local:
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Explorer (Restore The Ribbon)</b></summary>
   
+  > **Warning**
+  > <br>
+  > This feature has been removed in recent versions of Windows. We are investigating the information from which
+  
   ![image](https://user-images.githubusercontent.com/87380272/184669919-f84bccc8-aa31-4f3a-8bed-98230aa8fef0.png)
 
   **New Explorer (Win11)**
