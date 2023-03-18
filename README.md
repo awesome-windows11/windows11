@@ -574,7 +574,7 @@ StartMenu Local:
   
   > **Warning**
   > <br>
-  > This feature has been removed in recent versions of Windows. We are investigating the information from which
+  > This feature has been removed in Windows 22H2!
   
   ![image](https://user-images.githubusercontent.com/87380272/184669919-f84bccc8-aa31-4f3a-8bed-98230aa8fef0.png)
 
