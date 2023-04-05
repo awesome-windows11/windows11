@@ -19,6 +19,8 @@ No files or programs, just console and commands!
 
 <h3 align="center"><img width=20px src="https://i.ibb.co/jDhhyDF/mark.png"> Important</h3>
 
+Check system file: https://winbindex.m417z.com
+<br>
 <img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> NT/SYSTEM console: https://github.com/gerardog/gsudo
 <br>
 <img width=20px src="https://i.ibb.co/1XW0LcH/AppInstaller.png"> AppInstaller & MSIXbundle (WinGet) https://apps.microsoft.com/store/detail/9NBLGGH4NNS1
