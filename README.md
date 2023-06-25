@@ -378,7 +378,7 @@ StartMenu Local:
   <br>
   > **Warning**
   > <br>
-  > **Смените путь к редактору на свой!** (по умолчанию `E:\VScode`)
+  > **Смените путь к редактору на свой!** (по умолчанию `D:\Apps\Editors\VSCode`)
   
   ![image](https://user-images.githubusercontent.com/87380272/183214790-4ed90003-a692-438f-b152-210a45fa2bd6.png)
   
@@ -387,22 +387,22 @@ StartMenu Local:
   # "https://medium.com/@fawwazyusran/create-a-portable-ide-with-visual-studio-code-fb0c6bc198ef"
   
   reg add "HKEY_CLASSES_ROOT\*\shell\Custom\shell\VsCode" /ve /d "Edit with VSCode" /f
-  reg add "HKEY_CLASSES_ROOT\*\shell\Custom\shell\VsCode" /v Icon /d "E:\VSCode\Code.exe,0" /f
-  reg add "HKEY_CLASSES_ROOT\*\shell\Custom\shell\VsCode\command" /ve /d "\"E:\VSCode\Code.exe\" "\"%1\" /f
+  reg add "HKEY_CLASSES_ROOT\*\shell\Custom\shell\VsCode" /v Icon /d "D:\Apps\Editors\VSCode\Code.exe,0" /f
+  reg add "HKEY_CLASSES_ROOT\*\shell\Custom\shell\VsCode\command" /ve /d "\"D:\Apps\Editors\VSCode\Code.exe\" "\"%1\" /f
   
   # "This will make it appear when you right click ON a folder"
   # "The "Icon" line can be removed if you don't want the icon to appear"
   
   reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode" /ve /d "Open Folder as VS Code Project" /f
-  reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode" /v Icon /d "E:\VSCode\Code.exe,0" /f
-  reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode\command" /ve /d "\"E:\VSCode\Code.exe\" "\"%1\" /f
+  reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode" /v Icon /d "D:\Apps\Editors\VSCode\Code.exe,0" /f
+  reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode\command" /ve /d "\"D:\Apps\Editors\VSCode\Code.exe\" "\"%1\" /f
   
   # "This will make it appear when you right click INSIDE a folder"
   # "The Icon line can be removed if you don't want the icon to appear"
   
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\vscode" /ve /d "Open Folder in VS Code Project" /f
-  reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode" /v Icon /d "E:\VSCode\Code.exe,0" /f
-  reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\vscode\command" /ve /d "\"E:\VSCode\Code.exe\" "\"%V\" /f
+  reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode" /v Icon /d "D:\Apps\Editors\VSCode\Code.exe,0" /f
+  reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\vscode\command" /ve /d "\"D:\Apps\Editors\VSCode\Code.exe\" "\"%V\" /f
   ```
   
 </details>
