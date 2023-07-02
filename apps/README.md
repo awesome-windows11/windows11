@@ -1,6 +1,6 @@
 <h3 align="center"> <a href="https://github.com/awesome-windows11/windows11/blob/main/README.md"> <img width=25px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> Tweaks </a> | <img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16826.ico"> Apps | <a href="https://github.com/awesome-windows11/windows11/tree/main/iso"> <img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> ISO </a> </h3>
 
-<h2 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16.ico"> System Tools</h1>
+<h2 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16.ico"> System Tools</h2>
 
 <b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_25.ico"> AutoRun</b>
 
@@ -8,7 +8,11 @@ Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
 <br>
 AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 
+<b><img width=20px src="https://cdn-icons-png.flaticon.com/512/8945/8945503.png"> Privacy / SpyBlock</b>
 
+https://github.com/crazy-max/WindowsSpyBlocker
+<br>
+https://github.com/W4RH4WK/Debloat-Windows-10
 
 <b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> Disk</b>
 
@@ -94,7 +98,7 @@ G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
 
 
 
-<h2 align="center">User Tools</h1>
+<h2 align="center">User Tools</h2>
 
 <b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_236.ico"> Media (Photo, Video, Audio)</b>
 
