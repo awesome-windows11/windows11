@@ -1,3 +1,4 @@
+```cmd
 @set @x=0; new ActiveXObject('Shell.Application').ShellExecute ('cmd.exe','/K ' + '"' + WScript.ScriptFullName + '"' + ' Admin','','runas',1);/*
 @echo off
 if "%~1" neq "Admin" (
@@ -13,3 +14,4 @@ rd "C:\PerfLogs" /s /q
 exit
  
 */
+```
