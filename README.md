@@ -1,4 +1,4 @@
-<h1 align="center"><img width=32px src="https://i.ibb.co/5KpSCNv/win11.png"> Awesome Win11 (<a href="https://github.com/awesome-windows11/windows11/releases/tag/3.8.4">v3.8.4</a>) [900 STARS!] </h1>
+<h1 align="center"><img width=32px src="https://i.ibb.co/5KpSCNv/win11.png"> Awesome Win11 (<a href="https://github.com/awesome-windows11/windows11/releases/tag/3.8.4">v3.8.4</a>) [1000 STARS!] </h1>
 
 <h3 align="center"> <img width=25px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Tweaks | <a href="https://github.com/awesome-windows11/windows11/tree/main/apps"> <img width=25px src="https://i.ibb.co/1zmkmc7/settings.png"> Apps </a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/iso"> <img width=25px src="https://i.ibb.co/gP68qTr/ISO.png"> ISO </a> </h3>
 
