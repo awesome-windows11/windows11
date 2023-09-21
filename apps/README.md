@@ -107,6 +107,8 @@ PaintNet: https://www.dotpdn.com/downloads/pdn.html
 Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
 <br>
 Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
+<br>
+[Questions, suggestions here](https://resonic.at/)
 
 <b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/7754/7754226.png"> Hash</b>
 
