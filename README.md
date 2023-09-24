@@ -721,11 +721,11 @@ Get-AppxPackage –AllUsers
 <a href="https://user-images.githubusercontent.com/86190960/122917570-d8103d80-d366-11eb-9164-a6fbbf415a90.png"><img src="https://i.ibb.co/5knF8qh/image.png" alt="image" border="0"></a>
 <a href="https://user-images.githubusercontent.com/86190960/122917584-db0b2e00-d366-11eb-8793-96259bac5965.png"><img src="https://i.ibb.co/mbY4RHH/image.png" alt="image" border="0"></a>
 
-## Как посмотреть последние файлы открытые на ПК?
+### Как посмотреть последние файлы открытые на ПК?
 ```
 %UserProfile%\AppData\Roaming\Microsoft\Windows\Recent
 ```
-## Как включить режим бога панель управления (GodMode?)
+### Как включить режим бога панель управления (GodMode?)
 Создайте папку с именем:
 ```
 Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
