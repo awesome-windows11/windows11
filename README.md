@@ -74,8 +74,6 @@ Custom Context Menu: https://github.com/ikas-mc/ContextMenuForWindows11
 <br>
 Windows Fixer: https://github.com/99natmar99/Windows-11-Fixer
 <br>
-Old Start Menu: https://github.com/bbmaster123/10SM
-<br>
 Explorer Patcher (Old TaskBar): https://github.com/valinet/ExplorerPatcher
 <br>
 https://github.com/undergroundwires/privacy.sexy
@@ -87,10 +85,11 @@ https://github.com/xanderfrangos/twinkle-tray
 Manager context menu: https://nilesoft.org
 <br>
 <br>
-☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
+☠ OUTDATED! Drag And Drop To Taskbar Fix: https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix
 <br>
-☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
-
+☠ OUTDATED! Windows Thumbnail Generator Folder: https://github.com/hahagu/WindowsThumbnailGenerator
+<br>
+☠ OUTDATED! Old Start Menu: https://github.com/bbmaster123/10SM
 
 <h3 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h3>
 
