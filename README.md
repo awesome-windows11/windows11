@@ -294,6 +294,7 @@ StartMenu Local:
   ```powershell
   Get-AppXPackage *Windows.Client.WebExperience* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove Microsoft Store Apps</b></summary>
@@ -332,6 +333,8 @@ StartMenu Local:
   Get-AppxPackage -allusers *Windows.Client.WebExperience* | Remove-AppxPackage
   Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*Windows.Client.WebExperience*"} | Remove-AppxProvisionedPackage –online
   ```
+  <img width="40%" src="https://user-images.githubusercontent.com/86190960/125692295-e047e2fd-1fc8-414f-860c-4e12deec2bc3.png"></img><img width="40%" src="https://user-images.githubusercontent.com/86190960/125692307-e8b3f2d6-55c7-48c5-bb2e-c642afeb20bb.png"></img>
+  
 </details>
 
 
@@ -694,19 +697,18 @@ StartMenu Local:
 
 <h1 align="center">❓ FAQ</h1>
 
+### How do I pin UWP to my desktop?
 ```powershell
-# Как закрепить UWP на рабочий стол?
 shell:AppsFolder
 ```
+### View all UWP apps
 ```powershell
-# Посмотреть все приложения UWP
 Get-AppxPackage –AllUsers | Select Name, PackageFullName
 ```
+### Full command, for detailed analysis
 ```powershell
-# Полная команда, для подробного анализа
 Get-AppxPackage –AllUsers
 ```
-<img width="40%" src="https://user-images.githubusercontent.com/86190960/125692295-e047e2fd-1fc8-414f-860c-4e12deec2bc3.png"></img><img width="40%" src="https://user-images.githubusercontent.com/86190960/125692307-e8b3f2d6-55c7-48c5-bb2e-c642afeb20bb.png"></img>
 
 ### How does Explorer sort special characters in files?
 <img width=40% src="https://github.com/awesome-windows11/windows11/assets/87380272/a218937d-b08e-42e3-a9d5-f5057237439a">
