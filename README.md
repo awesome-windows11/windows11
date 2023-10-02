@@ -243,6 +243,14 @@ StartMenu Local:
   ```
 </details>
 
+<details><summary><b>⏸  Disable / enable Input Switch</b></summary>
+
+  Download: https://github.com/awesome-windows11/windows11/blob/main/archive/InputSwitch.zip
+  <br>
+  ![image](https://user-images.githubusercontent.com/86190960/149355219-377f3d65-d638-4937-bfa7-69e24332eab3.png)
+
+</details>
+
 <details><summary><b>🎨 Icons</b></summary>
 
   [Пак всех иконок из Windows 11](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/)
@@ -686,14 +694,6 @@ StartMenu Local:
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3" /v Settings /t REG_BINARY /d 30000000feffffff0200000002000000300000002000000000000000c203000080070000e20300006000000001000000 /f
   ```
 </details>
-
-
-
-<h1 align="center">Tweaks</h1>
-
-| Скачать | Описание |
-| -------- | --------- |
-| [InputSwitch.zip](https://github.com/awesome-windows11/windows11/blob/main/archive/InputSwitch.zip?raw=true) <br> ![image](https://user-images.githubusercontent.com/86190960/149355219-377f3d65-d638-4937-bfa7-69e24332eab3.png) | Отключить / включить всплывающую панель
 
 <h1 align="center">❓ FAQ</h1>
 
