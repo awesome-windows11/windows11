@@ -727,6 +727,8 @@ Get-AppxPackage –AllUsers
 %UserProfile%\AppData\Roaming\Microsoft\Windows\Recent
 ```
 ### Как включить режим бога панель управления (GodMode?)
+Не работает в последних версиях, где панель управления вырезали (2004+)
+
 Создайте папку с именем:
 ```
 Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
