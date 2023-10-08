@@ -1,4 +1,4 @@
-<h1 align="center">❓ FAQ</h1>
+<h3 align="center"> <a href="https://github.com/awesome-windows11/windows11/blob/main/README.md"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks </a> | <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps | <a href="https://github.com/awesome-windows11/windows11/tree/main/iso"> <img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> ISO </a> </h3>
 
 ### How do I pin UWP to my desktop?
 ```powershell
