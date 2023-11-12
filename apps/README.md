@@ -122,6 +122,10 @@ https://github.com/tristanheaven/gtkhash
 <br>
 http://getmd5checker.com
 
+<b> <img width=20px src="https://site-iota-coral.vercel.app/icon/clipboard.png"> Macros / Text Expander</b>
+
+https://www.fastkeysautomation.com/index.html
+
 <details><summary><b> <img width=20px src="https://i.imgur.com/vTxqXNZ.png"> Double-click mouse fix</b></summary>
 
   ### Проверка
