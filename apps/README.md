@@ -124,13 +124,15 @@ http://getmd5checker.com
 
 <h3> <img width=20px src="https://site-iota-coral.vercel.app/icon/clipboard.png"> Macros / Text Expander</h3>
 
-[FastKeys](https://www.fastkeysautomation.com/index.html)
-<br>
-Occasional glitches, stores settings in Documents folder
-
 [AutoHotKey](https://www.autohotkey.com/)
 <br>
 Does not accept ahk_exe in VSCode (reasons not clear)
+
+[Espanso](https://espanso.org/)
+
+[FastKeys](https://www.fastkeysautomation.com/index.html)
+<br>
+Occasional glitches, stores settings in Documents folder
 
 <details><summary><b> <img width=20px src="https://i.imgur.com/vTxqXNZ.png"> Double-click mouse fix</b></summary>
 
@@ -146,8 +148,6 @@ Does not accept ahk_exe in VSCode (reasons not clear)
 </details>
 
 
-
-
 <details><summary><b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Mobile%20phone/3D/mobile_phone_3d.png"> Win11 APK</b></summary>
 
   APK Installer 1: [An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG)
@@ -158,7 +158,6 @@ Does not accept ahk_exe in VSCode (reasons not clear)
   <br>
   Google Play Installer: https://github.com/ADeltaX/WSAGAScript
 </details>
-
 
 
 <details><summary><b><img width=20px src="https://i.imgur.com/Bi8Dvrt.png"> Compatibility check (Win11)</b></summary>
