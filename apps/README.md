@@ -126,11 +126,11 @@ http://getmd5checker.com
 
 [FastKeys](https://www.fastkeysautomation.com/index.html)
 <br>
-Иногда подлагивает, хранит настройки в папке Documents
+Occasional glitches, stores settings in Documents folder
 
 [AutoHotKey](https://www.autohotkey.com/)
 <br>
-Не воспринимает ahk_exe в VSCode (причины не ясны)
+Does not accept ahk_exe in VSCode (reasons not clear)
 
 <details><summary><b> <img width=20px src="https://i.imgur.com/vTxqXNZ.png"> Double-click mouse fix</b></summary>
 
