@@ -128,6 +128,10 @@ http://getmd5checker.com
 <br>
 Иногда подлагивает, хранит настройки в папке Documents
 
+[AutoHotKey](https://www.autohotkey.com/)
+<br>
+Не воспринимает ahk_exe в VSCode (причины не ясны)
+
 <details><summary><b> <img width=20px src="https://i.imgur.com/vTxqXNZ.png"> Double-click mouse fix</b></summary>
 
   ### Проверка
