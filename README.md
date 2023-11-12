@@ -382,6 +382,14 @@ StartMenu Local:
   ![image](https://user-images.githubusercontent.com/86190960/149354585-d467a0fe-60db-4a9b-82a6-20ea0f40934e.png)
 </details>
 
+<details><summary><b><img width=20px src="https://web.telegram.org/a/icon-192x192.png"> Open tg:// Telegram Portable</b></summary>
+  
+  ```powershell
+  reg add "HKEY_CURRENT_USER\SOFTWARE\Classes\tdesktop.tg\shell\open\command" /ve /d ""G:\Apps\Telegram\Telegram.exe" -workdir "G:/Apps/Telegram/" -- "%1"" /f
+  pause
+  ```
+</details>
+
 <details><summary><b><img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></img> VsCode Default Editor</a></b></summary>
   
   Сделать VScode Portable редактором по умолчанию
