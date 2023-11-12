@@ -375,7 +375,7 @@ StartMenu Local:
   > <br>
   > **We do not recommend deleting the browser for the correct operation of the system!**
 
-  https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat
+  https://github.com/awesome-windows11/windows11/blob/main/archive/remove_edge.bat
 
   ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
   ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
