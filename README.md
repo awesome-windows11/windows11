@@ -234,11 +234,19 @@ StartMenu Local:
 
 </details>
 
-<details><summary><b><img width=20px src="https://cdn-icons-png.flaticon.com/512/1545/1545241.png"> Adding App to the Context Menu</b></summary>
+<details><summary><b>ℹ Adding App to the Context Menu</b></summary>
   
   ```powershell
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\VScode" /ve /d "&VScode" /f
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\VScode\command" /ve /d "D:\Apps\VSCode\code.exe" /f
+  pause
+  ```
+</details>
+
+<details><summary><b>ℹ Time Cascading Context Menu</b></summary>
+  
+  ```powershell
+  reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v MenuShowDelay /t REG_DZ /d 101 /f
   pause
   ```
 </details>
