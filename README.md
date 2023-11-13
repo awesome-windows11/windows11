@@ -246,7 +246,7 @@ StartMenu Local:
 <details><summary><b>ℹ Time Cascading Context Menu</b></summary>
   
   ```powershell
-  reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v MenuShowDelay /t REG_DZ /d 101 /f
+  reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v MenuShowDelay /t REG_SZ /d 101 /f
   pause
   ```
 </details>
