@@ -9,6 +9,7 @@ if "%~1" neq "Admin" (
 
 rd "C:\Temp" /s /q
 rd "C:\Users\Admin\AppData\Local\Temp" /s /q
+rd "C:\Users\SCH\AppData\Local\Temp" /s /q
 rd "%homepath%/Searches" /s /q
 rd "C:\PerfLogs" /s /q
 rd "C:\Users\SCH\AppData\Local\CrashDumps" /s /q
