@@ -14,14 +14,16 @@
   <img width=20px src="https://i.imgur.com/VzGUTpz.png"> [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
   <br>
   https://github.com/pbatard/Fido
-
-  <h3 align="center">2. Create VHD (Virtual Disks) 💾</h3>
+  <br>
+  https://forum.rg-adguard.net/forums/windows-10.75/
+  
+<h3 align="center">2. Create VHD (Virtual Disks) 💾</h3>
 
   <img width=20px src="https://neosmart.net/EasyBCD/i/favicon.png"> https://rsload.net/soft/11768-easybcd.html
   <br>
   <img width=20px src="https://i.imgur.com/Fzky91J.png"> https://www.sordum.org/8705/simple-vhd-manager-v1-4
 
-  <h3 align="center">3. Install ISO ⬇</h3>
+<h3 align="center">3. Install ISO ⬇</h3>
 
   [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
   <br>
