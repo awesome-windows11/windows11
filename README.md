@@ -17,7 +17,7 @@ No files or programs, just console and commands!
 > <br>
 > Telegram: https://t.me/windows11_chat
 
-<h3 align="center"><img width=20px src="https://i.ibb.co/jDhhyDF/mark.png"> Important</h3>
+### <h3 align="center"><img width=20px src="https://i.ibb.co/jDhhyDF/mark.png"> Important</h3>
 
 Check system file: https://winbindex.m417z.com
 <br>
@@ -31,7 +31,7 @@ https://github.com/farag2/Utilities
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
 
-<h3 align="center"><img width=25px src="https://i.ibb.co/YpmKpwn/defender.png"></img> Windows Defender</h3>
+### <h3 align="center"><img width=25px src="https://i.ibb.co/YpmKpwn/defender.png"></img> Windows Defender</h3>
 
 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
 <br>
@@ -43,13 +43,13 @@ https://github.com/simeononsecurity/Windows-Defender-Hardening
 <br>
 https://github.com/simeononsecurity/Windows-Defender-Application-Control-Hardening
 
-<h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
+### <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
 
 https://github.com/DavidXanatos/wumgr
 <br>
 https://github.com/WereDev/Wu10Man
 
-<h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/store.png"> Microsoft Store Apps</h3>
+### <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/store.png"> Microsoft Store Apps</h3>
 
 https://github.com/Digressive/Remove-MS-Store-Apps
 <br>
@@ -67,8 +67,7 @@ https://github.com/simeononsecurity/Windows-Optimize-Debloat
 <br>
 https://github.com/ChrisTitusTech/winutil
 
-
-<h3 align="center">🛠 Tweaks (Win11)</h3>
+### <h3 align="center">🛠 Tweaks (Win11)</h3>
 
 Custom Context Menu: https://github.com/ikas-mc/ContextMenuForWindows11
 <br>
@@ -91,7 +90,7 @@ Manager context menu: https://nilesoft.org
 <br>
 ☠ OUTDATED! Old Start Menu: https://github.com/bbmaster123/10SM
 
-<h3 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h3>
+### <h3 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h3>
 
 
 <details><summary><b><img width=20px src="https://raw.githubusercontent.com/awesome-windows11/site/main/icon/moon.png"> Set Dark Theme</b></summary>
@@ -269,7 +268,7 @@ StartMenu Local:
 
 </details>
 
-<h3 align="center">🛠 Apps</h3>
+### <h3 align="center">🛠 Apps</h3>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/check.png"></img> Remove and Disable Windows PC Health Check</b></summary>
   
@@ -433,8 +432,7 @@ StartMenu Local:
   
 </details>
 
-
-<h3 align="center">📜 Policies</h3>
+### <h3 align="center">📜 Policies</h3>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/defender.png"> Disable Windows Defender</b></summary>
 
@@ -596,7 +594,7 @@ StartMenu Local:
   https://github.com/awesome-windows11/firefox#-policiesjson
 </details>
 
-<h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Win11</h3>
+### <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Win11</h3>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Explorer (Restore The Ribbon)</b></summary>
   
@@ -711,7 +709,7 @@ StartMenu Local:
   ```
 </details>
 
-<h1 align="center">🔗 Links</h1>
+# <h1 align="center">🔗 Links</h1>
 
 Реестр проводника:
 - http://www.rusdoc.ru/material/os/win/reestr.shtml
@@ -724,6 +722,6 @@ StartMenu Local:
 - https://admx.help
 
 
-<h1 align="center">Stats</h1>
+# <h1 align="center">Stats</h1>
 
 [![Stargazers over time](https://starchart.cc/awesome-windows11/windows11.svg)](https://starchart.cc/awesome-windows11/windows11)
