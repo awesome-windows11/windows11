@@ -709,7 +709,7 @@ StartMenu Local:
   ```
 </details>
 
-# <h1 align="center">🔗 Links</h1>
+### <h1 align="center">🔗 Links</h1>
 
 Реестр проводника:
 - http://www.rusdoc.ru/material/os/win/reestr.shtml
@@ -722,6 +722,6 @@ StartMenu Local:
 - https://admx.help
 
 
-# <h1 align="center">Stats</h1>
+### <h1 align="center">Stats</h1>
 
 [![Stargazers over time](https://starchart.cc/awesome-windows11/windows11.svg)](https://starchart.cc/awesome-windows11/windows11)
