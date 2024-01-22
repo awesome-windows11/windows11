@@ -81,6 +81,8 @@ https://github.com/mikeroyal/Windows-11-Guide
 <br>
 https://github.com/xanderfrangos/twinkle-tray
 <br>
+https://www.sordum.org/14479/windows-11-classic-context-menu-v1-2/
+<br>
 Manager context menu: https://nilesoft.org
 <br>
 https://github.com/builtbybel/ThisIsWin11
