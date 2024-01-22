@@ -83,6 +83,7 @@ https://github.com/xanderfrangos/twinkle-tray
 <br>
 Manager context menu: https://nilesoft.org
 <br>
+https://github.com/builtbybel/ThisIsWin11
 <br>
 ☠ OUTDATED! Drag And Drop To Taskbar Fix: https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix
 <br>
