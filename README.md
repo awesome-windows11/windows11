@@ -406,7 +406,7 @@ StartMenu Local:
   <br>
   > **Warning**
   > <br>
-  > **Смените путь к редактору на свой!** (по умолчанию `D:\Apps\Editors\VSCode`)
+  > **Change the editor path to your own!** (default path: `D:\Apps\Editors\VSCode`)
   
   ![image](https://user-images.githubusercontent.com/87380272/183214790-4ed90003-a692-438f-b152-210a45fa2bd6.png)
   
