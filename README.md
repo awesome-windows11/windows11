@@ -370,19 +370,15 @@ StartMenu Local:
   ```
 </details>
 
-<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/edge.png"></img> Remove / Disable Microsoft Edge</a></b></summary>
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/edge.png"></img> Remove / Disable Microsoft Edge</b></summary>
 
-  > **Warning**
-  > <br>
-  > **This tweak is the most secure and does not break updates**
+ > ⚠ **This tweak is the most secure and does not break updates**
 
   ```powershell
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun" /v "1" /d "msedge.exe" /f
   ```
-  > **Warning**
-  > <br>
-  > **DANGEROUS: THE TWEAK WILL BREAK NEW UPDATES AND FEATURE INSTALLATIONS!**
-  > <br>
+
+  > ⚠ **DANGEROUS: THE TWEAK WILL BREAK NEW UPDATES AND FEATURE INSTALLATIONS!**
   > **We do not recommend deleting the browser for the correct operation of the system!**
 
   https://github.com/awesome-windows11/windows11/blob/main/archive/remove_edge.bat
@@ -390,6 +386,7 @@ StartMenu Local:
   ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
   ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
   ![image](https://user-images.githubusercontent.com/86190960/149354585-d467a0fe-60db-4a9b-82a6-20ea0f40934e.png)
+  
 </details>
 
 <details><summary><b><img width=20px src="https://web.telegram.org/a/icon-192x192.png"> Open tg:// Telegram Portable</b></summary>
@@ -401,12 +398,8 @@ StartMenu Local:
 </details>
 
 <details><summary><b><img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></img> VsCode Default Editor</a></b></summary>
-  
-  Сделать VScode Portable редактором по умолчанию
-  <br>
-  > **Warning**
-  > <br>
-  > **Change the editor path to your own!** (default path: `D:\Apps\Editors\VSCode`)
+
+  > ⚠ **Change the editor path to your own!** (default path: `D:\Apps\Editors\VSCode`)
   
   ![image](https://user-images.githubusercontent.com/87380272/183214790-4ed90003-a692-438f-b152-210a45fa2bd6.png)
   
@@ -441,9 +434,7 @@ StartMenu Local:
 
   Source: https://admx.help/HKLM/Software/Policies
   
-  > **Warning**
-  > <br>
-  > **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
+  > ⚠ **Install before use [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
   
   ```powershell
   gsudo -s powershell.exe
@@ -505,9 +496,7 @@ StartMenu Local:
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Disable Windows Update</b></summary>
   
-  > **Warning**
-  > <br>
-  > **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
+  > ⚠ **Install before use [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
   
   ```powershell
   # "Disable OS Upgrade"
@@ -601,9 +590,7 @@ StartMenu Local:
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Explorer (Restore The Ribbon)</b></summary>
   
-  > **Warning**
-  > <br>
-  > This feature has been [removed](https://www.winhelponline.com/blog/get-back-windows-10-ribbon-ui-windows-11/) in Windows 22H2!
+  > ⚠ This feature has been [removed](https://www.winhelponline.com/blog/get-back-windows-10-ribbon-ui-windows-11/) in Windows 22H2!
   
   ![image](https://user-images.githubusercontent.com/87380272/184669919-f84bccc8-aa31-4f3a-8bed-98230aa8fef0.png)
 
