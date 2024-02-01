@@ -93,7 +93,7 @@ https://github.com/builtbybel/ThisIsWin11
 <br>
 ☠ OUTDATED! Old Start Menu: https://github.com/bbmaster123/10SM
 
-### <h3 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h3>
+### <h2 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h2>
 
 
 <details><summary><b><img width=20px src="https://raw.githubusercontent.com/awesome-windows11/site/main/icon/moon.png"> Set Dark Theme</b></summary>
