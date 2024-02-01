@@ -389,6 +389,14 @@ StartMenu Local:
   
 </details>
 
+<details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/edge.png"></img> Change Default Borwser</b></summary>
+
+_The code is in the process of being written_
+
+Source: https://kolbi.cz/blog/2019/01/27/register-a-portable-browser-and-make-it-the-default/
+  
+</details>
+
 <details><summary><b><img width=20px src="https://web.telegram.org/a/icon-192x192.png"> Open tg:// Telegram Portable</b></summary>
   
   ```powershell
