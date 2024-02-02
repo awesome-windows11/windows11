@@ -42,7 +42,7 @@ ClearDiskInfo: https://www.carifred.com/cleardiskinfo
 <br>
 <img width=20px src="https://i.imgur.com/0HQq28C.png"> https://github.com/thebookisclosed/Comet
 
-<img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_32.ico"> **Uninstaller**
+**Uninstaller**
 
 BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
 <br>
