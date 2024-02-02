@@ -16,8 +16,6 @@
 <br>
 https://github.com/W4RH4WK/Debloat-Windows-10
 
-<img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> **Disk**
-
 **Manager Partition**
 
 <img width=20px src="https://i.imgur.com/x6vIT9f.png"> MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
