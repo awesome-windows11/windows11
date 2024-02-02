@@ -40,6 +40,8 @@ ClearDiskInfo: https://www.carifred.com/cleardiskinfo
 
 <img width=20px src="https://s1.pir.fm/pf/favicons--AwgCBwYOBQc/favicon-32x32.png"> https://www.ccleaner.com/ccleaner
 <br>
+<img width=20px src="https://i.imgur.com/Nt9Q2Y7.png"> https://www.wisecleaner.com/wise-disk-cleaner.html
+<br>
 <img width=20px src="https://raw.githubusercontent.com/builtbybel/CleanmgrPlus/master/cleanmgr%2B.png"> https://github.com/builtbybel/CleanmgrPlus
 <br>
 <img width=20px src="https://i.imgur.com/0HQq28C.png"> https://github.com/thebookisclosed/Comet
