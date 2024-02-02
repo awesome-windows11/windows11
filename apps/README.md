@@ -2,27 +2,27 @@
 
 <h2 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16.ico"> System Tools</h2>
 
-<b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_25.ico"> AutoRun</b>
+<img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_25.ico"> **AutoRun**
 
 Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
 <br>
 AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 
-<b><img width=20px src="https://cdn-icons-png.flaticon.com/512/8945/8945503.png"> Privacy / SpyBlock</b>
+<img width=20px src="https://cdn-icons-png.flaticon.com/512/8945/8945503.png"> **Privacy / SpyBlock**
 
 https://github.com/crazy-max/WindowsSpyBlocker
 <br>
 https://github.com/W4RH4WK/Debloat-Windows-10
 
-<b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> Disk</b>
+<img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> **Disk**
 
-<b>Manager Partition</b>
+**Manager Partition**
 
 MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
 <br>
 AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
 
-<b>SSD Info</b>
+**SSD Info**
 
 CrystalDiskInfo: https://crystalmark.info/en/download/#CrystalDiskInfo
 <br>
@@ -36,7 +36,13 @@ Victoria: https://hdd.by/victoria
 <br>
 ClearDiskInfo: https://www.carifred.com/cleardiskinfo
 
-<b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_32.ico"> Uninstaller</b>
+**Cleaner**
+
+<img width=20px src="https://raw.githubusercontent.com/builtbybel/CleanmgrPlus/master/cleanmgr%2B.png"> https://github.com/builtbybel/CleanmgrPlus
+<br>
+<img width=20px src="https://i.imgur.com/0HQq28C.png"> https://github.com/thebookisclosed/Comet
+
+<img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_32.ico"> **Uninstaller**
 
 BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
 <br>
@@ -44,7 +50,7 @@ UninstallTool: https://crystalidea.com/ru/uninstall-tool
 <br>
 https://lockhunter.com
 
-<b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/3D/shield_3d.png"> Management (Security)</b>
+<img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/3D/shield_3d.png"> **Management (Security)**
 
 https://defaultprogramseditor.com
 <br>
@@ -55,21 +61,21 @@ SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
 Compressor CompactOS: https://github.com/IridiumIO/CompactGUI
 
 
-<b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20americas/3D/globe_showing_americas_3d.png"> Internet</b>
+<img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20americas/3D/globe_showing_americas_3d.png"> **Internet**
 
 qBittorrent: https://portableapps.com/apps/internet/qbittorrent_portable
 <br>
 URL Disabler: https://www.sordum.org/13075/url-disabler-v1-1
 
 
-<b> Virtual</b>
+**Virtual**
 
 <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"> https://www.virtualbox.org/wiki/Downloads
 <br>
 <img width=20px src="https://cdni.comss.net/logo/sandboxie_icon.png"></img> https://github.com/sandboxie-plus/Sandboxie
 
 
-<b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/1400/1400975.png"> Driver</b>
+<img width=20px src="https://cdn-icons-png.flaticon.com/512/1400/1400975.png"> **Driver**
 
 Snappy Driver Installer: https://sdi-tool.org/download
 <br>
@@ -100,7 +106,7 @@ G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
 
 <h2 align="center">User Tools</h2>
 
-<b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_236.ico"> Media (Photo, Video, Audio)</b>
+<img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_236.ico"> **Media (Photo, Video, Audio)**
 
 PaintNet: https://www.dotpdn.com/downloads/pdn.html
 <br>
@@ -110,7 +116,7 @@ Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-play
 <br>
 Resonic Player: https://resonic.at/download
 
-<b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/7754/7754226.png"> Hash</b>
+<img width=20px src="https://cdn-icons-png.flaticon.com/512/7754/7754226.png"> **Hash**
 
 https://github.com/gurnec/HashCheck
 <br>
@@ -122,7 +128,7 @@ https://github.com/tristanheaven/gtkhash
 <br>
 http://getmd5checker.com
 
-<h3> <img width=20px src="https://site-iota-coral.vercel.app/icon/clipboard.png"> Macros / Text Expander</h3>
+<img width=20px src="https://site-iota-coral.vercel.app/icon/clipboard.png"> **Macros / Text Expander**
 
 [AutoHotKey](https://www.autohotkey.com/)
 <br>
@@ -134,35 +140,34 @@ Does not accept ahk_exe in VSCode (reasons not clear)
 <br>
 Occasional glitches, stores settings in Documents folder
 
-<details><summary><b> <img width=20px src="https://i.imgur.com/vTxqXNZ.png"> Double-click mouse fix</b></summary>
+<img width=20px src="https://i.imgur.com/vTxqXNZ.png"> **Double-click mouse fix**
 
-  ### Проверка
-  https://alexbruni.ru/checkmouse
-  <br>
-  https://codepen.io/blink172/pen/vERyxK
-  <br>
-  ### Исправить
-  https://www.clickfix.cf
+**Check**
+<br>
+https://alexbruni.ru/checkmouse
+<br>
+https://codepen.io/blink172/pen/vERyxK
 
-  https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
-</details>
+**Fix**
+<br>
+https://www.clickfix.cf
+<br>
+https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
 
+<h2 align="center">Win11 Tools</h2>
 
-<details><summary><b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Mobile%20phone/3D/mobile_phone_3d.png"> Win11 APK</b></summary>
+<img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Mobile%20phone/3D/mobile_phone_3d.png"> **Win11 APK**
 
-  APK Installer 1: [An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG)
-  <br>
-  APK Installer 2: [WSATools](https://apps.microsoft.com/store/detail/9N4P75DXL6FG)
-  <br>
-  APK Installer 3: https://github.com/voletro/wsa-toolbox
-  <br>
-  Google Play Installer: https://github.com/ADeltaX/WSAGAScript
-</details>
+APK Installer 1: [An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG)
+<br>
+APK Installer 2: [WSATools](https://apps.microsoft.com/store/detail/9N4P75DXL6FG)
+<br>
+APK Installer 3: https://github.com/voletro/wsa-toolbox
+<br>
+Google Play Installer: https://github.com/ADeltaX/WSAGAScript
 
+<img width=20px src="https://i.imgur.com/Bi8Dvrt.png"> **Compatibility check (Win11)**
 
-<details><summary><b><img width=20px src="https://i.imgur.com/Bi8Dvrt.png"> Compatibility check (Win11)</b></summary>
-
-  https://github.com/rcmaehl/WhyNotWin11
-  <br>
-  https://github.com/mq1n/Win11SysCheck
-</details>
+https://github.com/rcmaehl/WhyNotWin11
+<br>
+https://github.com/mq1n/Win11SysCheck
