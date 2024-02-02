@@ -13,6 +13,8 @@ AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 https://github.com/crazy-max/WindowsSpyBlocker
 <br>
 https://github.com/W4RH4WK/Debloat-Windows-10
+<br>
+https://github.com/builtbybel/Privatezilla
 
 <img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> **Disk**
 
