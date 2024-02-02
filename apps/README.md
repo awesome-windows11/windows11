@@ -8,9 +8,9 @@
 <br>
 <img width=20px src="https://i.imgur.com/J0L0kl3.gif"> Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
 
-<img width=20px src="https://cdn-icons-png.flaticon.com/512/8945/8945503.png"> **Privacy / SpyBlock**
+**Privacy / SpyBlock**
 
-https://github.com/crazy-max/WindowsSpyBlocker
+<img width=20px src="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/.res/logo.png"> https://github.com/crazy-max/WindowsSpyBlocker
 <br>
 https://github.com/W4RH4WK/Debloat-Windows-10
 <br>
