@@ -43,7 +43,7 @@
   <br>
   [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
   <br>
-  <img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> [MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
+  <img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> [MBR to GPT (without data loss)](https://link.storjshare.io/s/jxj5b2zkvwcb2k3wmddev2hxs27a/jestx/MiniTool%20Partition%20Wizard%20Free%20Edition%209.0/)
   <br>
   [Rectify11](https://rectify.vercel.app)
   <br>
