@@ -44,7 +44,7 @@ ClearDiskInfo: https://www.carifred.com/cleardiskinfo
 
 **Uninstaller**
 
-BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
+<img width=20px src="https://i.imgur.com/2o4Wf5V.png"> BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
 <br>
 UninstallTool: https://crystalidea.com/ru/uninstall-tool
 <br>
