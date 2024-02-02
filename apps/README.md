@@ -22,7 +22,7 @@ https://github.com/W4RH4WK/Debloat-Windows-10
 
 <img width=20px src="https://i.imgur.com/x6vIT9f.png"> MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
 <br>
-AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
+<img width=20px src="https://i.imgur.com/y1q7gfv.png"> AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
 
 **SSD Info**
 
