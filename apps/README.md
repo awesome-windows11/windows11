@@ -42,12 +42,14 @@ ClearDiskInfo: https://www.carifred.com/cleardiskinfo
 <br>
 <img width=20px src="https://i.imgur.com/0HQq28C.png"> https://github.com/thebookisclosed/Comet
 
-**Uninstaller**
+**Uninstaller Apps**
 
 <img width=20px src="https://i.imgur.com/2o4Wf5V.png"> BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
 <br>
 <img width=20px src="https://i.imgur.com/vlNtfib.png"> UninstallTool: https://crystalidea.com/ru/uninstall-tool
-<br>
+
+**Unlock File**
+
 https://lockhunter.com
 
 <img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/3D/shield_3d.png"> **Management (Security)**
