@@ -87,9 +87,9 @@ Manager context menu: https://nilesoft.org
 <br>
 https://github.com/builtbybel/ThisIsWin11
 <br>
-☠ OUTDATED! Drag And Drop To Taskbar Fix: https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix
+☠ OUTDATED! https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix
 <br>
-☠ OUTDATED! Windows Thumbnail Generator Folder: https://github.com/hahagu/WindowsThumbnailGenerator
+☠ OUTDATED! https://github.com/hahagu/WindowsThumbnailGenerator
 <br>
 ☠ OUTDATED! Old Start Menu: https://github.com/bbmaster123/10SM
 
