@@ -12,9 +12,9 @@
 
 <img width=20px src="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/.res/logo.png"> https://github.com/crazy-max/WindowsSpyBlocker
 <br>
-https://github.com/W4RH4WK/Debloat-Windows-10
-<br>
 <img width=20px src="https://raw.githubusercontent.com/builtbybel/privatezilla/master/src/Privatezilla/icon.ico"> https://github.com/builtbybel/Privatezilla
+<br>
+https://github.com/W4RH4WK/Debloat-Windows-10
 
 <img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> **Disk**
 
