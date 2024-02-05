@@ -8,6 +8,24 @@
 <br>
 <img width=20px src="https://i.imgur.com/J0L0kl3.gif"> Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
 
+**Cleaner**
+
+<img width=20px src="https://s1.pir.fm/pf/favicons--AwgCBwYOBQc/favicon-32x32.png"> https://www.ccleaner.com/ccleaner
+<br>
+<img width=20px src="https://i.imgur.com/qE3s7cl.png"> https://chemtable.ru/organizer.htm
+<br>
+<img width=20px src="https://i.imgur.com/Nt9Q2Y7.png"> https://www.wisecleaner.com/wise-disk-cleaner.html
+<br>
+<img width=20px src="https://raw.githubusercontent.com/builtbybel/CleanmgrPlus/master/cleanmgr%2B.png"> https://github.com/builtbybel/CleanmgrPlus
+<br>
+<img width=20px src="https://i.imgur.com/0HQq28C.png"> https://github.com/thebookisclosed/Comet
+
+**Uninstaller Apps**
+
+<img width=20px src="https://i.imgur.com/2o4Wf5V.png"> BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
+<br>
+<img width=20px src="https://i.imgur.com/vlNtfib.png"> UninstallTool: https://crystalidea.com/ru/uninstall-tool
+
 **Privacy / SpyBlock**
 
 <img width=20px src="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/.res/logo.png"> https://github.com/crazy-max/WindowsSpyBlocker
@@ -35,24 +53,6 @@ Hard Disk Sentinel: https://www.hdsentinel.com/download.php
 Victoria: https://hdd.by/victoria
 <br>
 ClearDiskInfo: https://www.carifred.com/cleardiskinfo
-
-**Cleaner**
-
-<img width=20px src="https://s1.pir.fm/pf/favicons--AwgCBwYOBQc/favicon-32x32.png"> https://www.ccleaner.com/ccleaner
-<br>
-<img width=20px src="https://i.imgur.com/qE3s7cl.png"> https://chemtable.ru/organizer.htm
-<br>
-<img width=20px src="https://i.imgur.com/Nt9Q2Y7.png"> https://www.wisecleaner.com/wise-disk-cleaner.html
-<br>
-<img width=20px src="https://raw.githubusercontent.com/builtbybel/CleanmgrPlus/master/cleanmgr%2B.png"> https://github.com/builtbybel/CleanmgrPlus
-<br>
-<img width=20px src="https://i.imgur.com/0HQq28C.png"> https://github.com/thebookisclosed/Comet
-
-**Uninstaller Apps**
-
-<img width=20px src="https://i.imgur.com/2o4Wf5V.png"> BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
-<br>
-<img width=20px src="https://i.imgur.com/vlNtfib.png"> UninstallTool: https://crystalidea.com/ru/uninstall-tool
 
 **Unlock File**
 
