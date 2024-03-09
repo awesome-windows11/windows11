@@ -376,8 +376,12 @@ StartMenu Local:
 	
   ```powershell
   rm $Env:USERPROFILE/AppData/Local/Microsoft/Edge
+  # rm $Env:USERPROFILE/AppData/Local/Microsoft/EdgeBho
+  rm $Env:USERPROFILE/AppData/Local/Microsoft/EdgeUpdater
   $TempInstallerPath="$Env:USERPROFILE\AppData\Local\Microsoft"
   New-Item -ItemType File -Path "$TempInstallerPath\Edge"
+  # New-Item -ItemType File -Path "$TempInstallerPath\EdgeBho"
+  New-Item -ItemType File -Path "$TempInstallerPath\EdgeUpdater"
   ```
 
  > ⚠ **This tweak is the most secure and does not break updates**
