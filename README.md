@@ -372,6 +372,13 @@ StartMenu Local:
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/edge.png"></img> Remove / Disable Microsoft Edge</b></summary>
 
+ > ⚠ **This tweak simply disables the ability to create an Edge profile date, which is the safest thing to do!**
+	
+  ```powershell
+  $TempInstallerPath="$Env:USERPROFILE\AppData\Local\Microsoft"
+  New-Item -ItemType File -Path "$TempInstallerPath\Edge"
+  ```
+
  > ⚠ **This tweak is the most secure and does not break updates**
 
   ```powershell
