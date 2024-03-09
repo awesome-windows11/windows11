@@ -375,6 +375,7 @@ StartMenu Local:
  > ⚠ **This tweak simply disables the ability to create an Edge profile date, which is the safest thing to do!**
 	
   ```powershell
+  rm $Env:USERPROFILE/AppData/Local/Microsoft/Edge
   $TempInstallerPath="$Env:USERPROFILE\AppData\Local\Microsoft"
   New-Item -ItemType File -Path "$TempInstallerPath\Edge"
   ```
