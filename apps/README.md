@@ -123,6 +123,8 @@ Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9
 Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
 <br>
 Resonic Player: https://resonic.at/download
+<br>
+Windows Scan (*useful when your printer drivers are not working and old!*) https://apps.microsoft.com/detail/9wzdncrfj3pv?hl=en-US&gl=US
 
 <img width=20px src="https://cdn-icons-png.flaticon.com/512/7754/7754226.png"> **Hash**
 
