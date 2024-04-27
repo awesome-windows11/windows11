@@ -526,7 +526,8 @@ Source: https://kolbi.cz/blog/2019/01/27/register-a-portable-browser-and-make-it
   # Disable AutoUpdate (MAIN FUNCTION!)
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v NoAutoUpdate /t REG_DWORD /d 1 /f
   # Enable Notification Update (requires clarification!)
-  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v AUOptions /t REG_DWORD /d 2 /f
+  # https://learn.microsoft.com/en-us/windows/deployment/update/waas-wu-settings
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v AUOptions /t REG_DWORD /d 1 /f
   # Scheduled Every Day (only AUOptions = 4!)
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v ScheduledInstallDay /t REG_DWORD /d 0 /f
   # Scheduled Time Hour (0 -> 23)
