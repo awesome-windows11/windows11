@@ -47,7 +47,7 @@ https://github.com/simeononsecurity/Windows-Defender-Application-Control-Hardeni
 
 https://github.com/DavidXanatos/wumgr
 <br>
-https://github.com/WereDev/Wu10Man
+Disabling all windows update services: https://github.com/WereDev/Wu10Man
 
 ### <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/store.png"> Microsoft Store Apps</h3>
 
