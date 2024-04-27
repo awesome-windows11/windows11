@@ -519,19 +519,19 @@ Source: https://kolbi.cz/blog/2019/01/27/register-a-portable-browser-and-make-it
   > ⚠ **Install before use [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
   
   ```powershell
-  # "Disable OS Upgrade"
+  # Disable system upgrades to new versions (e.g. 22H2)
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v DisableOSUpgrade /t REG_DWORD /d 1 /f
-  # "Disable Scanning, Downloading and Installing Updates"
+  # Remove access to use all Windows Update features (disable Scanning, Downloading and Installing)
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v SetDisableUXWUAccess /t REG_DWORD /d 1 /f
-  # "Disable AutoUpdate"
+  # Disable AutoUpdate (MAIN FUNCTION!)
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v NoAutoUpdate /t REG_DWORD /d 1 /f
-  # "Enable NotificationUpdate"
+  # Enable Notification Update (requires clarification!)
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v AUOptions /t REG_DWORD /d 2 /f
-  # "Scheduled Every Day (AUOptions = 4!)"
+  # Scheduled Every Day (only AUOptions = 4!)
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v ScheduledInstallDay /t REG_DWORD /d 0 /f
-  # "Scheduled Time Hour (0 -> 23)"
+  # Scheduled Time Hour (0 -> 23)
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v ScheduledInstallTime /t REG_DWORD /d 3 /f
-  # "Disable AutoInstall Drivers"
+  # Disable AutoInstall Drivers
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching" /v SearchOrderConfig /t REG_DWORD /d 0 /f
   pause
   ```
