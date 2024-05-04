@@ -2,14 +2,12 @@
 
 <h2 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16.ico"> System Tools</h2>
 
-**AutoRun**
-
+### AutoRun
 <img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_25.ico"> AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 <br>
 <img width=20px src="https://i.imgur.com/J0L0kl3.gif"> Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
 
-**Cleaner**
-
+### Cleaner
 <img width=20px src="https://s1.pir.fm/pf/favicons--AwgCBwYOBQc/favicon-32x32.png"> https://www.ccleaner.com/ccleaner
 <br>
 <img width=20px src="https://i.imgur.com/qE3s7cl.png"> https://chemtable.ru/organizer.htm
@@ -20,28 +18,24 @@
 <br>
 <img width=20px src="https://i.imgur.com/0HQq28C.png"> https://github.com/thebookisclosed/Comet
 
-**Uninstaller Apps**
-
+### Uninstaller
 <img width=20px src="https://i.imgur.com/2o4Wf5V.png"> BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
 <br>
 <img width=20px src="https://i.imgur.com/vlNtfib.png"> UninstallTool: https://crystalidea.com/ru/uninstall-tool
 
-**Privacy / SpyBlock**
-
+### Privacy / SpyBlock
 <img width=20px src="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/.res/logo.png"> https://github.com/crazy-max/WindowsSpyBlocker
 <br>
 <img width=20px src="https://raw.githubusercontent.com/builtbybel/privatezilla/master/src/Privatezilla/icon.ico"> https://github.com/builtbybel/Privatezilla
 <br>
 https://github.com/W4RH4WK/Debloat-Windows-10
 
-**Manager Partition**
-
+### Manager Partition
 <img width=20px src="https://i.imgur.com/x6vIT9f.png"> MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
 <br>
 <img width=20px src="https://i.imgur.com/y1q7gfv.png"> AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
 
-**SSD Info**
-
+### SSD Info
 CrystalDiskInfo: https://crystalmark.info/en/download/#CrystalDiskInfo
 <br>
 CrystalDiskMark: https://crystalmark.info/en/download/#CrystalDiskMark
@@ -54,12 +48,10 @@ Victoria: https://hdd.by/victoria
 <br>
 ClearDiskInfo: https://www.carifred.com/cleardiskinfo
 
-**Unlock File**
-
+### Unlock File
 https://lockhunter.com
 
-<img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/3D/shield_3d.png"> **Management (Security)**
-
+### <img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/3D/shield_3d.png"> Management (Security)
 https://defaultprogramseditor.com
 <br>
 <img width=20px src="https://raw.githubusercontent.com/SiL3NC3/PortableRegistrator/master/Resources/Wallpaperfx-3d-Bluefx-Desktop-Usb.png"> https://github.com/SiL3NC3/PortableRegistrator
@@ -68,29 +60,24 @@ SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
 <br>
 Compressor CompactOS: https://github.com/IridiumIO/CompactGUI
 
-
-<img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20americas/3D/globe_showing_americas_3d.png"> **Internet**
-
+### <img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20americas/3D/globe_showing_americas_3d.png"> Internet
 qBittorrent: https://portableapps.com/apps/internet/qbittorrent_portable
 <br>
 URL Disabler: https://www.sordum.org/13075/url-disabler-v1-1
 
 
-**Virtual**
-
+### Virtual
 <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"> https://www.virtualbox.org/wiki/Downloads
 <br>
 <img width=20px src="https://cdni.comss.net/logo/sandboxie_icon.png"></img> https://github.com/sandboxie-plus/Sandboxie
 
 
-<img width=20px src="https://cdn-icons-png.flaticon.com/512/1400/1400975.png"> **Driver**
-
+### <img width=20px src="https://cdn-icons-png.flaticon.com/512/1400/1400975.png"> Driver
 Snappy Driver Installer: https://sdi-tool.org/download
 <br>
 G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
 
 ### Files
-
 Virtual Files System: https://github.com/dokan-dev/dokany
 
 <details><summary><b>Activators</b></summary>
