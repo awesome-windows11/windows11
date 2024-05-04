@@ -89,6 +89,9 @@ Snappy Driver Installer: https://sdi-tool.org/download
 <br>
 G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
 
+### Files
+
+Virtual Files System: https://github.com/dokan-dev/dokany
 
 <details><summary><b>Activators</b></summary>
 
