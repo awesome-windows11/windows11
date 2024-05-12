@@ -19,7 +19,7 @@
 <img width=20px src="https://i.imgur.com/0HQq28C.png"> https://github.com/thebookisclosed/Comet
 
 ### Files
-https://diskanalyzer.com/download
+<img width=20px src="https://i.imgur.com/gahQIjW.png"> https://diskanalyzer.com/download
 
 ### Uninstaller
 <img width=20px src="https://i.imgur.com/2o4Wf5V.png"> BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
