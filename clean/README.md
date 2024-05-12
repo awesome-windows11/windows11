@@ -1,3 +1,5 @@
+We welcome you to the cleaning section. Tired of using automatic programs? We will teach you how to clean your system safely, quickly and by yourself!
+
 ### Old script:
 
 ```cmd
