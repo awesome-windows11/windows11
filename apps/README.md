@@ -51,6 +51,8 @@ Victoria: https://hdd.by/victoria
 <br>
 ClearDiskInfo: https://www.carifred.com/cleardiskinfo
 
+Samsung: https://semiconductor.samsung.com/consumer-storage/support/tools/
+<br>
 Western Digital: https://support-en.wd.com/app/products/downloads/softwaredownloads
 
 ### Unlock File
