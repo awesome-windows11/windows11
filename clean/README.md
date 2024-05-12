@@ -1,5 +1,7 @@
 We welcome you to the cleaning section. Tired of using automatic programs? We will teach you how to clean your system safely, quickly and by yourself!
 
+### <h3 align="center">🧹 Clean Windows</h3>
+
 ### Old script:
 
 ```cmd
