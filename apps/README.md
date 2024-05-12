@@ -51,6 +51,8 @@ Victoria: https://hdd.by/victoria
 <br>
 ClearDiskInfo: https://www.carifred.com/cleardiskinfo
 
+Western Digital: https://support-en.wd.com/app/products/downloads/softwaredownloads
+
 ### Unlock File
 https://lockhunter.com
 
