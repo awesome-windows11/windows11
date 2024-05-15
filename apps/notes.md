@@ -4,6 +4,7 @@
 
 ## Based on the notes (database, Zettelkasten)
 ### obsidian.md
+### anytype (partially)
 
 ## Based on blocks
 ### logseq
