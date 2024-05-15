@@ -9,5 +9,9 @@
 ## Based on blocks
 ### logseq
 
+## Based on board
+### miro.com
+### affine.pro
+
 ## Anytype
 Amazing app combining: Notion pages and databases + Obsidian notes
