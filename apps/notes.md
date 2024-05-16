@@ -18,3 +18,6 @@ https://noteapps.info
 
 ## Anytype
 Amazing app combining: Notion pages and databases + Obsidian notes
+
+## Presentation pages
+### craft.do
