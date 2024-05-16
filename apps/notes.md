@@ -1,9 +1,9 @@
-## Based on the pages / block / paragraph
+## Based on the test / pages / block / paragraph
 ### notion.so
 ### anytype (partially)
 ### coda.io
 
-## Based on the notes (database, Zettelkasten)
+## Based on the text / notes (database, Zettelkasten)
 ### obsidian.md
 
 ## Based on blocks
