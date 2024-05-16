@@ -9,7 +9,7 @@
 ## Based on blocks
 ### logseq
 
-## Based on board
+## Based on board / canvas
 ### miro.com
 ### affine.pro
 
