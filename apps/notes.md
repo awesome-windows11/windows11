@@ -12,6 +12,7 @@
 ## Based on board / canvas
 ### miro.com
 ### affine.pro
+### obsidian.md (partially)
 
 ## Anytype
 Amazing app combining: Notion pages and databases + Obsidian notes
