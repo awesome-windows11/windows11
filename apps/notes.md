@@ -1,10 +1,10 @@
-## Based on the pages
+## Based on the pages / block / paragraph
 ### notion.so
+### anytype (partially)
 ### coda.io
 
 ## Based on the notes (database, Zettelkasten)
 ### obsidian.md
-### anytype (partially)
 
 ## Based on blocks
 ### logseq
