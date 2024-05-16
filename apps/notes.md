@@ -3,6 +3,7 @@ https://noteapps.info
 ### notion.so
 ### anytype (partially)
 ### coda.io
+### siyuan.note
 
 ## Based on the text / notes (database, Zettelkasten)
 ### obsidian.md
