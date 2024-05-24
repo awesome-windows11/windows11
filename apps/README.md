@@ -20,6 +20,8 @@
 
 ### Files
 <img width=20px src="https://i.imgur.com/gahQIjW.png"> https://diskanalyzer.com/download
+<br>
+https://www.ntwind.com/software/visual-subst.html
 
 ### Uninstaller
 <img width=20px src="https://i.imgur.com/2o4Wf5V.png"> BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
