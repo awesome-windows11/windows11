@@ -737,3 +737,6 @@ Source: https://kolbi.cz/blog/2019/01/27/register-a-portable-browser-and-make-it
 ### <h1 align="center">Stats</h1>
 
 [![Stargazers over time](https://starchart.cc/awesome-windows11/windows11.svg)](https://starchart.cc/awesome-windows11/windows11)
+
+
+<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=55314&s=1' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">Free Website Counter</a></small></div>
