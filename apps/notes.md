@@ -1,23 +1,23 @@
 https://noteapps.info
 ## Based on the test / pages / block / paragraph
-### notion.so
-### anytype (partially)
-### coda.io
-### siyuan.note
+### Notion.so
+### AnyType (partially)
+### Coda.io
+### Siyuan.note
 
 ## Based on the text / notes (database, Zettelkasten)
-### obsidian.md
+### Obsidian.md
 
 ## Based on blocks
-### logseq
+### Logseq
 
 ## Based on board / canvas
-### miro.com
-### affine.pro
-### obsidian.md (partially)
+### Miro.com
+### Affine.pro
+### Obsidian.md (partially)
 
-## Anytype
+## AnyType
 Amazing app combining: Notion pages and databases + Obsidian notes
 
 ## Presentation pages
-### craft.do
+### Craft.do
