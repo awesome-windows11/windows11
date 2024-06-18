@@ -2,7 +2,7 @@
 
 <h3 align="center"> <a href="https://github.com/awesome-windows11/windows11/blob/main/README.md"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/apps"> <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps</a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/faq"> ❓ FAQ</a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/iso"> <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</a></h3>
 
-First help for setup, tweaks and ISO images
+🪟 First help for setup, tweaks and ISO images
 
 Our mission is to show that it is possible to configure Windows without using third-party programs, just learn a few simple tweakers.
 <br>This way you can forget about extraneous cleaning tools with closed source code. All our scripts are written in the standard "PS1" language and you can always check them or change them to suit your needs. 
