@@ -125,7 +125,7 @@ Virtual Files System: https://github.com/dokan-dev/dokany
 <br>
 <img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/mpc-hc.png"> https://github.com/clsid2/mpc-hc
 <br>
-<img width=20px src"https://raw.githubusercontent.com/awesome-icons/icons/main/resonicplayer.png"> https://resonic.at/download
+<img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/resonicplayer.png"> https://resonic.at/download
 <br>
 Windows Scan (*useful when your printer drivers are not working and old!*) https://apps.microsoft.com/detail/9wzdncrfj3pv?hl=en-US&gl=US
 
