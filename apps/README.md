@@ -119,7 +119,7 @@ Virtual Files System: https://github.com/dokan-dev/dokany
 <br>
 <img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/ogg.png"> https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
 <br>
-https://github.com/Xanashi/Icaros
+<img width=20px src="https://raw.githubusercontent.com/Xanashi/Icaros/master/IcarosIcon_128.png"> https://github.com/Xanashi/Icaros
 <br>
 Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
 <br>
