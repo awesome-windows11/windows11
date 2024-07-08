@@ -76,7 +76,6 @@ qBittorrent: https://portableapps.com/apps/internet/qbittorrent_portable
 <br>
 URL Disabler: https://www.sordum.org/13075/url-disabler-v1-1
 
-
 ### Virtual
 <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"> https://www.virtualbox.org/wiki/Downloads
 <br>
@@ -93,7 +92,7 @@ Virtual Files System: https://github.com/dokan-dev/dokany
 
 <details><summary><b>Activators</b></summary>
 
-  ### <a target="_blank" href="https://github.com/awesome-windows11/windows11/releases/tag/99">🔓 Activator by Ratiborus</a>
+### <a target="_blank" href="https://github.com/awesome-windows11/windows11/releases/tag/99">🔓 Activator by Ratiborus</a>
 
   https://github.com/massgravel/Microsoft-Activation-Scripts
 	
