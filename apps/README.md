@@ -38,9 +38,9 @@ https://www.ntwind.com/software/visual-subst.html
 https://github.com/W4RH4WK/Debloat-Windows-10
 
 ### Manager Partition
-<img width=20px src="https://i.imgur.com/x6vIT9f.png"> MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
+<img width=20px src="https://i.imgur.com/x6vIT9f.png"> https://www.partitionwizard.com/free-partition-manager.html
 <br>
-<img width=20px src="https://i.imgur.com/y1q7gfv.png"> AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
+<img width=20px src="https://i.imgur.com/y1q7gfv.png"> https://www.diskpart.com/free-partition-manager.html
 
 ### SSD Info
 CrystalDiskInfo: https://crystalmark.info/en/download/#CrystalDiskInfo
