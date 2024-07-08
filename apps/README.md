@@ -26,9 +26,9 @@ https://www.voidtools.com/downloads/
 https://www.ntwind.com/software/visual-subst.html
 
 ### Uninstaller
-<img width=20px src="https://i.imgur.com/2o4Wf5V.png"> BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
+<img width=20px src="https://i.imgur.com/2o4Wf5V.png"> https://github.com/Klocman/Bulk-Crap-Uninstaller
 <br>
-<img width=20px src="https://i.imgur.com/vlNtfib.png"> UninstallTool: https://crystalidea.com/ru/uninstall-tool
+<img width=20px src="https://i.imgur.com/vlNtfib.png"> https://crystalidea.com/ru/uninstall-tool
 
 ### Privacy / SpyBlock
 <img width=20px src="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/.res/logo.png"> https://github.com/crazy-max/WindowsSpyBlocker
