@@ -3,9 +3,9 @@
 <h2 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16.ico"> System Tools</h2>
 
 ### AutoRun
-<img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_25.ico"> AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
+<img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_25.ico"> https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 <br>
-<img width=20px src="https://i.imgur.com/J0L0kl3.gif"> Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
+<img width=20px src="https://i.imgur.com/J0L0kl3.gif"> https://www.nirsoft.net/utils/what_run_in_startup.html
 
 ### Cleaner
 <img width=20px src="https://s1.pir.fm/pf/favicons--AwgCBwYOBQc/favicon-32x32.png"> https://www.ccleaner.com/ccleaner
