@@ -115,9 +115,9 @@ Virtual Files System: https://github.com/dokan-dev/dokany
 
 <h2 align="center">User Tools</h2>
 
-<img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_236.ico"> **Media (Photo, Video, Audio)**
+### Media (Photo, Video, Audio)
 
-PaintNet: https://www.dotpdn.com/downloads/pdn.html
+<img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/paintnet.webp"> PaintNet: https://www.dotpdn.com/downloads/pdn.html
 <br>
 Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
 <br>
@@ -125,7 +125,7 @@ https://github.com/Xanashi/Icaros
 <br>
 Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
 <br>
-https://github.com/clsid2/mpc-hc
+<img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/mpc-hc.png"> https://github.com/clsid2/mpc-hc
 <br>
 Resonic Player: https://resonic.at/download
 <br>
