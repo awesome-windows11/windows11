@@ -117,7 +117,7 @@ Virtual Files System: https://github.com/dokan-dev/dokany
 
 <img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/paintnet.webp"> https://www.dotpdn.com/downloads/pdn.html
 <br>
-Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
+<img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/ogg.png"> https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
 <br>
 https://github.com/Xanashi/Icaros
 <br>
