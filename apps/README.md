@@ -129,6 +129,8 @@ Virtual Files System: https://github.com/dokan-dev/dokany
 <img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/resonicplayer.png"> https://resonic.at/download
 <br>
 Windows Scan (*useful when your printer drivers are not working and old!*) https://apps.microsoft.com/detail/9wzdncrfj3pv?hl=en-US&gl=US
+<br>
+MFPlat.dll & MFReadWrite.dll Media Feature Pack for N Version (an error occurs during installation LgHub)
 
 <img width=20px src="https://cdn-icons-png.flaticon.com/512/7754/7754226.png"> **Hash**
 
