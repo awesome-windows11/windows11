@@ -124,7 +124,7 @@ Virtual Files System: https://github.com/dokan-dev/dokany
 <br>
 <img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/mediaplayer.png"> https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
 <br>
-<img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/mpc-hc.png"> https://github.com/clsid2/mpc-hc
+<img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/mpc-hc.png"> https://github.com/Aleksoid1978/MPC-BE (_MPC-HC does not work with Cryptomator!_)
 <br>
 <img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/resonicplayer.png"> https://resonic.at/download
 <br>
