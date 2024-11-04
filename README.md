@@ -30,8 +30,7 @@ Check system file: https://winbindex.m417z.com
 <img width=20px src="https://i.ibb.co/X3951pZ/Face.png"> Microsoft Emoji: https://github.com/microsoft/fluentui-emoji
 <br>
 https://github.com/farag2/Utilities
-<br>
-https://github.com/farag2/Sophia-Script-for-Windows
+
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
 
@@ -70,6 +69,8 @@ https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
 https://github.com/simeononsecurity/Windows-Optimize-Debloat
 <br>
 https://github.com/ChrisTitusTech/winutil
+<br>
+https://github.com/farag2/Sophia-Script-for-Windows
 
 ### <h3 align="center">🛠 Tweaks (Win11)</h3>
 
