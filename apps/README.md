@@ -96,9 +96,11 @@ Virtual Files System: https://github.com/dokan-dev/dokany
 
 ### <a target="_blank" href="https://github.com/awesome-windows11/windows11/releases/tag/99">🔓 Activator by Ratiborus</a>
 
-  https://github.com/massgravel/Microsoft-Activation-Scripts
+https://github.com/massgravel/Microsoft-Activation-Scripts
 	
-  https://github.com/newmen93/W10-Digital-License-Activation-Script-4
+https://github.com/newmen93/W10-Digital-License-Activation-Script-4
+
+https://github.com/abbodi1406/KMS_VL_ALL_AIO
 
   В AAct все операции с активацией, с лицензиями, выполняются с помощью стандартных скриптов slmgr.vbs и ospp.vbs, уж их то даже самый ненормальный антивирусник не заподозрит в "троянстве".
 
