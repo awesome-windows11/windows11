@@ -81,7 +81,7 @@ Manager context menu: <https://nilesoft.org>
 <br>
 ☠ OUTDATED! Old Start Menu: <https://github.com/bbmaster123/10SM>
 <br>
-<https://github.com/Sycnex/Windows10Debloater>
+🗄️ ARCHIVED! <https://github.com/Sycnex/Windows10Debloater>
 <br>
 <https://github.com/Fs00/Win10BloatRemover>
 <br>
