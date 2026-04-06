@@ -59,6 +59,8 @@ Disabling all windows update services: <https://github.com/WereDev/Wu10Man>
 
 Custom Context Menu: <https://github.com/ikas-mc/ContextMenuForWindows11>
 <br>
+RunOnce (Execute LLM code from Context Menu): <https://github.com/Water-Run/RunOnce>
+<br>
 Windows Fixer: <https://github.com/99natmar99/Windows-11-Fixer>
 <br>
 Explorer Patcher (Old TaskBar): <https://github.com/valinet/ExplorerPatcher>
